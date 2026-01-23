@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T19:27:02.333102+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-01-23T20:58:20.090989+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 116,
+      "match_count": 117,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -173,6 +173,20 @@
         },
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时58分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
           "url": "https://news.ifeng.com/c/8q9KkztYYLL",
           "source": "凤凰网",
           "ranks": [
@@ -180,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 20时58分]"
         },
         {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
@@ -210,17 +224,15 @@
           "time_info": "[00时41分 ~ 07时27分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -245,17 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 01时35分]"
-        },
-        {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -297,13 +298,25 @@
           "time_info": "[16时37分 ~ 17时36分]"
         },
         {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
           "title": "据CNN：民主党参议员对与小特朗普相关的美国国防部合同提出警示。",
           "url": "https://flash.jin10.com/detail/20260123190836226800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -328,6 +341,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时58分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时58分]"
+        },
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
@@ -372,20 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
@@ -486,6 +522,19 @@
           "time_info": "[03时29分 ~ 04时35分]"
         },
         {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
           "title": "马克龙戴着墨镜警告特朗普",
           "url": "https://www.toutiao.com/trending/7597330066661703723/",
           "source": "今日头条",
@@ -509,29 +558,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时37分 ~ 18时31分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时27分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -570,17 +596,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 01时35分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "特朗普起诉摩根大通因政治原因关闭其账户 索赔50亿美元",
@@ -1352,7 +1367,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1428,17 +1443,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3042893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260123050514385800",
           "source": "金十数据",
@@ -1459,6 +1463,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时58分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -1518,6 +1534,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
           "url": "https://flash.jin10.com/detail/20260123062128122800",
           "source": "金十数据",
@@ -1527,6 +1554,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AMD美股盘前涨超3%。中国数据中心及云计算公司ADR同步走高，世纪互联涨5.7%、万国数据涨7.4%、金山云涨6.1%。",
+          "url": "https://wallstreetcn.com/livenews/3042920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "网络股指数ETF收涨1.9%，领跑美股行业ETF",
@@ -1571,6 +1620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美银：特朗普关税威胁下美股资金流出170亿美元 欧洲、日本获强势流入",
+          "url": "https://wallstreetcn.com/livenews/3042905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
@@ -1633,8 +1693,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 20时58分]"
         },
         {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
@@ -1851,11 +1911,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时58分]"
         }
       ]
     }
