@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:56:08.292771+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-01-28T22:40:03.795535+08:00",
+  "total_titles_processed": 2058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -19,6 +19,18 @@
           "time_info": "[10时07分 ~ 17时40分]"
         },
         {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时34分 ~ 22时40分]"
+        },
+        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -30,20 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 21时56分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 21时56分]"
+          "appearance_count": 17,
+          "time_info": "[10时07分 ~ 22时40分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -88,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 22时40分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时40分]"
         },
         {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
@@ -151,6 +163,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "巴克莱：受特朗普支持美元走弱的政策推动，投资者对持有美元的额外回报需求正在增长。",
+          "url": "https://flash.jin10.com/detail/20260128221221657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -171,28 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://wallstreetcn.com/livenews/3045623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
-          "url": "https://flash.jin10.com/detail/20260128214203738800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -268,6 +269,18 @@
           "time_info": "[03时31分 ~ 04时30分]"
         },
         {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时40分]"
+        },
+        {
           "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
@@ -278,6 +291,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
+          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
+          "url": "https://flash.jin10.com/detail/20260128214203738800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时40分]"
         },
         {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
@@ -341,17 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -639,7 +653,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -694,7 +708,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1010,7 +1024,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1035,6 +1049,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 15时32分]"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 22时40分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1081,17 +1108,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
           "url": "https://flash.jin10.com/detail/20260128050333486800",
           "source": "金十数据",
@@ -1126,16 +1142,16 @@
           "time_info": "[19时28分 ~ 21时01分]"
         },
         {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
+          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045621",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 21时56分]"
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时40分]"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -1174,6 +1190,29 @@
           "time_info": "[21时01分 ~ 21时56分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128213140703800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时40分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时40分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -1197,17 +1236,6 @@
           "time_info": "17时40分"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128213140703800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "康宁四季度核心销售额为44.1亿美元，预估43.6亿美元。 四季度核心每股收益0.72美元，预估0.7美元。 康宁预计第一季度核心销售额为42亿至43亿美元，市场预估42.5亿美元。 康宁预计第一季度核心每股收益0.66-0.7美元，市场预估67美元。 康宁美股盘前涨幅收窄至2%，此前一度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3045580",
           "source": "华尔街见闻-快讯",
@@ -1225,7 +1253,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1258,7 +1286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1272,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3045636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
@@ -1332,7 +1371,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -1344,8 +1383,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 21时56分]"
+          "appearance_count": 17,
+          "time_info": "[10时07分 ~ 22时40分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -1459,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
+          "url": "https://wallstreetcn.com/livenews/3045639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）提出一系列措施，以改善谷歌在英国的搜索服务。",
