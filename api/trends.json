@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T18:42:38.910684+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-01-29T19:35:55.139355+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -121,8 +121,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 19时35分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -237,6 +237,19 @@
           "time_info": "[00时44分 ~ 01时37分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -249,16 +262,15 @@
           "time_info": "[10时28分 ~ 12时42分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时42分]"
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时35分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -368,17 +380,6 @@
           "time_info": "[01时37分 ~ 02时44分]"
         },
         {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
           "url": "https://wallstreetcn.com/livenews/3045766",
           "source": "华尔街见闻-快讯",
@@ -473,7 +474,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -517,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -550,7 +551,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -624,7 +625,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -692,7 +693,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -706,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
@@ -847,7 +859,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -901,11 +913,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 19时35分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -922,7 +935,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
@@ -945,12 +958,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国10年期国债收益率短线波动超1个基点，刷新日高至4.26%上方，两年期美债收益率短线波动超1.5个基点，刷新日高至3.59%上方。标普和道指跌幅略微扩大至超过0.1%，现货黄金持稳于5270美元一线，涨幅超过1.7%。 MSCI新兴市场汇率指数、股票指数双双持稳。",
@@ -973,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
