@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T16:38:56.455976+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-01-30T17:38:42.436166+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 17时38分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -30,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 17时38分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -48,15 +59,16 @@
           "time_info": "[00时51分 ~ 12时45分]"
         },
         {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
           "source": "凤凰网",
           "ranks": [
-            7
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -75,17 +87,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -169,6 +170,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时33分 ~ 12时45分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 17时38分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -318,18 +332,6 @@
           "time_info": "[03时34分 ~ 04时37分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 16时38分]"
-        },
-        {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
           "url": "https://wallstreetcn.com/livenews/3046644",
           "source": "华尔街见闻-快讯",
@@ -402,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时32分]"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时38分]"
         },
         {
           "title": "特朗普回应开会睡觉",
@@ -628,17 +642,6 @@
           "time_info": "[10时28分 ~ 10时29分]"
         },
         {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -670,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普将公布美联储下任主席提名",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%85%AC%E5%B8%83%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -953,7 +967,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1049,7 +1063,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1059,8 +1073,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 17时38分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -1242,6 +1256,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美股盘前：闪迪涨约21%，黄金股大跌",
+          "url": "https://wallstreetcn.com/livenews/3047198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "美股金矿股盘前下跌，纽曼矿业(NEM.N)跌7.1%，Sibanye-Stillwater(SBSW.N)跌8%，巴里克黄金(GOLD.N)跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260130170900682800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
