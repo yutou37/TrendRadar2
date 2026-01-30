@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T06:26:02.572187+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-01-31T07:25:43.373639+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -79,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -92,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -104,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "俄方：普京收到了特朗普的请求",
@@ -116,11 +116,12 @@
             13,
             25,
             16,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -131,8 +132,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
@@ -143,8 +144,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -154,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 07时25分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -192,6 +193,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
+          "url": "https://wallstreetcn.com/livenews/3047605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美国总统特朗普：庞大的舰队正驶向伊朗，规模甚至超过前往委内瑞拉的。",
           "url": "https://flash.jin10.com/detail/20260131010332215800",
           "source": "金十数据",
@@ -201,6 +213,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260131025000000800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时25分]"
         },
         {
           "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
@@ -214,6 +238,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时32分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普：已告知伊朗达成协议的最后期限",
+          "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时28分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
@@ -252,29 +287,6 @@
           "time_info": "[05时28分 ~ 06时26分]"
         },
         {
-          "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
-          "url": "https://flash.jin10.com/detail/20260131025000000800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普：已告知伊朗达成协议的最后期限",
-          "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 06时26分]"
-        },
-        {
           "title": "特朗普称希望与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3047551",
           "source": "华尔街见闻-快讯",
@@ -286,6 +298,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时32分 ~ 05时28分]"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
@@ -327,16 +351,16 @@
           "time_info": "[03时32分 ~ 05时28分]"
         },
         {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
+          "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
+          "url": "https://wallstreetcn.com/livenews/3047587",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "特朗普：希望与伊朗达成协议",
@@ -383,24 +407,13 @@
           "time_info": "02时41分"
         },
         {
-          "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
-          "url": "https://wallstreetcn.com/livenews/3047587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "美国总统特朗普将提名Brett Matsumoto担任劳工部下辖劳工统计局（BLS）的局长。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3047582",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -447,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "掌管非农等关键数据的发布，特朗普拟提名Matsumoto担任BLS局长",
+          "url": "https://wallstreetcn.com/livenews/3047582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "特朗普：要求沃什降息可能不太合适，沃什想要降息",
@@ -506,8 +530,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -518,8 +542,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -537,33 +561,36 @@
           "url": "https://wallstreetcn.com/livenews/3047594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "半导体ETF收跌约3.4%，领跌美股行业ETF，1月份能源业ETF涨约14.2%、半导体ETF涨12%紧随其后",
           "url": "https://wallstreetcn.com/livenews/3047588",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，1月份累计下跌0.27%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌0.75%。",
           "url": "https://wallstreetcn.com/livenews/3047586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         }
       ]
     },
@@ -580,8 +607,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时25分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
@@ -631,11 +658,12 @@
           "url": "https://wallstreetcn.com/livenews/3047589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美元指数创2025年5月份以来最大单日涨幅，1月份仍然累跌约1.3%",
@@ -644,7 +672,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
