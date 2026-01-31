@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T01:24:00.486506+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-02-01T02:31:44.969503+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -110,8 +121,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -121,8 +132,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -132,8 +143,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -143,8 +154,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     },
@@ -161,8 +172,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     },
@@ -178,8 +189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     }
