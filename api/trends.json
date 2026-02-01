@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T17:31:39.268467+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-01T18:25:28.402431+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 17时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -94,6 +94,19 @@
           "time_info": "[02时31分 ~ 10时13分]"
         },
         {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 18时25分]"
+        },
+        {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
           "url": "https://www.cls.cn/detail/2276051",
           "source": "财联社热门",
@@ -105,19 +118,6 @@
           "time_info": "[00时28分 ~ 01时24分]"
         },
         {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://wallstreetcn.com/livenews/3047762",
           "source": "华尔街见闻-快讯",
@@ -125,11 +125,12 @@
             1,
             4,
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
@@ -144,6 +145,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时22分 ~ 14时04分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -263,6 +275,30 @@
           "time_info": "[10时13分 ~ 15时37分]"
         },
         {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
           "url": "https://flash.jin10.com/detail/20260201145753233800",
           "source": "金十数据",
@@ -273,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 16时32分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -311,18 +358,6 @@
           "time_info": "[13时01分 ~ 14时04分]"
         },
         {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
           "url": "https://flash.jin10.com/detail/20260201102818944800",
           "source": "金十数据",
@@ -335,26 +370,15 @@
           "time_info": "[13时01分 ~ 14时04分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时31分]"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
+          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
+          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -437,7 +461,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -508,6 +532,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时25分 ~ 10时13分]"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
