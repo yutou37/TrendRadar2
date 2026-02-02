@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T14:05:20.708099+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-02-02T15:50:06.815060+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -84,6 +84,18 @@
           "time_info": "[00时29分 ~ 07时25分]"
         },
         {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 15时50分]"
+        },
+        {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
@@ -95,16 +107,40 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
           "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 15时50分]"
+        },
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时57分 ~ 14时05分]"
+          "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 15时50分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -170,18 +206,6 @@
           "time_info": "[05时23分 ~ 07时25分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 14时05分]"
-        },
-        {
           "title": "特朗普称希望与伊朗“能够达成协议”",
           "url": "https://flash.jin10.com/detail/20260202040920171800",
           "source": "金十数据",
@@ -215,18 +239,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 14时05分]"
         },
         {
           "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
@@ -314,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -370,11 +382,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 14时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时50分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -404,8 +417,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 14时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 15时50分]"
         }
       ]
     },
