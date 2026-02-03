@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:41:11.920345+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-02-03T18:39:59.646686+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -34,6 +34,17 @@
           "time_info": "[10时03分 ~ 16时36分]"
         },
         {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时39分]"
+        },
+        {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
@@ -52,22 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 17时41分]"
-        },
-        {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时39分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -75,11 +76,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 18时39分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -324,7 +326,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -338,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203180904102800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
@@ -497,8 +510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -579,11 +592,12 @@
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时39分]"
         },
         {
           "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
@@ -592,7 +606,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -766,8 +780,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时39分]"
         }
       ]
     },
@@ -799,7 +813,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
