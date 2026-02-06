@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:42:57.565032+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-06T18:39:25.979766+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 18时39分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 18时39分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -65,8 +65,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时39分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206180327794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -248,6 +259,18 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "特朗普转发李小龙武打视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时39分]"
+        },
+        {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
           "url": "https://flash.jin10.com/detail/20260206033919812800",
           "source": "金十数据",
@@ -306,6 +329,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "特朗普力挺高市，金融市场怎么看？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260206175033829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -348,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普转发李小龙武打视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
@@ -411,7 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -477,7 +500,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -491,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -518,7 +552,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -539,8 +573,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 18时39分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -613,6 +647,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013123695800",
           "source": "金十数据",
@@ -622,17 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
-          "url": "https://wallstreetcn.com/livenews/3051294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -657,6 +691,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时39分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -727,6 +773,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
+          "url": "https://flash.jin10.com/detail/20260206173458950800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3051309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
@@ -857,8 +925,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 18时39分]"
         }
       ]
     },
@@ -914,8 +982,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 17时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 18时39分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
