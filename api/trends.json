@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:33:52.173131+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-02-06T20:58:09.610434+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 20时58分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -31,8 +31,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 20时58分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时58分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时23分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时33分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -149,6 +149,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时33分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时58分]"
         },
         {
           "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
@@ -271,6 +284,17 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普转发李小龙武打视频",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -317,18 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "外交部回应特朗普支持高市赢得大选",
@@ -554,8 +566,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 20时58分]"
+        },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
           "url": "https://wallstreetcn.com/articles/3765023",
@@ -566,17 +589,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 06时27分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 19时33分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -646,8 +658,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时58分]"
         },
         {
           "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
@@ -656,7 +668,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -732,6 +744,18 @@
           "time_info": "[12时21分 ~ 14时54分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时58分]"
+        },
+        {
           "title": "美股、金银、比特币、石油 全崩了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
@@ -778,15 +802,15 @@
           "time_info": "06时27分"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
+          "title": "分析师：美股在经历艰难的几天后有望小幅回升",
+          "url": "https://flash.jin10.com/detail/20260206202607826800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "20时58分"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘后大跌近9%。",
@@ -951,8 +975,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 20时58分]"
         }
       ]
     },
@@ -1009,8 +1033,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 20时58分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
