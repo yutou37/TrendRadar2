@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-06T15:46:43.422867+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-02-06T16:40:58.013144+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时40分]"
+        },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时23分]"
-        },
-        {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时46分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -49,11 +49,23 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 16时40分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -73,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -269,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
@@ -475,6 +498,17 @@
           "time_info": "[00时46分 ~ 06时27分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时40分]"
+        },
+        {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
           "url": "https://www.zhihu.com/question/2002675555208803379",
           "source": "知乎",
@@ -488,17 +522,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时23分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时46分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -788,8 +811,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时40分]"
         }
       ]
     },
@@ -804,7 +827,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -845,8 +868,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时40分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
