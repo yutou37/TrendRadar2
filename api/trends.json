@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:48:48.699597+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-08T21:44:37.238647+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -345,8 +345,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 20时48分]"
+          "appearance_count": 9,
+          "time_info": "[15时39分 ~ 21时44分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -359,8 +359,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 20时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 21时44分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -408,8 +408,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时44分]"
         }
       ]
     },
@@ -426,8 +426,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 21时44分]"
         }
       ]
     },
@@ -442,11 +442,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时44分]"
         }
       ]
     }
