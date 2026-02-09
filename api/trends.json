@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T19:44:23.252531+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-02-09T21:07:51.171124+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,32 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时07分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时12分 ~ 21时07分]"
+        },
+        {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260208232345943800",
           "source": "金十数据",
@@ -64,31 +90,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时27分]"
-        },
-        {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时44分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 19时44分]"
         },
         {
           "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
@@ -232,7 +233,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -279,9 +280,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -308,6 +320,17 @@
           "time_info": "[16时58分 ~ 18时08分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
           "url": "https://wallstreetcn.com/livenews/3052244",
           "source": "华尔街见闻-快讯",
@@ -325,15 +348,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "高盛：AI焦虑引发抛售潮 对冲基金创纪录做空美股",
+          "url": "https://flash.jin10.com/detail/20260209204658735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -346,6 +380,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 10时06分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
+          "url": "https://wallstreetcn.com/livenews/3052346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
@@ -376,9 +421,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi建议网友先用DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
