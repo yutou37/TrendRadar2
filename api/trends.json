@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T07:38:11.749962+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-11T10:12:35.956325+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -355,13 +366,46 @@
           "time_info": "[07时37分 ~ 07时38分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -457,7 +501,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -491,8 +535,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 10时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 10时12分]"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -501,7 +568,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -528,17 +595,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -761,6 +817,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
