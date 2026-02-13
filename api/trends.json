@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:04:33.091804+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2026-02-13T23:41:56.106811+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -93,8 +93,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时58分 ~ 18时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时58分 ~ 23时41分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -102,11 +102,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时41分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -241,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
@@ -481,6 +493,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美国财长贝森特：（谈及加密货币）尽快完成法案至关重要，特朗普将于今年春天签署。",
           "url": "https://flash.jin10.com/detail/20260213203425720800",
           "source": "金十数据",
@@ -525,6 +548,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
           "url": "https://flash.jin10.com/detail/20260213023254034800",
           "source": "金十数据",
@@ -567,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "特朗普诉BBC诽谤案定于2027年2月开审",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
@@ -759,7 +804,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -770,8 +815,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时08分 ~ 22时04分]"
+          "appearance_count": 16,
+          "time_info": "[10时08分 ~ 23时41分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -818,8 +863,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时52分 ~ 22时04分]"
+          "appearance_count": 14,
+          "time_info": "[12时52分 ~ 23时41分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -832,8 +877,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时08分 ~ 22时04分]"
+          "appearance_count": 16,
+          "time_info": "[10时08分 ~ 23时41分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 23时41分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -850,6 +908,17 @@
           "time_info": "[00时58分 ~ 10时09分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 23时41分]"
+        },
+        {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
@@ -860,19 +929,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时08分 ~ 15时10分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时10分 ~ 22时04分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -886,24 +942,13 @@
           "time_info": "[01时58分 ~ 03时12分]"
         },
         {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时10分 ~ 22时04分]"
-        },
-        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3055230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1024,6 +1069,29 @@
           "time_info": "[10时08分 ~ 12时53分]"
         },
         {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时41分]"
+        },
+        {
           "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
           "url": "https://wallstreetcn.com/livenews/3055196",
           "source": "华尔街见闻-快讯",
@@ -1107,37 +1175,26 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
           "title": "美国CPI数据公布后，美股期货短线拉升",
           "url": "https://wallstreetcn.com/livenews/3055223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
         {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
+          "title": "纳斯达克金龙中国指数跌幅收窄至将近0.5%，美股盘初一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3055265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "23时41分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -1157,7 +1214,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1193,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260213223705054800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -1237,6 +1305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20260213223027809800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "医疗业ETF涨1.27%，生物科技指数ETF涨1.20%，在美股行业盘初领跑，半导体ETF涨0.63%，网络股指数ETF涨0.49%，科技行业ETF涨0.26%，全球科技股指数ETF跌0.11%，银行业ETF跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3055251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
@@ -1259,6 +1349,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 10时09分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时41分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1293,20 +1397,6 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时58分 ~ 19时31分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时04分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1364,7 +1454,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -1541,7 +1631,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
