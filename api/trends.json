@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-14T12:12:48.805438+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-02-14T13:44:15.318809+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 60,
       "titles": [
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时38分 ~ 13时44分]"
+        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -22,21 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 12时12分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时38分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 13时44分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -47,8 +47,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时38分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[04时38分 ~ 13时44分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -284,6 +284,43 @@
           "time_info": "[02时48分 ~ 03时42分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时44分]"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时44分]"
+        },
+        {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
@@ -295,6 +332,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时34分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时44分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -310,16 +359,16 @@
           "time_info": "[02时48分 ~ 04时38分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -332,18 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时48分]"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
@@ -428,17 +465,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005802211800",
           "source": "金十数据",
@@ -470,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
@@ -615,17 +630,6 @@
           "time_info": "03时42分"
         },
         {
-          "title": "日媒披露特朗普拒绝在中日间力挺日本",
-          "url": "https://www.toutiao.com/trending/7605283067519008810/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "美国总统特朗普：与委内瑞拉的关系已尽可能保持在最佳状态。",
           "url": "https://flash.jin10.com/detail/20260214012722075800",
           "source": "金十数据",
@@ -753,8 +757,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 13时44分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -766,8 +770,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 13时44分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -794,6 +798,19 @@
           "time_info": "[00时49分 ~ 07时31分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 13时44分]"
+        },
+        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -805,19 +822,6 @@
           "time_info": "[00时49分 ~ 06时33分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 12时12分]"
-        },
-        {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
@@ -825,8 +829,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时44分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -905,7 +909,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1006,6 +1010,18 @@
           "time_info": "[03时42分 ~ 05时34分]"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时44分]"
+        },
+        {
           "title": "Gemini3深度思考模型重磅升级",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -1054,17 +1070,6 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
           "url": "https://flash.jin10.com/detail/20260214005013634800",
           "source": "金十数据",
@@ -1079,7 +1084,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1101,11 +1106,23 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时44分]"
+        },
+        {
+          "title": "一年了 美国还在追着DeepSeek抹黑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时12分]"
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1114,7 +1131,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1122,7 +1139,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -1160,6 +1177,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
+          "url": "https://wallstreetcn.com/livenews/3055475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3055395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -1178,23 +1234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3055395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     }
