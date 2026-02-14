@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T15:34:09.276138+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-02-14T16:32:17.184904+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -34,6 +34,31 @@
           "time_info": "[04时38分 ~ 14时44分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时32分]"
+        },
+        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -54,29 +79,28 @@
           "time_info": "[00时49分 ~ 15时34分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            10
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 16时32分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 16时32分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -89,18 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时40分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 15时34分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -152,18 +164,6 @@
           "time_info": "[03时42分 ~ 09时57分]"
         },
         {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 15时34分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -195,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -258,6 +269,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时42分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
@@ -383,17 +405,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时38分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -749,6 +760,17 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时32分]"
+        },
+        {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
           "url": "https://wallstreetcn.com/articles/3765629",
           "source": "华尔街见闻",
@@ -769,19 +791,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 15时34分]"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时30分 ~ 16时32分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -997,7 +1008,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -1009,8 +1020,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 16时32分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -1022,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://wallstreetcn.com/livenews/3055478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -1096,6 +1118,17 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "Gemini是怎么绝地反杀的",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%9D%E5%9C%B0%E5%8F%8D%E6%9D%80%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
           "url": "https://flash.jin10.com/detail/20260214005013634800",
           "source": "金十数据",
@@ -1134,11 +1167,12 @@
             10,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -1149,8 +1183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 16时32分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -1158,22 +1192,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 15时34分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1181,7 +1205,19 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 16时32分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1202,8 +1238,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
           "url": "https://wallstreetcn.com/livenews/3055377",
@@ -1277,11 +1324,12 @@
           "ranks": [
             1,
             7,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时32分]"
         }
       ]
     },
