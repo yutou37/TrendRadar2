@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:44:22.275199+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-02-17T23:53:19.390010+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时44分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时53分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时32分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -173,6 +184,17 @@
           "time_info": "[06时28分 ~ 10时02分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3055860",
           "source": "华尔街见闻-快讯",
@@ -211,17 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 15时02分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时44分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -341,6 +352,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
           "url": "https://flash.jin10.com/detail/20260217183508117800",
           "source": "金十数据",
@@ -358,7 +380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -377,7 +399,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -390,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 22时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 23时53分]"
         },
         {
           "title": "奈飞股价美股盘前一度上涨1.6%。",
@@ -405,28 +427,6 @@
           "time_info": "21时02分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
           "url": "https://wallstreetcn.com/articles/3765781",
           "source": "华尔街见闻",
@@ -437,6 +437,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时01分 ~ 13时57分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时53分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时53分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -455,11 +479,12 @@
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时53分]"
         },
         {
           "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
@@ -484,13 +509,24 @@
           "time_info": "21时02分"
         },
         {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -534,7 +570,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         }
@@ -680,7 +716,7 @@
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -693,6 +729,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时29分]"
+        },
+        {
+          "title": "摩尔线程快速完成对Qwen3.5模型全面适配",
+          "url": "https://wallstreetcn.com/livenews/3056023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
