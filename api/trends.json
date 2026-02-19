@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T16:44:15.083739+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-19T17:44:55.185514+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 17时44分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -30,6 +30,28 @@
           "time_info": "[12时52分 ~ 16时44分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 17时44分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -39,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 16时44分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -104,11 +115,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时44分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -493,7 +505,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -503,8 +515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时32分 ~ 16时44分]"
+          "appearance_count": 10,
+          "time_info": "[06时32分 ~ 17时44分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -542,8 +554,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 17时44分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -566,8 +578,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 17时44分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -580,8 +592,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 17时44分]"
+        },
+        {
+          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3056610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -653,8 +687,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时44分]"
+        },
+        {
+          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -710,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
+          "url": "https://flash.jin10.com/detail/20260219170301618800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
@@ -843,11 +899,12 @@
           "url": "https://wallstreetcn.com/livenews/3056596",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时44分]"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
