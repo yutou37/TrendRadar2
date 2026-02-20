@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:58:07.440481+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-02-20T22:02:42.705748+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 22时02分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时22分 ~ 22时02分]"
         },
         {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
@@ -112,6 +112,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时53分 ~ 15时48分]"
+        },
+        {
+          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
+          "url": "https://flash.jin10.com/detail/20260220214756529800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时02分]"
         },
         {
           "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
@@ -173,18 +197,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时51分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 20时58分]"
         },
         {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
@@ -573,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
@@ -1081,6 +1104,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
+          "url": "https://wallstreetcn.com/livenews/3056941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "特朗普：伊朗有10到15天时间达成协议",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%8910%E5%88%B015%E5%A4%A9%E6%97%B6%E9%97%B4%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
           "source": "百度热搜",
@@ -1150,7 +1184,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1162,8 +1196,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时31分 ~ 20时58分]"
+          "appearance_count": 20,
+          "time_info": "[06时31分 ~ 22时02分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1188,8 +1222,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 22时02分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1218,6 +1252,19 @@
           "time_info": "[00时52分 ~ 06时32分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 22时02分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -1227,8 +1274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时52分 ~ 20时58分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 22时02分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1240,8 +1287,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时52分 ~ 20时58分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 22时02分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1253,19 +1300,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 18时37分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 20时58分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1312,6 +1346,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -1324,6 +1369,18 @@
           "time_info": "[06时32分 ~ 07时30分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时02分]"
+        },
+        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
@@ -1334,17 +1391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时30分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -1477,7 +1523,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1537,7 +1583,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
