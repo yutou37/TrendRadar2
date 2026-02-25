@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:15:13.564062+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-02-25T16:49:10.636714+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 15时15分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 16时49分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 16时49分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -84,17 +84,6 @@
           "time_info": "[00时01分 ~ 07时31分]"
         },
         {
-          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时01分]"
-        },
-        {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -102,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
@@ -113,8 +102,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时49分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "time_info": "[12时52分 ~ 14时01分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -139,6 +139,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时03分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 16时49分]"
         },
         {
           "title": "美媒曝光特朗普国情咨文 提及住房、成本、国家安全等内容",
@@ -172,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -220,17 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时15分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -302,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时12分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
@@ -634,7 +657,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -918,6 +941,18 @@
           "time_info": "[05时36分 ~ 06时34分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时49分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -928,17 +963,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
