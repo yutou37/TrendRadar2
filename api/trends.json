@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:40:11.605996+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-02-26T21:04:34.314877+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 19时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 21时04分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -121,11 +121,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时04分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时40分]"
+          "time_info": "[19时39分 ~ 21时04分]"
         },
         {
           "title": "美国多州政府和企业：特朗普，退钱！",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -254,6 +255,17 @@
           "time_info": "18时44分"
         },
         {
+          "title": "特朗普将召集科技巨头签自行发电承诺",
+          "url": "https://www.toutiao.com/trending/7610290087637123126/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -263,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -301,8 +324,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 21时04分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
