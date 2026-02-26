@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T12:23:00.373154+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-02-26T13:57:58.066885+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -19,6 +19,19 @@
           "time_info": "[00时15分 ~ 07时28分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 13时57分]"
+        },
+        {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
           "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
           "source": "凤凰网",
@@ -30,18 +43,6 @@
           "time_info": "[00时15分 ~ 07时28分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 12时23分]"
-        },
-        {
           "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
           "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
           "source": "凤凰网",
@@ -49,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时57分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -61,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时57分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -165,9 +166,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "日本央行行长植田和男：预计美国总统特朗普的新关税措施不会对日本经济产生重大影响，但将密切关注事态发展。",
@@ -203,6 +215,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226022519108800",
           "source": "金十数据",
@@ -232,6 +255,17 @@
           "time_info": "[00时15分 ~ 06时33分]"
         },
         {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时57分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
@@ -240,19 +274,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 12时23分]"
-        },
-        {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 13时57分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -263,8 +286,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时57分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
