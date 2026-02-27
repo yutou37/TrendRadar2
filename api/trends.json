@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:57:51.003035+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-02-27T22:02:35.501119+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时02分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -76,17 +76,6 @@
           "time_info": "[14时53分 ~ 18时37分]"
         },
         {
-          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
-          "url": "https://flash.jin10.com/detail/20260227203739625800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "美军中东最高指挥官向特朗普汇报",
           "url": "https://www.toutiao.com/trending/7611361368545280036/",
           "source": "今日头条",
@@ -95,11 +84,12 @@
             10,
             8,
             14,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 22时02分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -111,8 +101,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 22时02分]"
+        },
+        {
+          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
+          "url": "https://flash.jin10.com/detail/20260227203739625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -178,7 +179,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -193,6 +194,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 15时46分]"
+        },
+        {
+          "title": "胡锡进：特朗普将自己置于矛盾境地",
+          "url": "https://news.ifeng.com/c/8r5pc0FsAVG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -371,6 +383,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
           "url": "https://flash.jin10.com/detail/20260227044702015800",
           "source": "金十数据",
@@ -450,8 +473,304 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            23,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 19时32分]"
+        },
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
+          "url": "https://flash.jin10.com/detail/20260227213826999800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元",
+          "url": "https://flash.jin10.com/detail/20260227213821410800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260227213746947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资，投前估值达7300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "微软(MSFT.O)与OpenAI将在研究和工程领域紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260227213634084800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
+          "url": "https://flash.jin10.com/detail/20260227213613966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI：ChatGPT每周活跃用户超过9亿。",
+          "url": "https://flash.jin10.com/detail/20260227213553114800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI：Trinium4预计将于2027年开始交付。",
+          "url": "https://flash.jin10.com/detail/20260227213537292800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
+          "url": "https://flash.jin10.com/detail/20260227213527626800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
+          "url": "https://flash.jin10.com/detail/20260227213513559800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "OpenAI扩大与英伟达(NVDA.O)的长期协议。",
+          "url": "https://flash.jin10.com/detail/20260227213459303800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213444121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "软银：交易完成后对OpenAI持股比例约为13%。",
+          "url": "https://flash.jin10.com/detail/20260227213434251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "软银对OpenAI的累计投资预计达646亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213400594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213347014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
+          "url": "https://flash.jin10.com/detail/20260227213324674800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI的融资包括来自软银的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213310566800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
+          "url": "https://flash.jin10.com/detail/20260227213252837800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI与亚马逊云服务(AWS)正在其现有380亿美元多年协议的基础上，再追加1000亿美元、为期8年的合作。",
+          "url": "https://flash.jin10.com/detail/20260227213212397800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213129329800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)宣布达成合作。",
+          "url": "https://flash.jin10.com/detail/20260227213023951800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -486,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "据The Information：谷歌已成立一家合资企业，旨在将其张量处理单元租赁给其他人工智能客户。",
@@ -682,7 +1012,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -719,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时58分 ~ 12时17分]"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260227213721612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -875,7 +1216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -904,62 +1245,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26,
-            23,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 19时32分]"
-        },
-        {
-          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
-          "url": "https://flash.jin10.com/detail/20260227062334976800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
-          "url": "https://flash.jin10.com/detail/20260227025809636800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
-          "url": "https://wallstreetcn.com/livenews/3059885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
@@ -971,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3060340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
