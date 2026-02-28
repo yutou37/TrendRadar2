@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:37:56.293694+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-02-28T15:27:02.837726+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时27分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -29,19 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时27分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
           "url": "https://www.cls.cn/detail/2297916",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 15时27分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -51,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 15时27分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -68,6 +69,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时27分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -93,19 +107,6 @@
           "time_info": "[00时40分 ~ 06时22分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普对伊核谈判不满",
           "url": "https://news.ifeng.com/c/8r6XYcWAlcB",
           "source": "凤凰网",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 15时27分]"
         },
         {
           "title": "特朗普：尚未就对伊动武作最终决定",
@@ -389,17 +402,6 @@
           "time_info": "[06时22分 ~ 07时24分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
           "url": "https://flash.jin10.com/detail/20260228045153490800",
           "source": "金十数据",
@@ -435,6 +437,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时27分]"
         },
         {
           "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
@@ -800,7 +813,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -825,17 +838,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "“特朗普的安全芭比”，危险了",
-          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
@@ -877,7 +879,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1152,8 +1154,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时29分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[05时29分 ~ 15时27分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1162,11 +1164,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时35分 ~ 14时37分]"
+          "appearance_count": 17,
+          "time_info": "[01时35分 ~ 15时27分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1269,6 +1272,18 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时27分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -1293,17 +1308,6 @@
           "time_info": "[11时55分 ~ 12时55分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -1321,7 +1325,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1340,8 +1344,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时27分]"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 15时27分]"
+        },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
@@ -1355,28 +1383,15 @@
           "time_info": "[00时40分 ~ 06时22分]"
         },
         {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时37分]"
-        },
-        {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
           "source": "财联社热门",
           "ranks": [
-            9,
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 14时37分]"
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1449,6 +1464,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1462,8 +1494,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 15时27分]"
         }
       ]
     },
