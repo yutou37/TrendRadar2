@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:25:43.291412+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:20:42.090285+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "特朗普政府高级官员：我们掌握的情报显示，伊朗正在全力重建去年六月袭击中被摧毁的一切。",
@@ -25,9 +50,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "特朗普政府高级官员：美国曾提出愿永远向伊朗免费提供核燃料，但伊朗坚持要求获得铀浓缩能力。",
@@ -36,9 +72,24 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
+          "url": "https://wallstreetcn.com/livenews/3060943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时20分]"
         },
         {
           "title": "特朗普政府高级官员：我们向伊朗方面提出了非常直白的问题。",
@@ -47,9 +98,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
+          "url": "https://flash.jin10.com/detail/20260301050933713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -80,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -91,58 +153,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
-        },
-        {
-          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
-          "url": "https://wallstreetcn.com/livenews/3060943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时25分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "特朗普和内塔尼亚胡通话",
@@ -158,6 +171,19 @@
           "time_info": "[01时20分 ~ 03时20分]"
         },
         {
+          "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3060964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时20分]"
+        },
+        {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
           "url": "https://flash.jin10.com/detail/20260301020732738800",
           "source": "金十数据",
@@ -168,18 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时20分]"
-        },
-        {
-          "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3060964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -200,7 +214,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -211,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -222,9 +236,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
+          "url": "https://flash.jin10.com/detail/20260301050014158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260301045410974800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他与以色列总理内塔尼亚胡进行了“非常棒的”通话，“我们心有灵犀”。",
@@ -233,7 +269,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -244,7 +280,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -255,7 +291,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -266,7 +302,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -321,9 +357,140 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普（就伊朗最高领袖哈梅内伊身亡的报道）表示，我们认为这是正确的报道，那些做所有决定的人，大部分已经不在了。",
+          "url": "https://flash.jin10.com/detail/20260301043914314800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17,
+            20,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260301050034835800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
+          "url": "https://flash.jin10.com/detail/20260301045433852800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
+          "url": "https://flash.jin10.com/detail/20260301045230715800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
+          "url": "https://flash.jin10.com/detail/20260301045126214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
+          "url": "https://flash.jin10.com/detail/20260301044943651800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
+          "url": "https://flash.jin10.com/detail/20260301044842219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表态称，不会向国防部提供“无安全约束”或未经安全训练的模型，也不在边缘设备上部署模型。",
+          "url": "https://flash.jin10.com/detail/20260301044547998800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，在与美国国防部的协议中，我们通过一种更为广泛、多层次的方法来保护我们的红线。",
+          "url": "https://flash.jin10.com/detail/20260301044444356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
+          "url": "https://flash.jin10.com/detail/20260301044417806800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -339,8 +506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -350,8 +517,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -361,8 +528,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         }
       ]
     },
@@ -380,27 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            20,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     }
