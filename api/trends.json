@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T20:46:20.810608+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-03-01T21:39:13.066474+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 21时39分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 21时39分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 21时39分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -329,6 +329,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时39分]"
+        },
+        {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/livenews/3061056",
           "source": "华尔街见闻-快讯",
@@ -445,18 +457,6 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时46分]"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫向特朗普和内塔尼亚胡喊话，称他们已经越过了红线，“必将为此付出代价”。",
           "url": "https://flash.jin10.com/detail/20260301132637678800",
           "source": "金十数据",
@@ -503,6 +503,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时39分]"
         },
         {
           "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
@@ -651,17 +663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
-          "url": "https://flash.jin10.com/detail/20260301201929437800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
@@ -917,8 +918,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 20时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 21时39分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -972,7 +973,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
