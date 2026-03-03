@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T16:40:38.032157+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-03-03T17:41:46.884149+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -42,6 +42,17 @@
           "time_info": "[00时44分 ~ 10时03分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
           "url": "https://wallstreetcn.com/articles/3766483",
           "source": "华尔街见闻",
@@ -54,6 +65,18 @@
           "time_info": "[00时44分 ~ 07时25分]"
         },
         {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
           "url": "https://wallstreetcn.com/articles/3766474",
           "source": "华尔街见闻",
@@ -63,6 +86,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 05时33分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "特朗普3月访华能否成行？外交部回应",
@@ -80,42 +116,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时44分 ~ 15时42分]"
-        },
-        {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时40分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -205,6 +205,17 @@
           "time_info": "[13时49分 ~ 14时52分]"
         },
         {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 17时41分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -214,17 +225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时44分]"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时40分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普在接受NewsNation采访时被问及是否担心其他可能针对美国目标的攻击，他的回应是：“这就是战争的一部分。无论人们喜欢与否，这就是现实。”",
@@ -306,23 +317,23 @@
           "time_info": "[03时37分 ~ 04时37分]"
         },
         {
-          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时40分]"
-        },
-        {
           "title": "美使馆遭袭，特朗普：将很快采取报复行动",
           "url": "https://www.cls.cn/detail/2300728",
           "source": "财联社热门",
           "ranks": [
             12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时41分]"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
             9
           ],
           "is_new": false,
@@ -473,7 +484,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -511,6 +522,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "据国家通讯社：约旦国王阿卜杜拉接获美国总统特朗普来电。约旦国王阿卜杜拉向美国总统特朗普强调，必须努力实现地区全面平静。",
           "url": "https://flash.jin10.com/detail/20260303022557330800",
           "source": "金十数据",
@@ -542,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "前美国国务院高级顾问瓦利·纳斯尔教授：我们真的不知道美国的目标是什么，特朗普总统想要什么。这一切并没有像其他战争那样向美国人民解释清楚。这真的不是美国的政策，而是特朗普总统内心的全部想法。",
+          "url": "https://flash.jin10.com/detail/20260303172051649800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国联邦巡回上诉法院拒绝了特朗普政府要求推迟关税退款争议程序的请求。",
@@ -723,7 +756,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -745,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -867,6 +900,17 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "美股狂欢到头了吗",
+          "url": "https://www.toutiao.com/trending/7612896770523155974/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "高盛：美股往上走的唯一途径就是先向下走",
           "url": "https://flash.jin10.com/detail/20260303063803425800",
           "source": "金十数据",
@@ -876,6 +920,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美股盘前：明星科技股普跌，英伟达跌3%，英特尔、AMD均跌超3%，美光科技跌超4%；美股油气股普涨，Battalion Oil暴涨超50%，美国能源涨超12%，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3062628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "美股期货持续下行，道琼斯指数期货跌1.55%，标普500指数期货跌1.55%，纳斯达克100指数期货跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3062613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览（美股收盘）",
@@ -929,6 +995,18 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时41分]"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -939,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时26分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
@@ -1053,7 +1120,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数涨0.8%",
@@ -1077,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美元指数突破99，日内涨0.45%，创1月20日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3062610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
