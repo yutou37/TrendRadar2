@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T22:42:25.852356+08:00",
-  "total_titles_processed": 2033,
+  "generated_at": "2026-03-04T23:40:31.856199+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 22时42分]"
+          "appearance_count": 14,
+          "time_info": "[09时57分 ~ 23时40分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -91,8 +91,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 23时40分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时42分]"
+          "time_info": "[18时36分 ~ 23时40分]"
         },
         {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
@@ -120,17 +133,17 @@
           "time_info": "[14时45分 ~ 17时40分]"
         },
         {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            18,
-            17
+            13,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时36分 ~ 22时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时40分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -175,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "美国政府数据显示，美国总统特朗普第二任期首年美国联邦政府裁员386,826人。",
+          "url": "https://flash.jin10.com/detail/20260304233517028800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -245,18 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时47分]"
-        },
-        {
-          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
-          "url": "https://www.cls.cn/detail/2302897",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时42分]"
         },
         {
           "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
@@ -367,6 +379,29 @@
           "time_info": "[16时38分 ~ 17时40分]"
         },
         {
+          "title": "特朗普夫人，“翻车”了",
+          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时40分]"
+        },
+        {
+          "title": "美称打死试图暗杀特朗普的伊朗高官",
+          "url": "https://www.toutiao.com/trending/7613391444652330559/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时40分]"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
           "url": "https://wallstreetcn.com/livenews/3062968",
           "source": "华尔街见闻-快讯",
@@ -431,7 +466,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -464,7 +499,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -500,17 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
-        },
-        {
-          "title": "特朗普夫人，“翻车”了",
-          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
@@ -612,17 +636,6 @@
           "time_info": "14时45分"
         },
         {
-          "title": "美称打死试图暗杀特朗普的伊朗高官",
-          "url": "https://www.toutiao.com/trending/7613391444652330559/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
           "title": "美国总统特朗普：我们还有5个月的时间，关税仍将维持在15%。",
           "url": "https://flash.jin10.com/detail/20260304011852586800",
           "source": "金十数据",
@@ -684,7 +697,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -953,6 +966,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "美国总统特朗普派遣内政部长前往委内瑞拉，推动石油和采矿业。",
+          "url": "https://wallstreetcn.com/livenews/3063720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "德国总理默茨：将在G7峰会、北约峰会上再次会见特朗普。",
           "url": "https://flash.jin10.com/detail/20260304044102237800",
           "source": "金十数据",
@@ -978,8 +1002,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 22时42分]"
+          "appearance_count": 14,
+          "time_info": "[09时57分 ~ 23时40分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1018,6 +1042,17 @@
           "time_info": "[00时45分 ~ 09时57分]"
         },
         {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时40分]"
+        },
+        {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -1028,17 +1063,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
-          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时42分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1111,6 +1135,17 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时40分]"
+        },
+        {
           "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
           "url": "https://wallstreetcn.com/livenews/3063031",
           "source": "华尔街见闻-快讯",
@@ -1157,17 +1192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2302992",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "iShares MSCI韩国ETF美股盘前下跌5.1%，此前韩国股市创下史上最大单日跌幅。",
@@ -1261,7 +1285,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
@@ -1354,6 +1378,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "OpenAI的下一款AI模型将具备“极其强大的”推理。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "OpenAI考虑为北约机密网络提供合约",
           "url": "https://flash.jin10.com/detail/20260304092203004800",
           "source": "金十数据",
@@ -1439,8 +1474,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时42分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时40分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
@@ -1478,7 +1513,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
