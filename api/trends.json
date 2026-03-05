@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:33:59.339568+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-05T20:58:56.372786+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时00分 ~ 19时33分]"
+          "appearance_count": 15,
+          "time_info": "[10时00分 ~ 20时58分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -111,6 +111,17 @@
           "time_info": "[00时43分 ~ 10时01分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
           "url": "https://wallstreetcn.com/articles/3766656",
           "source": "华尔街见闻",
@@ -135,17 +146,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时51分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时33分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -189,17 +189,6 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
-          "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
-          "url": "https://flash.jin10.com/detail/20260305190546098800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
           "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
@@ -208,8 +197,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时58分]"
+        },
+        {
+          "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
+          "url": "https://flash.jin10.com/detail/20260305190546098800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -278,7 +278,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -377,7 +377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -462,7 +462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -487,8 +487,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时29分 ~ 19时33分]"
+          "appearance_count": 16,
+          "time_info": "[07时29分 ~ 20时58分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -526,6 +526,17 @@
           "time_info": "[00时43分 ~ 13时48分]"
         },
         {
+          "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时58分]"
+        },
+        {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，油价再度跳水，韩股暴力反弹近10%，白银跌3%",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
@@ -535,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
-        },
-        {
-          "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "哔哩哔哩美股盘前涨超5%，公司第四季度净营业额83.2亿元，同比增长8%。",
@@ -568,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "伯克希尔哈撒韦美股盘前拉升，现涨1.6%，此前公司CEO Abel购入了价值1530万美元的股票。伯克希尔哈撒韦认为其股票的内在价值高于市场价值，称回购时机及总回购规模取决于股价情况。",
+          "url": "https://wallstreetcn.com/livenews/3064487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -713,6 +724,17 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)美股盘前拉升，现涨1.6%。此前公司宣布于周三启动股票回购。",
+          "url": "https://flash.jin10.com/detail/20260305203647159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "半导体ETF收涨2%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3063865",
           "source": "华尔街见闻-快讯",
@@ -752,7 +774,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
