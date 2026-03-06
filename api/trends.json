@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-06T07:51:57.208264+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-06T10:01:47.374869+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 10时01分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -52,6 +53,17 @@
           "time_info": "[02时03分 ~ 06时31分]"
         },
         {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
           "url": "https://flash.jin10.com/detail/20260306015308180800",
           "source": "金十数据",
@@ -69,9 +81,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普在白宫接见梅西",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%8E%A5%E8%A7%81%E6%A2%85%E8%A5%BF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国总统特朗普：不打算动用战略石油储备。",
@@ -160,6 +205,17 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时01分]"
+        },
+        {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
           "url": "https://www.cls.cn/detail/2303813",
           "source": "财联社热门",
@@ -229,15 +285,15 @@
           "time_info": "02时04分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时01分"
         },
         {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
@@ -493,11 +549,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 10时01分]"
         },
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -506,9 +563,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时01分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -516,11 +573,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 10时01分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -655,8 +713,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
           "url": "https://wallstreetcn.com/livenews/3064630",
@@ -680,6 +749,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时37分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
@@ -721,6 +812,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 06时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
+          "url": "https://www.zhihu.com/question/2012928663889338822",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     }
