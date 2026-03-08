@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T02:33:58.186153+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-09T03:23:29.194554+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时23分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时23分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时23分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时23分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -62,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时23分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -75,8 +75,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时23分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：地面部队部署不在特朗普目前的计划之内。不过特朗普并未排除这一选项。对伊朗的行动将继续以空袭为主。",
+          "url": "https://flash.jin10.com/detail/20260309025329166800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
@@ -98,8 +109,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时23分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
@@ -112,6 +123,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时33分]"
+        },
+        {
+          "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
+          "url": "https://flash.jin10.com/detail/20260309013344642800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时23分]"
         },
         {
           "title": "英国首相办公室：英国首相斯塔默与美国总统特朗普讨论了中东局势及英美军事合作。",
@@ -148,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时33分]"
-        },
-        {
-          "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
-          "url": "https://flash.jin10.com/detail/20260309013344642800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "特朗普以“拒签法案”为要挟 敦促参议院强推选举改革法",
@@ -217,9 +229,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时23分]"
         }
       ]
     }
