@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T15:31:53.602220+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-03-08T16:31:46.439892+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时31分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -73,8 +73,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时31分]"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时31分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -86,19 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时31分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -427,6 +428,58 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时31分]"
+        },
+        {
+          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "沙特阿美股价早盘上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260308150416829800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时31分]"
+        },
+        {
+          "title": "沙特阿美股价涨幅扩大至4.3%，创2023年4月以来最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20260308152533619800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -456,35 +509,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时31分]"
-        },
-        {
-          "title": "沙特阿美股价早盘上涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20260308150416829800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -498,8 +522,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时31分]"
         }
       ]
     }
