@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T14:42:09.922126+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-03-08T15:31:53.602220+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时31分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -48,8 +48,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时31分]"
+        },
+        {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时31分]"
+        },
+        {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时31分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -63,17 +88,6 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时42分]"
-        },
-        {
           "title": "委内瑞拉代总统致函特朗普",
           "url": "https://www.toutiao.com/trending/7614119677836476458/",
           "source": "今日头条",
@@ -83,21 +97,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 14时42分]"
-        },
-        {
-          "title": "王毅回应特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时31分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -234,6 +235,18 @@
           "time_info": "[12时43分 ~ 14时42分]"
         },
         {
+          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
+          "url": "https://flash.jin10.com/detail/20260308135054523800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时31分]"
+        },
+        {
           "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
           "url": "https://flash.jin10.com/detail/20260308020752768800",
           "source": "金十数据",
@@ -267,17 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
-          "url": "https://flash.jin10.com/detail/20260308135054523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -455,7 +457,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
@@ -466,8 +468,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时31分]"
+        },
+        {
+          "title": "沙特阿美股价早盘上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260308150416829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
@@ -485,8 +498,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时31分]"
         }
       ]
     }
