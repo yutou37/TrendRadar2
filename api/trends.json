@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T15:06:17.820814+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-03-09T16:43:36.336815+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -84,6 +84,34 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 16时43分]"
+        },
+        {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 16时43分]"
+        },
+        {
           "title": "美媒劝特朗普见好就收",
           "url": "https://news.ifeng.com/c/8rLmtoks9IL",
           "source": "凤凰网",
@@ -91,8 +119,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时43分]"
+        },
+        {
+          "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "特朗普回应油价暴涨",
@@ -106,19 +145,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时06分]"
-        },
-        {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
           "url": "https://wallstreetcn.com/livenews/3065949",
           "source": "华尔街见闻-快讯",
@@ -128,19 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 15时06分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -153,6 +166,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普回应何时结束对伊朗战争",
+          "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 16时43分]"
         },
         {
           "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
@@ -205,27 +229,17 @@
           "time_info": "[03时23分 ~ 04时26分]"
         },
         {
-          "title": "特朗普回应何时结束对伊朗战争",
-          "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时06分]"
-        },
-        {
           "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 16时43分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -336,6 +350,28 @@
           "time_info": "[10时03分 ~ 12时51分]"
         },
         {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 16时43分]"
+        },
+        {
+          "title": "美媒使用旧视频掩盖特朗普失礼行为",
+          "url": "https://www.toutiao.com/trending/7615121103565340681/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "【特朗普称将在“适当时机”作出结束对伊朗军事行动决定】美国总统特朗普8日对以色列媒体说，将在“适当时机”作出结束对伊朗军事行动的最终决定。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3066086",
           "source": "华尔街见闻-快讯",
@@ -375,7 +411,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -466,23 +502,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普称适时结束对伊军事行动",
-          "url": "https://www.douyin.com/hot/2423798",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -519,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
