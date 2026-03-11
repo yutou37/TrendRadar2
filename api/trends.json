@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T16:40:27.624717+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-03-11T17:42:38.660426+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,19 @@
           "time_info": "[01时02分 ~ 07时28分]"
         },
         {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 17时42分]"
+        },
+        {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
@@ -65,6 +78,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 17时42分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -79,30 +103,6 @@
           "time_info": "[01时02分 ~ 06时28分]"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 16时40分]"
-        },
-        {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
           "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
@@ -111,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 17时42分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -123,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 17时42分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -136,8 +136,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 17时42分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -250,7 +250,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -444,8 +444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 17时42分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -642,7 +642,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
