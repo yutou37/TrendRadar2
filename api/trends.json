@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T20:58:38.810383+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-03-12T22:06:01.355019+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时26分 ~ 20时58分]"
+          "appearance_count": 18,
+          "time_info": "[06时26分 ~ 22时06分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -41,8 +41,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 22时06分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时06分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -80,19 +95,16 @@
           "time_info": "[10时01分 ~ 15时46分]"
         },
         {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
             4,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时41分 ~ 20时58分]"
+          "time_info": "[18时38分 ~ 22时06分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -146,18 +158,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时46分 ~ 20时58分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时58分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -404,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时06分]"
         },
         {
           "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
@@ -665,17 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "特朗普：我认为你可以看到霍尔木兹海的安全状况很好。",
@@ -978,7 +978,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -1000,8 +1000,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时25分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[07时25分 ~ 22时06分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -1043,6 +1043,17 @@
           "time_info": "[00时51分 ~ 12时47分]"
         },
         {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 理想汽车美股盘前下跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3068756",
           "source": "华尔街见闻-快讯",
@@ -1060,7 +1071,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1125,6 +1136,17 @@
           "time_info": "[05时38分 ~ 06时27分]"
         },
         {
+          "title": "美股低开低走 三大股指悉数跌超1%",
+          "url": "https://flash.jin10.com/detail/20260312214704058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "财报公布后，理想汽车(LI.O)美股盘前下跌近3%。",
           "url": "https://flash.jin10.com/detail/20260312163212112800",
           "source": "金十数据",
@@ -1147,6 +1169,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "美股三大股指均跌超1%，道指现跌1.3%，标普500指数跌1.1%，纳指跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3068976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260312040645432800",
           "source": "金十数据",
@@ -1156,6 +1189,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260312214154348800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股三大股指低开，道指跌0.99%，标普500指数跌0.79%，纳指跌0.89%。理想汽车跌3%，公司Q4营收同比下滑35%；科技股普跌，英伟达、AMD跌超1%，美光科技跌超2%；摩根士丹利下跌4.9%，创2月27日以来最大跌幅，消息称摩根士丹利限制私人信用基金的赎回；标普1500化肥指数上涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3068966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 石油股走强",
@@ -1213,6 +1268,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美股三大股指大幅低开",
+          "url": "https://flash.jin10.com/detail/20260312213028803800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "格罗方德半导体（格芯）将回购大约3亿美元股票。 股东Mubadala将出售2000万股持股。 格芯（GFS）美股盘后跌超5.46%。",
           "url": "https://wallstreetcn.com/livenews/3068357",
           "source": "华尔街见闻-快讯",
@@ -1249,7 +1315,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数涨超0.4%",
@@ -1281,9 +1347,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "现货黄金短线下挫12美元，美元指数走高日内涨0.34%，新兴市场货币指数跌至盘中低点；油价小幅攀升。伊朗最高领袖穆杰塔巴称，霍尔木兹海峡应保持封闭。",
+          "url": "https://wallstreetcn.com/livenews/3068961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美元指数11日上涨",
@@ -1309,7 +1386,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1337,7 +1414,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
