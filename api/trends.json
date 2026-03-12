@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:32:09.061700+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-12T20:58:38.810383+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时26分 ~ 19时32分]"
+          "appearance_count": 16,
+          "time_info": "[06时26分 ~ 20时58分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 20时58分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -78,6 +78,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时01分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 20时58分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -119,31 +134,30 @@
           "time_info": "[00时51分 ~ 07时25分]"
         },
         {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时32分]"
-        },
-        {
           "title": "中方回应特朗普将对华新贸易调查",
           "url": "https://www.toutiao.com/trending/7615192157801152518/",
           "source": "今日头条",
           "ranks": [
             6,
             2,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 20时58分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时58分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -171,17 +185,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时25分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时32分]"
         },
         {
           "title": "美以伊战争｜特朗普：已揪出境内伊朗“沉睡小组”",
@@ -664,6 +667,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特朗普：我认为你可以看到霍尔木兹海的安全状况很好。",
           "url": "https://flash.jin10.com/detail/20260312002239884800",
           "source": "金十数据",
@@ -964,7 +978,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -986,8 +1000,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 19时32分]"
+          "appearance_count": 14,
+          "time_info": "[07时25分 ~ 20时58分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -1038,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3068936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -1224,7 +1249,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨超0.4%",
@@ -1250,6 +1275,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
+          "url": "https://flash.jin10.com/detail/20260312203103505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美元指数11日上涨",
           "url": "https://flash.jin10.com/detail/20260312034424456800",
           "source": "金十数据",
@@ -1264,8 +1300,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
           "url": "https://www.cls.cn/detail/2310272",
@@ -1276,6 +1323,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
+          "url": "https://www.zhihu.com/question/2015404541256959842",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
