@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T15:35:08.980188+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-03-14T16:34:54.967137+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -115,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
@@ -128,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -143,15 +143,17 @@
           "time_info": "[05时33分 ~ 07时28分]"
         },
         {
-          "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
-          "url": "https://flash.jin10.com/detail/20260314032116840800",
-          "source": "金十数据",
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 16时34分]"
         },
         {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
@@ -161,20 +163,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
-          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
-          "url": "https://wallstreetcn.com/articles/3767517",
-          "source": "华尔街见闻",
+          "title": "美以伊战争丨美防长喊话特朗普盟友：赶紧买了CNN",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
+          "url": "https://flash.jin10.com/detail/20260314032116840800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时35分]"
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
@@ -198,6 +210,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时56分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
@@ -301,6 +324,20 @@
           "time_info": "[07时28分 ~ 12时12分]"
         },
         {
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
           "url": "https://flash.jin10.com/detail/20260314040738808800",
           "source": "金十数据",
@@ -335,30 +372,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普声称伊朗已被“彻底击败”",
-          "url": "https://wallstreetcn.com/livenews/3070086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时35分]"
         },
         {
           "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
@@ -693,8 +706,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -703,11 +716,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 15时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 16时34分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
