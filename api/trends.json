@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T19:25:48.903357+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-03-15T20:52:28.494001+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -53,6 +53,33 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时05分 ~ 20时52分]"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 20时52分]"
+        },
+        {
           "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
           "url": "https://wallstreetcn.com/articles/3767518",
           "source": "华尔街见闻",
@@ -68,33 +95,6 @@
           "time_info": "[00时31分 ~ 13时05分]"
         },
         {
-          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
-          "url": "https://wallstreetcn.com/articles/3767534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时05分 ~ 19时25分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时25分]"
-        },
-        {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
           "url": "https://www.cls.cn/detail/2313097",
           "source": "财联社热门",
@@ -103,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时05分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[13时05分 ~ 20时52分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -116,6 +116,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 20时52分]"
         },
         {
           "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
@@ -168,6 +181,21 @@
           "time_info": "[00时32分 ~ 14时56分]"
         },
         {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时05分 ~ 20时52分]"
+        },
+        {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
           "url": "https://www.cls.cn/detail/2312740",
           "source": "财联社热门",
@@ -190,36 +218,43 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 20时52分]"
         },
         {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时52分]"
+        },
+        {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7,
-            5
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时56分 ~ 19时25分]"
+          "time_info": "[15时44分 ~ 20时52分]"
         },
         {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
-          "source": "澎湃新闻",
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            13,
-            10,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时05分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时52分]"
         },
         {
           "title": "特朗普否认5架美军加油机被毁",
@@ -232,41 +267,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时25分]"
-        },
-        {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 19时25分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
@@ -422,6 +422,18 @@
           "time_info": "[17时34分 ~ 19时25分]"
         },
         {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时52分]"
+        },
+        {
           "title": "媒体报道称，韩方将就美国总统特朗普有关军舰的要求与美方保持密切沟通。",
           "url": "https://flash.jin10.com/detail/20260315144840841800",
           "source": "金十数据",
@@ -470,6 +482,18 @@
           "time_info": "[13时05分 ~ 14时56分]"
         },
         {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时52分]"
+        },
+        {
           "title": "特朗普称与泽连斯基达成协议要“困难得多”",
           "url": "https://flash.jin10.com/detail/20260315113816699800",
           "source": "金十数据",
@@ -492,6 +516,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 18时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
+          "url": "https://flash.jin10.com/detail/20260315183906520800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时52分]"
         },
         {
           "title": "乌克兰总统泽连斯基：有必要与美国总统特朗普会面。",
@@ -530,39 +566,6 @@
           "time_info": "[14时56分 ~ 15时45分]"
         },
         {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
-          "url": "https://flash.jin10.com/detail/20260315183906520800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "特朗普：条件还不够好 目前并不准备与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260315080849414800",
           "source": "金十数据",
@@ -572,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美军在霍尔木兹海峡护航？特朗普表态“含糊其辞”",
@@ -638,6 +652,18 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时52分]"
+        },
+        {
           "title": "美股“异相”：ETF成交量飙升",
           "url": "https://wallstreetcn.com/articles/3767510",
           "source": "华尔街见闻",
@@ -647,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -701,7 +716,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
