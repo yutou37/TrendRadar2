@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T21:10:28.962149+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-03-16T23:00:29.326395+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -101,6 +101,17 @@
           "time_info": "[00时32分 ~ 10时15分]"
         },
         {
+          "title": "特朗普会投入地面部队吗？",
+          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 23时00分]"
+        },
+        {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
           "url": "https://www.cls.cn/detail/2313097",
           "source": "财联社热门",
@@ -141,27 +152,17 @@
           "time_info": "[00时32分 ~ 10时15分]"
         },
         {
-          "title": "特朗普会投入地面部队吗？",
-          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 21时10分]"
-        },
-        {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016900692145637068",
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 21时10分]"
+          "appearance_count": 5,
+          "time_info": "[18时06分 ~ 23时00分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
@@ -173,8 +174,56 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 23时00分]"
+        },
+        {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时56分 ~ 21时10分]"
+          "time_info": "[19时46分 ~ 23时00分]"
+        },
+        {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 23时00分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时00分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 23时00分]"
         },
         {
           "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
@@ -211,40 +260,15 @@
           "time_info": "[16时56分 ~ 18时06分]"
         },
         {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 21时10分]"
-        },
-        {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
-          "source": "凤凰网",
-          "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时10分]"
-        },
-        {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 21时10分]"
+          "time_info": "[22时59分 ~ 23时00分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -294,15 +318,31 @@
           "time_info": "19时46分"
         },
         {
-          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            16,
+            14,
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 23时00分]"
+        },
+        {
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 23时00分]"
         },
         {
           "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
@@ -329,6 +369,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "BBC向美国地区法官Roy K. Altman请求驳回总统特朗普的100亿美元诽谤诉讼。 BBC认为，特朗普并没有因为“误导性”的编辑评论而受到伤害。",
+          "url": "https://wallstreetcn.com/livenews/3071009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
+        },
+        {
           "title": "特朗普威胁将取消访华 中方回应",
           "url": "https://www.douyin.com/hot/2432550",
           "source": "抖音",
@@ -339,18 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时56分 ~ 18时06分]"
-        },
-        {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时10分]"
         },
         {
           "title": "民调：特朗普正将美国盟友推向中国",
@@ -376,19 +415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 21时10分]"
         },
         {
           "title": "中方：中美就特朗普访华保持着沟通",
@@ -447,7 +473,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -483,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "英国广播公司（BBC）于周一在佛罗里达州联邦法院提交动议，力求驳回美国总统特朗普的100亿美元诽谤诉讼。",
+          "url": "https://flash.jin10.com/detail/20260316223652047800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
@@ -562,6 +599,17 @@
           "time_info": "19时46分"
         },
         {
+          "title": "西班牙首相桑切斯：美国总统特朗普发动的伊朗战争破坏全球秩序。",
+          "url": "https://wallstreetcn.com/livenews/3070991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
+        },
+        {
           "title": "特朗普称正与他国商讨共同保障霍尔木兹海峡航行安全",
           "url": "https://wallstreetcn.com/livenews/3070554",
           "source": "华尔街见闻-快讯",
@@ -571,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "特朗普：一旦伊朗战争结束，油价就会像滚石般迅速下跌",
+          "url": "https://flash.jin10.com/detail/20260316221226433800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "特朗普威胁北约",
@@ -593,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "西班牙首相桑切斯：美国总统特朗普的伊朗战争破坏了全球秩序。",
+          "url": "https://flash.jin10.com/detail/20260316221056974800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "特朗普“点名”日本，高市最新表态",
@@ -620,7 +690,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -636,13 +706,24 @@
           "time_info": "[00时32分 ~ 15时16分]"
         },
         {
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
+        {
           "title": "霍尔木兹海峡现通航迹象，美股期货涨幅扩大，WTI原油日内跌幅达3%，现货黄金重回5000美元",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -653,7 +734,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -664,7 +745,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -796,11 +877,12 @@
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时00分]"
         }
       ]
     }
