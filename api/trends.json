@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T03:05:03.335698+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-03-20T03:49:37.826125+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -37,30 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260320030056140800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3073529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -71,8 +49,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260320030056140800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -82,8 +71,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
+        },
+        {
+          "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3073529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 03时49分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -93,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 03时49分]"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -139,9 +140,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
+          "url": "https://flash.jin10.com/detail/20260320031721039800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -153,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列在针对南帕尔斯的行动中系单独行动。特朗普要求我们暂停今后此类袭击。",
+          "url": "https://flash.jin10.com/detail/20260320031127772800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -213,7 +236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -223,8 +246,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
@@ -247,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美股三大股指拉升转涨。",
+          "url": "https://flash.jin10.com/detail/20260320030714362800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         }
       ]
     },
@@ -273,7 +307,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
@@ -291,8 +325,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
+          "url": "https://flash.jin10.com/detail/20260320033049642800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         }
       ]
     }
