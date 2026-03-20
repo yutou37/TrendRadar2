@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:40:08.124948+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-03-20T17:40:52.195570+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,21 @@
           "time_info": "[00时57分 ~ 12时22分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[05时35分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://www.cls.cn/detail/2318930",
           "source": "财联社热门",
@@ -52,20 +67,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时01分 ~ 16时40分]"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时35分 ~ 16时40分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 17时40分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -122,8 +123,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 17时40分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -135,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 16时40分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
@@ -170,6 +171,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 04时37分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时40分]"
         },
         {
           "title": "高市见特朗普时逞强说英语",
@@ -296,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：（当被问及以色列将美国拖入战争）谁会认为有人能告诉特朗普该怎么做？",
@@ -495,11 +497,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 17时40分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -612,7 +615,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -645,7 +648,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -689,7 +692,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
