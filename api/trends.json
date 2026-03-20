@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:55:00.783696+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-20T15:46:18.593457+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时35分 ~ 14时55分]"
+          "appearance_count": 11,
+          "time_info": "[05时35分 ~ 15时46分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 14时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 15时46分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -98,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时46分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -110,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时46分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -132,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 15时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
@@ -167,8 +167,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时46分]"
         },
         {
           "title": "高市见特朗普时逞强说英语",
@@ -487,8 +487,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时46分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -498,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时46分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -753,7 +753,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
