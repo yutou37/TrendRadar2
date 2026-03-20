@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T20:58:25.699900+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2026-03-20T22:03:28.543844+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时35分 ~ 20时58分]"
+          "appearance_count": 19,
+          "time_info": "[05时35分 ~ 22时03分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -174,6 +174,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "特朗普：北约抱怨油价，却不愿在霍尔木兹海峡问题上提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3074200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260320030056140800",
           "source": "金十数据",
@@ -183,6 +194,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时03分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -209,18 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时39分 ~ 18时37分]"
-        },
-        {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时58分]"
         },
         {
           "title": "高市见特朗普时逞强说英语",
@@ -360,6 +371,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "特朗普批北约“纸老虎”：不愿协助开海峡，转头怨高油价",
+          "url": "https://flash.jin10.com/detail/20260320214852937800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
           "url": "https://flash.jin10.com/detail/20260320031721039800",
           "source": "金十数据",
@@ -391,6 +413,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美国总统特朗普：对北约来说，这（参与行动）简直太容易了，而且风险极小。他们是懦夫，我们会永远铭记这一点！",
+          "url": "https://flash.jin10.com/detail/20260320214710798800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国总统特朗普：北约当初不愿参与阻止伊朗发展核武器的战争。如今这场战争已经取得军事胜利，对他们来说几乎没有任何危险，他们却抱怨被迫承担高油价，也不愿协助打通霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260320214618343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -446,6 +490,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "美国总统特朗普：没有美国，北约就是一只纸老虎。",
+          "url": "https://flash.jin10.com/detail/20260320214442112800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普呼吁美国国会采取行动，“立即”通过农业法案。",
+          "url": "https://wallstreetcn.com/livenews/3074182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -550,7 +616,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -562,8 +628,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时01分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[10时01分 ~ 22时03分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -612,6 +678,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时35分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时03分]"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时03分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -670,17 +760,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260320040620199800",
           "source": "金十数据",
@@ -736,15 +815,26 @@
           "time_info": "16时40分"
         },
         {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
+          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3074189",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "22时03分"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260320214206938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
@@ -789,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3074178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "超微电脑(SMCI.O)美股盘前跌超20%。",
@@ -869,7 +970,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
@@ -903,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "xAI派工程师上门服务，争夺OpenAI企业客户",
+          "url": "https://wallstreetcn.com/livenews/3074174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
