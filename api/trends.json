@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:32:15.274689+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2026-03-20T20:58:25.699900+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
             8,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时35分 ~ 19时32分]"
+          "appearance_count": 18,
+          "time_info": "[05时35分 ~ 20时58分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -128,6 +129,17 @@
           "time_info": "[03时04分 ~ 10时02分]"
         },
         {
+          "title": "美以伊战争丨特朗普考虑占领伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
           "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
@@ -138,17 +150,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时52分 ~ 18时37分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普考虑占领伊朗哈尔克岛",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -210,6 +211,18 @@
           "time_info": "[16时39分 ~ 18时37分]"
         },
         {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 20时58分]"
+        },
+        {
           "title": "高市见特朗普时逞强说英语",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%80%9E%E5%BC%BA%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -220,17 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时52分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -507,7 +509,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -548,7 +550,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -556,11 +558,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 19时32分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -667,6 +670,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260320040620199800",
           "source": "金十数据",
@@ -720,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
