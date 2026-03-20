@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:03:28.543844+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-03-20T23:42:48.592467+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时35分 ~ 22时03分]"
+          "appearance_count": 20,
+          "time_info": "[05时35分 ~ 23时42分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -163,6 +163,17 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "特朗普：伊朗重建需要耗时十年。",
+          "url": "https://wallstreetcn.com/livenews/3074250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普密谋占领伊朗哈尔克岛，欲强行打通霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260320181212819800",
           "source": "金十数据",
@@ -174,13 +185,47 @@
           "time_info": "18时37分"
         },
         {
+          "title": "美国总统特朗普：伊朗需要10年才能重建。",
+          "url": "https://flash.jin10.com/detail/20260320233659653800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时42分]"
+        },
+        {
+          "title": "向特朗普提问的日本记者遭网暴",
+          "url": "https://www.toutiao.com/trending/7619256399495233563/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普：北约抱怨油价，却不愿在霍尔木兹海峡问题上提供帮助。",
           "url": "https://wallstreetcn.com/livenews/3074200",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -194,18 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时03分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -360,6 +393,17 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：（当被问及以色列将美国拖入战争）谁会认为有人能告诉特朗普该怎么做？",
           "url": "https://flash.jin10.com/detail/20260320030032027800",
           "source": "金十数据",
@@ -371,15 +415,37 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国总统特朗普：你等着瞧吧。古巴的好日子已经过去了。",
+          "url": "https://flash.jin10.com/detail/20260320233329658800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普批北约“纸老虎”：不愿协助开海峡，转头怨高油价",
           "url": "https://flash.jin10.com/detail/20260320214852937800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普：美军在伊朗战争中表现“极为出色”",
+          "url": "https://flash.jin10.com/detail/20260320233248421800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -391,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "特朗普：想和伊朗谈，但对方没领导人了",
+          "url": "https://flash.jin10.com/detail/20260320233059854800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "【内塔尼亚胡：以方将“暂停”空袭伊朗能源设施】以色列总理内塔尼亚胡19日在一场新闻发布会上回答媒体提问时称，是以色列“单独”空袭了伊朗天然气田，以方将“遵守”美国总统特朗普所提“暂停”后续空袭能源设施的要求。特朗普当天早些时候在白宫回答媒体提问时表示，他已经告知内塔尼亚胡不要攻击伊朗境内的能源设施。据伊朗媒体18日报道，伊朗南部布什尔省南帕尔斯和阿萨卢耶部分石油化工设施遭美国和以色列空袭。伊朗随后宣布打击沙特阿拉伯、卡塔尔等海湾国家与美国相关的石油设施。特朗普当天在社交媒体上发文，称美方对以色列袭击伊朗油气设施事先“毫不知情”。（新华社）",
@@ -421,7 +498,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -432,7 +509,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -492,13 +569,24 @@
           "time_info": "12时22分"
         },
         {
+          "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
+          "url": "https://wallstreetcn.com/livenews/3074231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国总统特朗普：没有美国，北约就是一只纸老虎。",
           "url": "https://flash.jin10.com/detail/20260320214442112800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -509,9 +597,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -602,6 +701,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "美国总统特朗普祝贺美国联邦通信委员会（FCC）主席在应对“假新闻”方面的工作。",
+          "url": "https://flash.jin10.com/detail/20260320230219947800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
           "url": "https://flash.jin10.com/detail/20260320123515383800",
           "source": "金十数据",
@@ -616,7 +726,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -628,8 +738,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 22时03分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 23时42分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -685,11 +795,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时42分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -697,11 +808,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时42分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -758,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
@@ -821,7 +944,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -832,7 +955,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -887,7 +1010,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1012,7 +1135,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
