@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:40:52.195570+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-03-20T18:37:48.709902+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时35分 ~ 17时40分]"
+          "appearance_count": 15,
+          "time_info": "[05时35分 ~ 18时37分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时52分 ~ 16时40分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 18时37分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -116,26 +127,16 @@
           "time_info": "[03时04分 ~ 10时02分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 17时40分]"
-        },
-        {
           "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
           "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 18时37分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -147,6 +148,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普考虑占领伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "特朗普密谋占领伊朗哈尔克岛，欲强行打通霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260320181212819800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
@@ -178,11 +201,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "高市见特朗普时逞强说英语",
@@ -476,6 +500,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-20）",
+          "url": "https://flash.jin10.com/detail/20260320175809578800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
           "url": "https://flash.jin10.com/detail/20260320123515383800",
           "source": "金十数据",
@@ -490,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -501,8 +536,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 17时40分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 18时37分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -574,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.83%，报341.31点，逼近2025年12月18日收盘位338.36点，较2月27日所创收盘历史最高位累计回撤27.44%。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌6.63%，报2395.68点，逼近12月16日收盘位2378.54点，较3月2日所创收盘历史最高位累计回撤27.57%。 在美股时段交易的原材料指数收跌2.67%，金属与矿业指数收跌0.86%。",
@@ -653,6 +699,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
+          "url": "https://wallstreetcn.com/livenews/3074027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260320010337054800",
           "source": "金十数据",
@@ -700,7 +757,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
@@ -737,6 +794,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时35分]"
+        },
+        {
+          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
+          "url": "https://wallstreetcn.com/livenews/3074039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "美元指数DXY日内大跌1%，现报99.29。",
