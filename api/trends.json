@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T17:32:01.540720+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-03-21T18:26:23.764355+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时26分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -47,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时28分 ~ 17时32分]"
+          "appearance_count": 13,
+          "time_info": "[06时28分 ~ 18时26分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -74,8 +74,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 17时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 18时26分]"
+        },
+        {
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 18时26分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -101,18 +115,16 @@
           "time_info": "[00时42分 ~ 09时55分]"
         },
         {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            8,
-            6,
-            4
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 18时26分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -120,11 +132,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时26分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -158,18 +171,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 12时06分]"
-        },
-        {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 17时32分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -424,6 +425,18 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "默茨说特朗普对他不太满意",
+          "url": "https://wallstreetcn.com/livenews/3074426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时26分]"
+        },
+        {
           "title": "【特朗普：当美国想结束与伊朗冲突时，以色列也会同步】美国总统特朗普表示，他认为，当美国想结束与伊朗的冲突时，以色列也准备好结束这场冲突。当被问及一旦美国完成军事行动，以色列是否准备结束对伊朗的战争时，特朗普回答说，“我认为是这样”。谈及英国的协助，特朗普称，英国反应迟缓，他们本应行动更快。当地时间20日，英国政府授权美国使用英国境内的军事基地，“对伊朗用于袭击霍尔木兹海峡船只的导弹设施实施打击”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3074333",
           "source": "华尔街见闻-快讯",
@@ -493,15 +506,15 @@
           "time_info": "09时55分"
         },
         {
-          "title": "默茨说特朗普对他不太满意",
-          "url": "https://wallstreetcn.com/livenews/3074426",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：特朗普的“和平委员会”已向哈马斯发出解除武装方案",
+          "url": "https://flash.jin10.com/detail/20260321175438969800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "18时26分"
         },
         {
           "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
@@ -660,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时26分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -687,8 +700,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时26分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -703,8 +716,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 17时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 18时26分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 18时26分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -720,21 +748,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 06时28分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 17时32分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -810,6 +823,17 @@
           "time_info": "[05时31分 ~ 09时55分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
           "title": "美股三大指数收跌 超微电脑跌超30%",
           "url": "https://flash.jin10.com/detail/20260321040036809800",
           "source": "金十数据",
@@ -831,17 +855,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
