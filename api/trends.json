@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:38:29.949402+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-03-22T16:34:40.281387+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时34分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -75,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时34分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -109,8 +109,24 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
+          "url": "https://wallstreetcn.com/livenews/3074479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            15,
+            18,
+            21,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时07分 ~ 15时38分]"
+          "time_info": "[10时07分 ~ 16时34分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁袭击电厂，伊朗回击",
@@ -153,19 +169,16 @@
           "time_info": "[03时24分 ~ 07时24分]"
         },
         {
-          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
-          "url": "https://wallstreetcn.com/livenews/3074479",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
             13,
-            15,
-            18,
-            21
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 16时34分]"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -174,18 +187,6 @@
           "ranks": [
             9,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 15时38分]"
-        },
-        {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -224,8 +225,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时34分]"
         },
         {
           "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
@@ -235,8 +236,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -331,8 +332,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时34分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
