@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T00:30:54.190643+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-23T01:25:36.632199+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -36,20 +36,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
           "url": "https://wallstreetcn.com/articles/3768099",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -59,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
@@ -70,19 +71,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -92,19 +94,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
           "url": "https://www.toutiao.com/trending/7619720129802387475/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
@@ -114,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗议长回应特朗普“最后通牒”",
@@ -125,8 +128,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -135,9 +138,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -146,9 +149,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "市场消息：美国财长贝森特被问及特朗普威胁要轰炸伊朗发电厂一事时表示，“这是伊朗人唯一能听懂的语言”。",
@@ -157,9 +160,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "伊朗革命卫队：若特朗普兑现威胁、袭击伊朗能源设施，则驻有美军基地的国家的能源设施将成为“合法”打击目标。",
@@ -168,9 +171,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "伊朗革命卫队：如果美国总统特朗普兑现威胁，打击伊朗的能源设施，霍尔木兹海峡将彻底关闭。",
@@ -179,9 +182,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -190,9 +193,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         }
       ]
     }
