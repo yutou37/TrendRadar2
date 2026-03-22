@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T05:26:38.441178+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-03-23T06:25:34.093335+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -39,8 +39,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
+          "url": "https://www.cls.cn/detail/2320606",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
+          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
@@ -54,52 +100,6 @@
           "time_info": "[02时36分 ~ 04时27分]"
         },
         {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
-          "url": "https://www.cls.cn/detail/2320606",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
-        },
-        {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
-          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
-        },
-        {
-          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
-        },
-        {
-          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
-          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
-        },
-        {
           "title": "伊朗提出4项措施回应特朗普威胁",
           "url": "https://www.toutiao.com/trending/7619720129802387475/",
           "source": "今日头条",
@@ -109,8 +109,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
@@ -120,8 +120,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗议长回应特朗普“最后通牒”",
@@ -133,8 +133,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -161,6 +161,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 03时25分]"
+        },
+        {
+          "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
+          "url": "https://wallstreetcn.com/livenews/3074621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 06时25分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -211,17 +225,16 @@
           "time_info": "[00时30分 ~ 04时27分]"
         },
         {
-          "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
-          "url": "https://wallstreetcn.com/livenews/3074621",
-          "source": "华尔街见闻-快讯",
+          "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
+          "url": "https://flash.jin10.com/detail/20260323042752009800",
+          "source": "金十数据",
           "ranks": [
-            4,
             8,
-            10
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时26分]"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时25分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -235,15 +248,43 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
-          "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
-          "url": "https://flash.jin10.com/detail/20260323042752009800",
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260323060003087800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股期货亚市盘初走低，油价上涨",
+          "url": "https://wallstreetcn.com/livenews/3074641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美股股指期货周一走低，纳指期货跌0.68%。",
+          "url": "https://flash.jin10.com/detail/20260323060224970800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     }
