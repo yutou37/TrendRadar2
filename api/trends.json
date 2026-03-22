@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T19:23:34.068630+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-03-22T20:50:18.556568+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时07分 ~ 20时50分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -102,6 +102,18 @@
           "time_info": "[01时25分 ~ 04时26分]"
         },
         {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 20时50分]"
+        },
+        {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
           "url": "https://www.cls.cn/detail/2320222",
           "source": "财联社热门",
@@ -111,18 +123,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 19时23分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -199,20 +199,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
         {
-          "title": "伊朗回应特朗普开放霍尔木兹海峡“最后通牒”：若遭袭将报复",
-          "url": "https://wallstreetcn.com/livenews/3074535",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：如今伊朗被击败，美国最大的敌人就是激进左翼、极其无能的民主党！",
+          "url": "https://flash.jin10.com/detail/20260322202609721800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "20时50分"
+        },
+        {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-22）",
@@ -221,7 +233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -249,16 +261,17 @@
           "time_info": "[12时52分 ~ 15时38分]"
         },
         {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
-          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
-          "source": "凤凰网",
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            6
+            11,
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
@@ -285,6 +298,18 @@
           "time_info": "[17时32分 ~ 18时27分]"
         },
         {
+          "title": "伊朗回应特朗普开放霍尔木兹海峡“最后通牒”：若遭袭将报复",
+          "url": "https://wallstreetcn.com/livenews/3074535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时50分]"
+        },
+        {
           "title": "伊朗回应特朗普袭击电厂威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AD%E5%87%BB%E7%94%B5%E5%8E%82%E5%A8%81%E8%83%81%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -296,18 +321,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 13时54分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
-          "url": "https://www.cls.cn/detail/2320568",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -333,6 +346,28 @@
           "time_info": "[10时07分 ~ 12时52分]"
         },
         {
+          "title": "美国总统特朗普：周一，美国移民及海关执法局（ICE）将前往机场，协助我们优秀的运输安全管理局（TSA）工作人员。",
+          "url": "https://flash.jin10.com/detail/20260322200100766800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
+          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "若特朗普兑现威胁 伊朗天然气发电厂恐遭袭击",
           "url": "https://flash.jin10.com/detail/20260322173327101800",
           "source": "金十数据",
@@ -342,6 +377,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗议长回应特朗普“最后通牒”",
+          "url": "https://www.toutiao.com/trending/7618960620453642250/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/livenews/3074555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -366,6 +423,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "美军增兵、特朗普下通牒，伊朗称地面部队处于战备“巅峰状态”",
+          "url": "https://wallstreetcn.com/livenews/3074552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "特朗普要求伊朗开放霍尔木兹海峡 威胁摧毁发电厂",
           "url": "https://flash.jin10.com/detail/20260322080327874800",
           "source": "金十数据",
@@ -375,6 +443,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我相信特朗普总统知道自己在做什么，而他所做的，我们也是一起在做。",
+          "url": "https://flash.jin10.com/detail/20260322191333311800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普希望国际社会对抗伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20260322191315599800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -410,11 +500,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -457,6 +548,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "渣打集团行政总裁：希望进一步深入了解DeepSeek",
+          "url": "https://wallstreetcn.com/livenews/3074546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     }
