@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T18:03:03.835408+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-03-23T19:43:37.676326+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 50,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -51,20 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 18时03分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 18时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 19时43分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -79,6 +67,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时28分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 19时43分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
@@ -141,6 +142,17 @@
           "time_info": "[00时29分 ~ 16时55分]"
         },
         {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时43分]"
+        },
+        {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
           "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
           "source": "凤凰网",
@@ -175,15 +187,18 @@
           "time_info": "[02时36分 ~ 04时27分]"
         },
         {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            7,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 19时43分]"
         },
         {
           "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
@@ -222,17 +237,15 @@
           "time_info": "[13时02分 ~ 18时03分]"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
+          "title": "美以伊战争丨特朗普：与伊朗进行了富有成效的对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 18时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -263,6 +276,17 @@
           "time_info": "[03时25分 ~ 07时28分]"
         },
         {
+          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
+          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3074595",
           "source": "华尔街见闻-快讯",
@@ -285,6 +309,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时09分 ~ 19时43分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -335,18 +371,6 @@
           "time_info": "[00时30分 ~ 04时27分]"
         },
         {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 18时03分]"
-        },
-        {
           "title": "中方回应特朗普向伊朗发出最后通牒",
           "url": "https://www.toutiao.com/trending/7620351961246924809/",
           "source": "今日头条",
@@ -355,8 +379,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -382,6 +406,39 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
+          "title": "特朗普称美伊进行了富有成效的对话",
+          "url": "https://www.toutiao.com/trending/7619517736586821695/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普称推迟5天打击伊朗发电站",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F5%E5%A4%A9%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E7%AB%99%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普：美伊进行富有成效的对话",
+          "url": "https://www.douyin.com/hot/2441030",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普最后通牒还剩24小时，贝森特表态“先升级再缓和”，亚洲股市重挫、黄金一度跌超3%",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -404,6 +461,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国总统特朗普就伊朗发表评论后，英国国债期货上涨200个基点。",
+          "url": "https://flash.jin10.com/detail/20260323191202412800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普逐步降级言论会否引发市场反弹？分析师警告：别轻易当真",
           "url": "https://www.cls.cn/detail/2320461",
           "source": "财联社热门",
@@ -413,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
@@ -426,6 +505,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "特朗普称“推迟5天”打击伊朗发电站",
+          "url": "https://wallstreetcn.com/livenews/3075149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普：美伊对话取得良好进展 推迟五天对伊军事打击",
+          "url": "https://flash.jin10.com/detail/20260323191100265800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "逼宫戏码适得其反？特朗普施压下，鲍威尔或成“影子美联储主席”",
           "url": "https://flash.jin10.com/detail/20260323163515320800",
           "source": "金十数据",
@@ -435,6 +536,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "因特朗普发表暂停对伊朗打击的言论，欧洲天然气价格下跌8.9%。",
+          "url": "https://flash.jin10.com/detail/20260323191008578800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "欧洲斯托克600指数大幅上涨并转为当日上涨，涨0.1%，美国总统特朗普表示，已将针对伊朗发电厂和能源基础设施的“任何及所有”军事打击推迟五天。",
+          "url": "https://flash.jin10.com/detail/20260323190917640800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的谈判将继续。",
+          "url": "https://flash.jin10.com/detail/20260323190852110800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "在美国总统特朗普表示对伊朗的打击被推迟后，美国国债抹去跌幅。",
+          "url": "https://flash.jin10.com/detail/20260323190826223800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -451,8 +596,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "全球市场V型反转，美股期货盘前急速拉升，原油大跌，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
         {
           "title": "美股期货亚市盘初走低，油价上涨",
           "url": "https://wallstreetcn.com/livenews/3074641",
@@ -476,6 +632,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时28分]"
+        },
+        {
+          "title": "欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%",
+          "url": "https://wallstreetcn.com/livenews/3075157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "高盛：AI或是美股最后的抛售来源",
@@ -517,9 +684,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "美股期货拉升，纳斯达克100指数期货涨超2%，标普500指数期货涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3075140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "美股盘前黄金股下跌，泛美白银跌7.5%，哈莫尼黄金、AngloGold Ashant跌超5%。",
@@ -536,7 +714,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数DXY再次突破100关口，日内涨0.50%。",
@@ -545,7 +723,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -556,9 +734,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "美元指数持续走低，较日内高位走低约100点，最新报99.50。",
+          "url": "https://wallstreetcn.com/livenews/3075155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -578,8 +767,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 19时43分]"
         }
       ]
     }
