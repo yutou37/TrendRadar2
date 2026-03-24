@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T01:56:03.839754+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-25T03:02:31.023312+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 30,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -16,8 +16,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
+        },
+        {
+          "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
+          "url": "https://wallstreetcn.com/livenews/3076151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
+          "url": "https://wallstreetcn.com/livenews/3076150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普 ：（谈政府停摆）再看看能否达成和解。",
+          "url": "https://flash.jin10.com/detail/20260325025152465800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -31,6 +64,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普：仇恨不利于达成协议。",
+          "url": "https://flash.jin10.com/detail/20260325024928882800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
           "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
           "source": "澎湃新闻",
@@ -38,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -49,19 +93,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -71,8 +116,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -80,22 +125,46 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
           "url": "https://wallstreetcn.com/livenews/3076119",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
+          "url": "https://flash.jin10.com/detail/20260325024858912800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时02分"
+        },
+        {
+          "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3076142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "美国国务院官员：特朗普政府仍在评估恢复美国核武器试验的方法。",
@@ -109,6 +178,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普：美军在德黑兰上空“行动自由”。",
+          "url": "https://flash.jin10.com/detail/20260325024528782800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
           "url": "https://www.cls.cn/detail/2322947",
           "source": "财联社热门",
@@ -120,13 +200,24 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普：这场战争已经赢了。",
+          "url": "https://flash.jin10.com/detail/20260325024516794800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260325011633926800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -137,9 +228,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗“送给我们一份非常大的礼物”，价值“一大笔钱”。伊朗的“礼物”是“油气相关”的，与霍尔木兹海峡有关。",
+          "url": "https://flash.jin10.com/detail/20260325024105261800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我认为可以说，这是一次政权更迭。",
+          "url": "https://flash.jin10.com/detail/20260325024026103800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普：立法者在政府停摆问题上已相当接近达成协议。",
+          "url": "https://flash.jin10.com/detail/20260325023742305800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普：海湾盟友表现得相当不错。",
+          "url": "https://flash.jin10.com/detail/20260325023539526800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "莫迪：与特朗普通话讨论西亚局势",
@@ -153,6 +288,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普称伊朗方面“希望达成协议”",
+          "url": "https://flash.jin10.com/detail/20260325023312261800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "谁比总统快一步？起底特朗普2.0最危险交易局！",
           "url": "https://flash.jin10.com/detail/20260324233226681800",
           "source": "金十数据",
@@ -162,6 +308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已同意永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260325023014175800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260325022938356800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
@@ -188,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -199,8 +367,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -211,8 +379,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -223,8 +391,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
@@ -244,7 +412,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -252,7 +420,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
@@ -266,6 +434,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
           "url": "https://wallstreetcn.com/livenews/3076067",
           "source": "华尔街见闻-快讯",
@@ -275,6 +454,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Claude刚刚杀死了OpenClaw！",
+          "url": "https://wallstreetcn.com/articles/3768255",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时02分]"
+        },
+        {
+          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3076056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
+          "url": "https://wallstreetcn.com/livenews/3076129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -289,7 +518,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -300,37 +529,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Claude刚刚杀死了OpenClaw！",
-          "url": "https://wallstreetcn.com/articles/3768255",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3076056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
         }
       ]
     },
@@ -346,8 +547,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时02分]"
         }
       ]
     },
@@ -362,7 +563,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
