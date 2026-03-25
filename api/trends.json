@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T07:32:26.564837+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-03-25T10:06:12.675607+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -40,11 +40,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 10时06分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -70,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 10时06分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -83,6 +84,41 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时09分 ~ 06时31分]"
+        },
+        {
+          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
+          "url": "https://www.cls.cn/detail/2323637",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时06分]"
+        },
+        {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -124,7 +160,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -138,28 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
-          "url": "https://www.cls.cn/detail/2323637",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "美国总统特朗普：仇恨不利于达成协议。",
@@ -183,6 +197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
+          "url": "https://www.cls.cn/detail/2323574",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时06分]"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
@@ -280,7 +306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -318,17 +344,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
-          "url": "https://www.cls.cn/detail/2323574",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
           "title": "美国总统特朗普：立法者在政府停摆问题上已相当接近达成协议。",
           "url": "https://flash.jin10.com/detail/20260325023742305800",
           "source": "金十数据",
@@ -338,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "消息人士：特朗普“TACO”，因海湾国家发出警告以及担心误判伊朗的打击意愿",
+          "url": "https://flash.jin10.com/detail/20260325093241734800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国总统特朗普：海湾盟友表现得相当不错。",
@@ -379,7 +405,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -423,7 +449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -453,7 +479,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -501,8 +527,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 10时06分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -511,20 +537,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时06分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
           "url": "https://www.cls.cn/detail/2323617",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时06分]"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -674,12 +701,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股最稳“接盘侠”转向？散户时隔1年半首次净卖出个股",
+          "url": "https://flash.jin10.com/detail/20260325092506883800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -728,6 +766,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时31分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -813,7 +873,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -835,7 +895,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -857,7 +917,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -940,7 +1000,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -948,7 +1008,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -956,11 +1016,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 10时06分]"
+        },
+        {
+          "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
+          "url": "https://www.cls.cn/detail/2323662",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -997,7 +1069,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
