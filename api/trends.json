@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T17:54:24.439313+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-03-25T18:49:10.220609+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 17时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 18时49分]"
         },
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -135,6 +135,32 @@
           "time_info": "[00时09分 ~ 06时31分]"
         },
         {
+          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323758",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时49分]"
+        },
+        {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
           "url": "https://www.cls.cn/detail/2323574",
           "source": "财联社热门",
@@ -147,18 +173,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时32分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
-          "url": "https://www.cls.cn/detail/2323758",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 17时54分]"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -183,6 +197,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "市场消息：美国共和党众议员Alexandria Ocasio-Cortez正式呼吁根据宪法第二十五条修正案解除特朗普的职务。",
+          "url": "https://flash.jin10.com/detail/20260325181805891800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
           "url": "https://wallstreetcn.com/livenews/3076150",
           "source": "华尔街见闻-快讯",
@@ -192,18 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普称已向伊朗提出和平方案，中方回应",
-          "url": "https://www.cls.cn/detail/2324238",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时54分]"
         },
         {
           "title": "美国总统特朗普 ：（谈政府停摆）再看看能否达成和解。",
@@ -250,6 +263,29 @@
           "time_info": "03时02分"
         },
         {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时49分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时49分]"
+        },
+        {
           "title": "特朗普称：在对伊行动中已“取得胜利”，伊朗已经“完全被打败了”",
           "url": "https://wallstreetcn.com/livenews/3076217",
           "source": "华尔街见闻-快讯",
@@ -262,26 +298,27 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
-          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
-          "url": "https://www.cls.cn/detail/2323952",
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
           "source": "财联社热门",
           "ranks": [
-            11
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时54分]"
+          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时54分]"
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
@@ -294,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时02分]"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -360,17 +408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
@@ -560,6 +597,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "北约内讧爆发？秘书长再向特朗普“献媚”，欧洲抵制并“无语”",
+          "url": "https://flash.jin10.com/detail/20260325175235727800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
           "url": "https://wallstreetcn.com/livenews/3076046",
           "source": "华尔街见闻-快讯",
@@ -607,8 +655,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 17时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 18时49分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -672,8 +720,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 17时54分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 18时49分]"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -698,6 +746,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 18时49分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -746,17 +805,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
@@ -881,25 +929,12 @@
           "ranks": [
             5,
             4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 17时54分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            7
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时05分 ~ 17时54分]"
+          "time_info": "[12时53分 ~ 18时49分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -911,6 +946,20 @@
             19,
             25,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 18时49分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
