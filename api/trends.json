@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:02:21.496649+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-03-25T15:15:39.171753+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时15分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -41,8 +41,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时15分]"
+        },
+        {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时02分]"
+          "time_info": "[10时05分 ~ 15时15分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -99,18 +111,6 @@
           "time_info": "[00时09分 ~ 10时06分]"
         },
         {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时02分]"
-        },
-        {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
           "url": "https://wallstreetcn.com/articles/3768206",
           "source": "华尔街见闻",
@@ -129,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时15分]"
         },
         {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
@@ -143,8 +143,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -244,8 +244,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时15分]"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
@@ -486,7 +486,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -546,11 +546,39 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时15分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 15时15分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 15时15分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -573,32 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时02分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时02分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -816,8 +818,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时15分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -828,8 +830,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时15分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -854,11 +856,12 @@
             13,
             14,
             21,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时09分 ~ 15时15分]"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -1108,8 +1111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时55分 ~ 14时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 15时15分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
