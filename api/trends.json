@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:08:00.716810+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-03-26T17:21:11.102666+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -39,8 +39,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时38分 ~ 15时08分]"
+          "appearance_count": 11,
+          "time_info": "[05时38分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 17时21分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -78,16 +90,18 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
-          "source": "凤凰网",
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3
+            18,
+            8,
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 17时21分]"
         },
         {
           "title": "白宫：特朗普将于5月中旬访华",
@@ -114,18 +128,49 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普称5月访华",
+          "url": "https://news.ifeng.com/c/8roF6LOhLGd",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            8,
-            4,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时08分]"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B05%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华保持着沟通",
+          "url": "https://www.cls.cn/detail/2325505",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
@@ -174,6 +219,28 @@
           "time_info": "13时06分"
         },
         {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时21分]"
+        },
+        {
+          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
+          "url": "https://www.cls.cn/detail/2325422",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
           "url": "https://flash.jin10.com/detail/20260326060757337800",
           "source": "金十数据",
@@ -186,17 +253,6 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
-          "url": "https://wallstreetcn.com/articles/3768421",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
           "title": "特朗普政府发布紧急豁免令，放宽夏季燃料限制以平抑战争高油价",
           "url": "https://wallstreetcn.com/livenews/3076835",
           "source": "华尔街见闻-快讯",
@@ -207,6 +263,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时04分]"
+        },
+        {
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "中美双方就特朗普访华事保持着沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "特朗普把48小时最后通牒咽了回去",
@@ -262,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "市场频现“股神级”操作：特朗普还没发文，他们早已埋伏！",
+          "url": "https://flash.jin10.com/detail/20260326170447274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美国总统特朗普：仇恨国家的民主党正在试图制造内部混乱，以掩盖我们在伊朗取得的伟大军事成就。他们讨厌看到我们如此彻底和果断的胜利，但美国公众看到了正在发生的事情。",
@@ -365,8 +454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 17时21分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -554,7 +643,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -565,8 +654,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 17时21分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -595,11 +684,12 @@
           "url": "https://www.cls.cn/detail/2325322",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时21分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -612,6 +702,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时04分]"
+        },
+        {
+          "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2325042",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -653,8 +754,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 15时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 17时21分]"
         },
         {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
@@ -735,8 +836,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 15时08分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 17时21分]"
         }
       ]
     }
