@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T21:05:07.562368+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-03-27T22:50:10.352264+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时55分 ~ 21时05分]"
+          "appearance_count": 20,
+          "time_info": "[03时55分 ~ 22时50分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -110,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时13分 ~ 22时50分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -206,6 +206,20 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 22时50分]"
+        },
+        {
           "title": "一直赢的特朗普，又给自己续了10天",
           "url": "https://news.ifeng.com/c/8rpKy15FPLN",
           "source": "凤凰网",
@@ -297,20 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时05分]"
         },
         {
           "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
@@ -602,7 +602,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -742,7 +742,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -751,11 +751,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时13分 ~ 22时50分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -769,8 +770,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时13分 ~ 22时50分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -853,6 +854,28 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "20岁女生引爆美股至暗时刻",
+          "url": "https://www.toutiao.com/trending/7621797188750344246/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        },
+        {
+          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.toutiao.com/trending/7621704767055597083/",
           "source": "今日头条",
@@ -885,6 +908,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 22时50分]"
         },
         {
           "title": "美股大跳水",
@@ -923,24 +957,13 @@
           "time_info": "[17时54分 ~ 18时49分]"
         },
         {
-          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2327400",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3078265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1015,11 +1038,12 @@
             17,
             13,
             11,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时13分 ~ 22时50分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1029,22 +1053,12 @@
             9,
             5,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时06分 ~ 21时05分]"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 04时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时06分 ~ 22时50分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -1056,11 +1070,23 @@
             10,
             12,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 21时05分]"
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 22时50分]"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 04时36分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -1295,7 +1321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
