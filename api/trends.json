@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-28T07:32:38.638110+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-03-28T10:04:39.935108+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时38分 ~ 10时04分]"
+        },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=26&Refer=top",
@@ -20,15 +31,31 @@
           "time_info": "[01时50分 ~ 07时32分]"
         },
         {
-          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
-          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
-          "source": "凤凰网",
+          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
+          "url": "https://www.cls.cn/detail/2327594",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时38分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 10时04分]"
+        },
+        {
+          "title": "特朗普：乌克兰曾试图干预美大选",
+          "url": "https://www.cls.cn/detail/2327470",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 10时04分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -40,32 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时33分 ~ 06时32分]"
-        },
-        {
-          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
-          "url": "https://www.cls.cn/detail/2327594",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 07时32分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -80,48 +81,17 @@
           "time_info": "[00时55分 ~ 04时38分]"
         },
         {
-          "title": "美国总统特朗普：古巴是下一个。",
-          "url": "https://wallstreetcn.com/livenews/3078506",
-          "source": "华尔街见闻-快讯",
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美国总统特朗普：我们想要低利率，无通胀。",
-          "url": "https://wallstreetcn.com/livenews/3078505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
-          "url": "https://wallstreetcn.com/livenews/3078503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3078502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
+          "appearance_count": 6,
+          "time_info": "[05时33分 ~ 10时04分]"
         },
         {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
@@ -141,9 +111,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
@@ -155,6 +136,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美国总统特朗普：古巴是下一个。",
+          "url": "https://wallstreetcn.com/livenews/3078506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 10时04分]"
+        },
+        {
+          "title": "美国总统特朗普：我们想要低利率，无通胀。",
+          "url": "https://wallstreetcn.com/livenews/3078505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 10时04分]"
         },
         {
           "title": "特朗普认定国土安全部“停摆”构成紧急状态",
@@ -174,21 +179,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
         {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
+          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
+          "url": "https://wallstreetcn.com/livenews/3078503",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时33分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 10时04分]"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3078502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 10时04分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -486,6 +503,28 @@
           "time_info": "01时50分"
         },
         {
+          "title": "特朗普自称在委内瑞拉支持率高到可以竞选总统，鲁比奥听了都憋笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32843683",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
+          "url": "https://wallstreetcn.com/livenews/3078512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美国总统特朗普兜售关于燃料油E15的豁免行动，称：针对柴油发布新版指导意见。 要求国会山迅速批准新版农业立法草案。 相信众议长约翰逊等国会山成员能为农民找到一份（跨党派）协议。",
           "url": "https://wallstreetcn.com/livenews/3078406",
           "source": "华尔街见闻-快讯",
@@ -517,12 +556,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普谈战争与股市：我原以为股市会跌得更厉害",
+          "url": "https://flash.jin10.com/detail/20260328072728978800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -567,11 +617,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 10时04分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -580,9 +631,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时04分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时04分]"
+        },
+        {
+          "title": "美股“七姐妹”技术性崩坏正在提速",
+          "url": "https://www.toutiao.com/trending/7621931362551971883/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时04分"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -594,17 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -670,6 +732,17 @@
           "time_info": "[04时38分 ~ 05时34分]"
         },
         {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
           "url": "https://flash.jin10.com/detail/20260328020020260800",
           "source": "金十数据",
@@ -719,8 +792,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 10时04分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -734,8 +807,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 10时04分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -748,8 +821,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 10时04分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -762,8 +835,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 10时04分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
