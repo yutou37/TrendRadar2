@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T12:53:38.587823+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-03-28T13:57:16.069679+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -31,6 +31,19 @@
           "time_info": "[01时50分 ~ 07时32分]"
         },
         {
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时33分 ~ 13时57分]"
+        },
+        {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
@@ -42,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时50分 ~ 12时53分]"
+          "appearance_count": 14,
+          "time_info": "[01时50分 ~ 13时57分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -70,17 +83,15 @@
           "time_info": "[05时33分 ~ 06时32分]"
         },
         {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时33分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时57分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -100,17 +111,6 @@
           "source": "微博",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -139,17 +139,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "特朗普：看看中国的制造业 不管你喜不喜欢中国 但你必须尊重中国",
-          "url": "https://flash.jin10.com/detail/20260328122854546800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
           "url": "https://flash.jin10.com/detail/20260328032202123800",
           "source": "金十数据",
@@ -159,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普在内阁会议上东拉西扯 时而称赞贝森特的眼镜 时而称要竞选委内瑞拉总统",
+          "url": "https://flash.jin10.com/detail/20260328132848473800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "美国总统特朗普：古巴是下一个。",
@@ -233,6 +233,17 @@
           "time_info": "[06时32分 ~ 10时04分]"
         },
         {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时57分]"
+        },
+        {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
           "url": "https://flash.jin10.com/detail/20260328041150540800",
           "source": "金十数据",
@@ -244,6 +255,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时57分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -270,16 +294,28 @@
           "time_info": "[03时41分 ~ 04时38分]"
         },
         {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普：看看中国的制造业 不管你喜不喜欢中国 但你必须尊重中国",
+          "url": "https://flash.jin10.com/detail/20260328122854546800",
+          "source": "金十数据",
           "ranks": [
             2,
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时53分]"
+          "time_info": "[12时53分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普：古巴将是下一个目标。",
@@ -330,6 +366,19 @@
           "time_info": "[05时34分 ~ 07时32分]"
         },
         {
+          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
+          "url": "https://wallstreetcn.com/livenews/3078512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时57分]"
+        },
+        {
           "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
           "url": "https://wallstreetcn.com/livenews/3078481",
           "source": "华尔街见闻-快讯",
@@ -340,17 +389,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
@@ -375,17 +413,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "美国总统特朗普：我要感谢整个沙特阿拉伯王国；他们给予了我很大的帮助，这与北约截然不同。",
@@ -424,6 +451,18 @@
           "time_info": "[02时55分 ~ 03时41分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时57分]"
+        },
+        {
           "title": "特朗普将霍尔木兹海峡说成特朗普海峡",
           "url": "https://flash.jin10.com/detail/20260328055355915800",
           "source": "金十数据",
@@ -434,6 +473,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：伊朗必须开放霍尔木兹海峡。",
@@ -496,16 +547,15 @@
           "time_info": "[02时55分 ~ 03时41分]"
         },
         {
-          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
-          "url": "https://wallstreetcn.com/livenews/3078512",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时53分]"
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
@@ -530,17 +580,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
           "url": "https://flash.jin10.com/detail/20260328030555224800",
           "source": "金十数据",
@@ -561,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -654,7 +682,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -681,6 +709,28 @@
           "time_info": "[00时55分 ~ 07时32分]"
         },
         {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 13时57分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 13时57分]"
+        },
+        {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
@@ -705,28 +755,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时50分 ~ 10时04分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时53分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时53分]"
         },
         {
           "title": "美股“七姐妹”技术性崩坏正在提速",
@@ -764,6 +792,18 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 13时57分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040914755800",
           "source": "金十数据",
@@ -790,17 +830,6 @@
           "time_info": "[04时38分 ~ 06时32分]"
         },
         {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
           "url": "https://wallstreetcn.com/livenews/3078472",
           "source": "华尔街见闻-快讯",
@@ -811,6 +840,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
@@ -886,8 +926,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 12时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -899,11 +939,12 @@
             18,
             16,
             12,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 12时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -917,8 +958,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 12时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -929,11 +970,12 @@
             17,
             14,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 12时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 13时57分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
