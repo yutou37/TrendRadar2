@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:41:30.864729+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-30T03:32:19.224431+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -48,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -60,8 +60,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -90,8 +90,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -99,11 +99,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         }
       ]
     },
@@ -120,8 +121,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -130,11 +131,12 @@
           "ranks": [
             29,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         }
       ]
     },
@@ -150,8 +152,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时32分]"
         }
       ]
     }
