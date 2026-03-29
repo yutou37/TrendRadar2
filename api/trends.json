@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:54:47.139405+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-03-29T21:54:21.038097+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 20时54分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 21时54分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -101,6 +101,21 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时54分]"
+        },
+        {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
           "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
           "source": "凤凰网",
@@ -147,21 +162,6 @@
           "time_info": "[07时31分 ~ 13时11分]"
         },
         {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时54分]"
-        },
-        {
           "title": "美以伊战争丨多国爆发反特朗普抗议活动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -203,11 +203,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -221,6 +222,17 @@
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时54分]"
+        },
+        {
           "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
           "url": "https://flash.jin10.com/detail/20260329094312533800",
           "source": "金十数据",
@@ -230,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         }
       ]
     },
@@ -256,8 +257,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时54分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -273,8 +274,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 21时54分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -332,8 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时54分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -421,8 +422,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时54分]"
         }
       ]
     },
