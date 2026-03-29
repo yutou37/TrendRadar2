@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T00:35:13.749698+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:30:10.866506+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -48,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -58,9 +58,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -69,7 +69,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -84,22 +84,24 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "DeepSeek“崩了”",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         }
       ]
     },
@@ -112,22 +114,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         }
       ]
     },
@@ -143,8 +147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时30分]"
         }
       ]
     }
