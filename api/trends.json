@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T15:21:41.170015+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-31T17:01:06.807296+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 15时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 17时01分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时01分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -65,8 +65,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时41分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[05时41分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://www.cls.cn/detail/2329919",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时01分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -80,16 +106,17 @@
           "time_info": "[00时55分 ~ 01时54分]"
         },
         {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
+          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
+          "url": "https://www.cls.cn/detail/2329869",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            12,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时01分]"
         },
         {
           "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
@@ -109,21 +136,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时21分]"
         },
         {
           "title": "特朗普再就停火威胁伊朗",
@@ -135,6 +150,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 17时01分]"
         },
         {
           "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
@@ -186,16 +213,28 @@
           "time_info": "[07时34分 ~ 15时21分]"
         },
         {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
           "ranks": [
             12,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时01分]"
         },
         {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
@@ -211,15 +250,16 @@
           "time_info": "[00时55分 ~ 02时59分]"
         },
         {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时21分]"
+          "time_info": "[15时21分 ~ 17时01分]"
         },
         {
           "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
@@ -266,30 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时58分]"
-        },
-        {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时21分]"
         },
         {
           "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
@@ -417,6 +433,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "美国汽油4年来首次升破4美元！特朗普正给自己“埋雷”？",
+          "url": "https://flash.jin10.com/detail/20260331164243866800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "美国白宫：总统特朗普希望在4月6日截止日期之前达成协议。",
           "url": "https://flash.jin10.com/detail/20260331014952767800",
           "source": "金十数据",
@@ -426,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "特朗普已12次暗示伊朗战争即将结束，市场被PUA麻了",
@@ -497,7 +513,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -541,11 +557,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 17时01分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -632,6 +649,19 @@
           "time_info": "[04时52分 ~ 06时35分]"
         },
         {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时01分]"
+        },
+        {
           "title": "美股三大指数高开 爱奇艺涨超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
           "source": "百度热搜",
@@ -644,6 +674,17 @@
           "time_info": "[01时54分 ~ 03时58分]"
         },
         {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时01分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
           "url": "https://wallstreetcn.com/livenews/3079578",
           "source": "华尔街见闻-快讯",
@@ -654,18 +695,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时35分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时21分]"
         },
         {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
@@ -790,7 +819,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -805,6 +834,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时54分 ~ 07时34分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时01分]"
         }
       ]
     },
