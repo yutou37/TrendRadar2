@@ -1,378 +1,44 @@
 {
-  "generated_at": "2026-04-03T23:39:26.448058+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-04-04T00:39:25.582389+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
-          "url": "https://wallstreetcn.com/articles/3769051",
-          "source": "华尔街见闻",
+          "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
+          "url": "https://wallstreetcn.com/livenews/3082282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时35分]"
-        },
-        {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时11分 ~ 23时39分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
           "url": "https://www.cls.cn/detail/2334381",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 23时39分]"
-        },
-        {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 18时43分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时06分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 23时39分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16,
-            25,
-            14,
-            22,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
-          "url": "https://wallstreetcn.com/articles/3769139",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时53分 ~ 22时41分]"
-        },
-        {
-          "title": "伊朗强硬回应特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            12,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时35分]"
-        },
-        {
-          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
-          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 21时02分]"
-        },
-        {
-          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 17时53分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
-          "url": "https://flash.jin10.com/detail/20260403010200558800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
-          "url": "https://wallstreetcn.com/livenews/3082267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
-          "url": "https://flash.jin10.com/detail/20260403223158627800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "00时39分"
         },
         {
-          "title": "特朗普再提打开霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/livenews/3082198",
-          "source": "华尔街见闻-快讯",
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 15时07分]"
-        },
-        {
-          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
-          "url": "https://www.cls.cn/detail/2334117",
-          "source": "财联社热门",
-          "ranks": [
-            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时54分]"
-        },
-        {
-          "title": "特朗普发表讲话谈伊朗战事",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 06时31分]"
-        },
-        {
-          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
-          "url": "https://wallstreetcn.com/livenews/3081794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时31分]"
-        },
-        {
-          "title": "美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计划相同。 特朗普预算申请175亿美元用于“金穹顶”项目资金。",
-          "url": "https://wallstreetcn.com/livenews/3082218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时41分]"
-        },
-        {
-          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
-          "url": "https://wallstreetcn.com/livenews/3081824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普夸耀的“战绩”被美情报部门“打脸”",
-          "url": "https://wallstreetcn.com/livenews/3082146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
-          "url": "https://flash.jin10.com/detail/20260403061620774800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
-          "url": "https://wallstreetcn.com/livenews/3082255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        },
-        {
-          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3081802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时31分]"
-        },
-        {
-          "title": "白宫紧急下架特朗普讲话视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时07分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -382,1014 +48,153 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
-          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
-          "url": "https://wallstreetcn.com/livenews/3081814",
-          "source": "华尔街见闻-快讯",
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
           "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
-          "url": "https://flash.jin10.com/detail/20260403035841206800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普话音刚落 伊朗导弹直扑以色列",
-          "url": "https://www.toutiao.com/trending/7623977327684226579/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "石破茂公开评价特朗普喜欢被奉承",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%85%AC%E5%BC%80%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%AC%A2%E8%A2%AB%E5%A5%89%E6%89%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        },
-        {
-          "title": "忍了数月，特朗普解职美司法部长邦迪",
-          "url": "https://wallstreetcn.com/livenews/3081730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时51分]"
-        },
-        {
-          "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3081729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时51分]"
-        },
-        {
-          "title": "美国总统特朗普的预算案提议终止对国家民主基金会 3.15亿美元的资助。",
-          "url": "https://flash.jin10.com/detail/20260403204913621800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时39分"
         },
         {
-          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
-          "url": "https://flash.jin10.com/detail/20260403223119763800",
-          "source": "金十数据",
+          "title": "特朗普已就美战机在伊朗被击落听取简报",
+          "url": "https://wallstreetcn.com/livenews/3082271",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "00时39分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-03）",
-          "url": "https://flash.jin10.com/detail/20260403181214807800",
-          "source": "金十数据",
+          "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
+          "url": "https://wallstreetcn.com/livenews/3082267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "00时39分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
-          "url": "https://flash.jin10.com/detail/20260403223004160800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "00时39分"
+        },
+        {
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "北约方面表示，北约秘书长将于4月8日至12日访美，会见美国总统特朗普、国务卿鲁比奥和国防部长赫格塞思。",
           "url": "https://flash.jin10.com/detail/20260403232929062800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3082250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
-          "url": "https://flash.jin10.com/detail/20260403222420452800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
-          "url": "https://flash.jin10.com/detail/20260403004016648800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "“战至美以后悔”！伊朗军方发言人嘲讽美军毫无斗志、特朗普谎话连篇",
-          "url": "https://flash.jin10.com/detail/20260403173224225800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "美国白宫预算文件：特朗普2027财年预算案包括为“金穹”项目提供资金、减少关键矿物储备缺口以及建造舰艇。",
-          "url": "https://flash.jin10.com/detail/20260403204625731800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "特朗普演说后，美油价差飙升至历史纪录水平",
-          "url": "https://wallstreetcn.com/livenews/3081717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
-          "url": "https://flash.jin10.com/detail/20260403222116107800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260403003832995800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国白宫预算文件：特朗普的2027财年预算提案包括将联邦执法经费提高15%至190亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403204436433800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
-          "url": "https://flash.jin10.com/detail/20260403221809438800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
-          "url": "https://wallstreetcn.com/livenews/3081713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
-          "url": "https://wallstreetcn.com/livenews/3081684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美媒：特朗普对两部长不满 正考虑进一步调整内阁",
-          "url": "https://wallstreetcn.com/livenews/3082199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
-          "url": "https://flash.jin10.com/detail/20260403231509128800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国白宫预算文件：特朗普的预算提案包括给军方人员加薪5%至7%。",
-          "url": "https://flash.jin10.com/detail/20260403204313560800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
-          "url": "https://wallstreetcn.com/livenews/3082250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3082149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
-          "url": "https://flash.jin10.com/detail/20260403003009535800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国总统特朗普发布2.164万亿美元的自由裁量预算请求。",
-          "url": "https://flash.jin10.com/detail/20260403220544691800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
-          "url": "https://wallstreetcn.com/livenews/3081677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普：针对欺诈的“突袭”在洛杉矶“已经开始”。 万斯现在也是“反欺诈沙皇”。",
-          "url": "https://wallstreetcn.com/livenews/3082192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国白宫：根据总统特朗普修订后的232条款金属关税，某些金属密集型工业和电网设备将征收15%的关税。",
-          "url": "https://flash.jin10.com/detail/20260403034839754800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国白宫预算文件：特朗普提议取消近30个司法部资助项目，这些项目被政府认为冗余、不符合总统的优先事项。",
-          "url": "https://flash.jin10.com/detail/20260403203849323800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国白宫预算文件：特朗普的预算申请175亿美元用于“金穹”建设。",
-          "url": "https://flash.jin10.com/detail/20260403203643656800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
-          "url": "https://flash.jin10.com/detail/20260403224906129800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "白宫：特朗普2027财年预算案寻求1.5万亿美元国防支出",
-          "url": "https://wallstreetcn.com/livenews/3082183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "特朗普再次威胁打击伊朗设施",
-          "url": "https://wallstreetcn.com/livenews/3081944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
-          "url": "https://flash.jin10.com/detail/20260403011954533800",
-          "source": "金十数据",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "美国白宫预算文件：美国总统特朗普的预算案包含40亿美元，用于美国联邦航空局继续建设新的空中交通管制系统。",
-          "url": "https://flash.jin10.com/detail/20260403203600032800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
-          "url": "https://flash.jin10.com/detail/20260403224401371800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3081669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
-          "url": "https://wallstreetcn.com/livenews/3081722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
-          "url": "https://flash.jin10.com/detail/20260403223912210800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 15时07分]"
-        },
-        {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时31分]"
-        },
-        {
-          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
-          "url": "https://www.cls.cn/detail/2333333",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时31分]"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23,
-            27,
-            22,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时31分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3081793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040531633800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 07时35分]"
-        },
-        {
-          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
-          "url": "https://flash.jin10.com/detail/20260403040200866800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时37分]"
-        },
-        {
-          "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3081784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时37分]"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260403003135168800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260403003131838800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
-          "url": "https://wallstreetcn.com/livenews/3081707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "提醒：美股因耶稣受难日休市。",
-          "url": "https://wallstreetcn.com/livenews/3082234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "用Claude Code源码自制客户端",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19,
-            14,
-            12,
-            17,
-            26,
-            20,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时07分]"
-        },
-        {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
-            15,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            17,
-            16,
-            21,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            18,
-            19,
-            20,
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 10时11分]"
-        },
         {
           "title": "Claude源码能否让全球AI工具大升级",
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
         {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "title": "从源码剖析ClaudeCode对话流程",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90ClaudeCode%E5%AF%B9%E8%AF%9D%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            16,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 23时39分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 15时07分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时05分]"
-        },
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "土耳其竞争委员会：已就谷歌可能存在的广告计费差异展开调查。",
-          "url": "https://flash.jin10.com/detail/20260403215408333800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
-          "url": "https://wallstreetcn.com/livenews/3082252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        },
-        {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260403043416469800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时31分]"
-        },
-        {
-          "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
-          "url": "https://wallstreetcn.com/livenews/3081774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时37分]"
-        },
-        {
-          "title": "美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。",
-          "url": "https://wallstreetcn.com/livenews/3082210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美元指数短线波动不大，科威特一电力和海水淡化厂遇袭，部分设施受损",
-          "url": "https://wallstreetcn.com/livenews/3082069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时51分]"
-        },
-        {
-          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-          "url": "https://flash.jin10.com/detail/20260403014329436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "市场消息：OpenAI收购TBPN。",
-          "url": "https://flash.jin10.com/detail/20260403012712890800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "Gemma4与Qwen3.6有哪些升级",
           "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 23时39分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "如何评价 qwen 3.6 转向闭源？",
-          "url": "https://www.zhihu.com/question/2022382258535809067",
-          "source": "知乎",
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            5,
-            17,
-            18
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时35分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
+          "url": "https://wallstreetcn.com/livenews/3082252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
