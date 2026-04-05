@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T18:33:22.466163+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-05T19:29:33.962819+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 19时29分]"
         },
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -66,19 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 18时33分]"
-        },
-        {
-          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 19时29分]"
         },
         {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
@@ -92,8 +81,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 19时29分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 10时25分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -160,6 +160,34 @@
           "time_info": "[05时31分 ~ 10时25分]"
         },
         {
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 19时29分]"
+        },
+        {
           "title": "特朗普就其移民政策发表最新讲话",
           "url": "https://flash.jin10.com/detail/20260405030425436800",
           "source": "金十数据",
@@ -175,43 +203,18 @@
           "time_info": "[03时31分 ~ 07时31分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
-          "url": "https://flash.jin10.com/detail/20260405180402647800",
-          "source": "金十数据",
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
+            12,
+            10,
             8,
             7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时12分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 18时33分]"
+          "time_info": "[15时05分 ~ 19时29分]"
         },
         {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
@@ -224,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 15时05分]"
+        },
+        {
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -250,17 +265,28 @@
           "time_info": "[13时12分 ~ 15时05分]"
         },
         {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
+          "url": "https://flash.jin10.com/detail/20260405180402647800",
+          "source": "金十数据",
           "ranks": [
-            12,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
+        },
+        {
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
+          "ranks": [
             10,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时05分 ~ 18时33分]"
+          "time_info": "[13时12分 ~ 19时29分]"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -273,18 +299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时30分 ~ 13时12分]"
-        },
-        {
-          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
-          "url": "https://wallstreetcn.com/articles/3769266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 18时33分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -310,6 +324,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时31分]"
+        },
+        {
+          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
+          "url": "https://wallstreetcn.com/articles/3769274",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
         },
         {
           "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
@@ -369,28 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
-          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
-          "url": "https://wallstreetcn.com/articles/3769274",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "美国前参议员表示特朗普已经住院",
@@ -505,6 +509,38 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 19时29分]"
+        },
+        {
+          "title": "从ClaudeCode源码看其竞争优势",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EClaudeCode%E6%BA%90%E7%A0%81%E7%9C%8B%E5%85%B6%E7%AB%9E%E4%BA%89%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -517,8 +553,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时29分]"
         }
       ]
     },
@@ -536,27 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude禁止OpenClaw接入",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 18时33分]"
         }
       ]
     }
