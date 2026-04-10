@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-10T22:48:10.741155+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-04-10T23:53:39.652488+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 23时53分]"
+        },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
           "url": "https://wallstreetcn.com/articles/3769556",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时15分 ~ 13时25分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 22时48分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -96,6 +96,18 @@
           "time_info": "[01时15分 ~ 07时37分]"
         },
         {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时48分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
           "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
           "source": "凤凰网",
@@ -132,16 +144,16 @@
           "time_info": "[01时15分 ~ 07时37分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时48分 ~ 22时48分]"
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时53分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -227,7 +239,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -256,6 +268,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
+          "url": "https://flash.jin10.com/detail/20260410233248888800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -265,18 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -340,6 +351,18 @@
           "time_info": "[17时08分 ~ 18时54分]"
         },
         {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时53分]"
+        },
+        {
           "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
           "source": "澎湃新闻",
@@ -362,18 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时28分 ~ 15时26分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时48分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -711,6 +722,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "巴西财政部长：巴西总统卢拉与美国总统特朗普的对话有助于达成协议。这为与美国的其他交易铺平了道路。美国官员表示希望下周在华盛顿与我进一步深入会谈。",
+          "url": "https://flash.jin10.com/detail/20260410230016351800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美国总统特朗普：石油很快就会开始流动，无论有没有伊朗的帮助。",
           "url": "https://flash.jin10.com/detail/20260410052946451800",
           "source": "金十数据",
@@ -1002,7 +1024,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1013,7 +1035,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1128,11 +1150,12 @@
           "url": "https://wallstreetcn.com/livenews/3085988",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
         },
         {
           "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
@@ -1171,7 +1194,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -1184,19 +1207,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 22时48分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 23时53分]"
         },
         {
           "title": "CoreWeave下跌11%，根据最新协议，该公司的AI算力将支持Anthropic的Claude。",
           "url": "https://wallstreetcn.com/livenews/3085991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2025899367144453577",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时53分"
         }
       ]
     }
