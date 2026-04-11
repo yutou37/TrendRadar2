@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:34:53.026196+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-12T04:32:59.758559+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
+        },
+        {
+          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
+          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -41,17 +52,6 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
-          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
-        },
-        {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
           "url": "https://www.cls.cn/detail/2341106",
           "source": "财联社热门",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -70,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -81,8 +81,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
+          "url": "https://flash.jin10.com/detail/20260412022331554800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时32分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
-          "url": "https://flash.jin10.com/detail/20260412022331554800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -154,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -166,8 +167,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         }
       ]
     },
@@ -184,8 +185,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -196,8 +197,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时32分]"
         }
       ]
     }
