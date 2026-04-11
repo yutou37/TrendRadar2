@@ -1,103 +1,33 @@
 {
-  "generated_at": "2026-04-11T23:34:07.477787+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-04-12T00:37:01.725754+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时07分 ~ 23时34分]"
-        },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时07分 ~ 23时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 12时54分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 10时07分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7,
-            9,
-            11,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时34分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时34分 ~ 23时34分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -107,127 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时36分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
-          "url": "https://flash.jin10.com/detail/20260411013302688800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反口污蔑：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 17时39分]"
-        },
-        {
-          "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
-          "url": "https://wallstreetcn.com/livenews/3086048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时43分]"
-        },
-        {
-          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
-          "url": "https://wallstreetcn.com/livenews/3086245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
-          "url": "https://flash.jin10.com/detail/20260411003436336800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "特朗普：伊朗没有底牌",
-          "url": "https://wallstreetcn.com/livenews/3086027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时54分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -237,759 +48,141 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时36分 ~ 23时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
-          "url": "https://flash.jin10.com/detail/20260411003033068800",
-          "source": "金十数据",
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            24
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "特朗普称美方开始清理霍尔木兹海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E6%96%B9%E5%BC%80%E5%A7%8B%E6%B8%85%E7%90%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时36分 ~ 23时34分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时47分]"
-        },
-        {
-          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3086110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：美国绝不接受化肥行业的价格欺诈",
-          "url": "https://flash.jin10.com/detail/20260411210841996800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
-          "url": "https://flash.jin10.com/detail/20260411210744513800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
-          "url": "https://wallstreetcn.com/livenews/3086237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
-          "url": "https://flash.jin10.com/detail/20260411210428309800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
-          "url": "https://flash.jin10.com/detail/20260411210112404800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
-          "url": "https://wallstreetcn.com/livenews/3086234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
-          "url": "https://flash.jin10.com/detail/20260411210041803800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时56分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
-          "url": "https://flash.jin10.com/detail/20260411214044894800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普：大量完全空载的油轮，其中一些是全球最大的，目前正前往美国装载石油（以及天然气！）。",
-          "url": "https://wallstreetcn.com/livenews/3086220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时07分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%86%8D%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD+%E8%8B%B1%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E5%8F%97%E5%A4%9F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时33分 ~ 23时34分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
-          "url": "https://wallstreetcn.com/livenews/3086029",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时52分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
-          "url": "https://flash.jin10.com/detail/20260411002832276800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
-          "url": "https://flash.jin10.com/detail/20260411182741167800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
-          "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "据华尔街日报：美国总统特朗普承诺在离任前对幕僚进行大规模赦免。",
-          "url": "https://flash.jin10.com/detail/20260411032227829800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
-          "url": "https://flash.jin10.com/detail/20260411090528957800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
-          "url": "https://flash.jin10.com/detail/20260410234303682800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普向欧洲下了最后通牒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E4%BA%86%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "报道：特朗普准备在没能与伊朗达成协议的情况下采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3086012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普：若伊朗在谈判中不配合 我们已做好军事准备",
-          "url": "https://flash.jin10.com/detail/20260410233909999800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "据福克斯新闻：白宫官员表示，特朗普对与伊朗达成协议持乐观态度。",
-          "url": "https://flash.jin10.com/detail/20260410233644908800",
+          "title": "特朗普再次发文抨击媒体",
+          "url": "https://flash.jin10.com/detail/20260411232157423800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时37分"
         },
         {
-          "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
-          "url": "https://flash.jin10.com/detail/20260411004405756800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
-          "url": "https://flash.jin10.com/detail/20260411193245673800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
-          "url": "https://wallstreetcn.com/livenews/3086031",
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://wallstreetcn.com/livenews/3086245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "00时37分"
         },
         {
-          "title": "美国总统特朗普：数量庞大的、完全空载的油轮，其中一些是全球最大的油轮正驶往美国，（准备）装载全世界最好的石油（和天然气）！",
-          "url": "https://flash.jin10.com/detail/20260411193219972800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "美国总统特朗普：美国准备提振匈牙利经济。",
-          "url": "https://wallstreetcn.com/livenews/3086095",
+          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
+          "url": "https://wallstreetcn.com/livenews/3086237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "00时37分"
         },
         {
-          "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
-          "url": "https://flash.jin10.com/detail/20260411020406517800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
-          "url": "https://flash.jin10.com/detail/20260410233248888800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "美国参议员敦促CFTC调查特朗普发布伊朗新闻前的石油交易",
-          "url": "https://wallstreetcn.com/livenews/3086031",
+          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3086234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            7,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时01分 ~ 23时34分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 21时56分]"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 15时14分]"
-        },
-        {
-          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
-          "url": "https://flash.jin10.com/detail/20260411094848579800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时54分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时54分]"
-        },
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时54分]"
-        },
-        {
-          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
-          "url": "https://flash.jin10.com/detail/20260411094803513800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时54分]"
-        },
-        {
-          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
-          "url": "https://flash.jin10.com/detail/20260411094510379800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 12时54分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
           "url": "https://wallstreetcn.com/articles/3769740",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时36分 ~ 23时34分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2,
-            3,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时34分 ~ 23时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            5,
-            6,
-            3,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时39分 ~ 23时34分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时36分 ~ 10时07分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003357698800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003343083800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时34分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时35分]"
-        },
-        {
-          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3086084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
-          "url": "https://wallstreetcn.com/livenews/3086072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
-          "url": "https://wallstreetcn.com/articles/3769638",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时35分]"
-        },
-        {
-          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2025899367144453577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 07时35分]"
-        },
-        {
-          "title": "Claude：提供安全建议与实用技巧。 随着网络安全工作的持续推进，Anthropic将更新相关指南。",
-          "url": "https://wallstreetcn.com/livenews/3086137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
-          "url": "https://wallstreetcn.com/livenews/3086063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时36分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         }
       ]
     }
