@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:14:35.383892+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-04-11T16:41:38.261628+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 16时41分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 16时41分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -84,11 +84,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -100,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 16时41分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -208,17 +220,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时47分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时14分]"
         },
         {
           "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
@@ -544,11 +545,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时41分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
@@ -565,7 +567,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -577,8 +579,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -652,6 +654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
