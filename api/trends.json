@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:35:37.877521+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-04-13T05:34:46.606510+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -70,11 +70,40 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时34分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
+          "url": "https://flash.jin10.com/detail/20260413020447925800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时34分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
+          "url": "https://flash.jin10.com/detail/20260413020223685800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时34分]"
         },
         {
           "title": "特朗普：不允许伊朗通过出售石油赚钱",
@@ -91,42 +120,17 @@
           "time_info": "[00时38分 ~ 04时35分]"
         },
         {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
-          "url": "https://flash.jin10.com/detail/20260413020447925800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
-          "url": "https://flash.jin10.com/detail/20260413020223685800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
           "url": "https://flash.jin10.com/detail/20260413025340242800",
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时34分]"
         },
         {
           "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
@@ -319,8 +323,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         }
       ]
     },
@@ -337,8 +341,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时34分]"
         }
       ]
     }
