@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T07:41:32.314694+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-04-16T10:34:13.202999+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -65,28 +78,17 @@
           "time_info": "[01时03分 ~ 07时41分]"
         },
         {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
-        },
-        {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
           "url": "https://wallstreetcn.com/articles/3770032",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -95,11 +97,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -108,11 +111,23 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
+        },
+        {
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -136,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "美国总统特朗普将于周五在凤凰城讲话。",
@@ -211,7 +237,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -290,6 +316,17 @@
           "time_info": "[01时03分 ~ 05时52分]"
         },
         {
+          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
+          "url": "https://www.cls.cn/detail/2345486",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 10时34分]"
+        },
+        {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2345247",
           "source": "财联社热门",
@@ -301,17 +338,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 07时41分]"
-        },
-        {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时41分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -412,7 +438,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -421,7 +447,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -437,6 +463,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时41分]"
+        },
+        {
+          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
+          "url": "https://www.cls.cn/detail/2345498",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
@@ -487,11 +524,12 @@
             29,
             28,
             20,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 10时34分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
