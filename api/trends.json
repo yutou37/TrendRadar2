@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T02:59:50.440796+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-04-18T04:01:46.922757+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -27,8 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -43,40 +55,6 @@
           "time_info": "[00时01分 ~ 02时59分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
-          "url": "https://flash.jin10.com/detail/20260418023422931800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3090284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -84,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
@@ -96,8 +74,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普称，伊朗已同意停止支持真主党和哈马斯等代理组织。",
+          "url": "https://flash.jin10.com/detail/20260418023422931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -106,11 +95,12 @@
           "ranks": [
             21,
             6,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹海峡",
@@ -121,8 +111,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3090284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
         },
         {
           "title": "特朗普：确认伊朗开放霍尔木兹海峡，海上封锁将持续至“交易”完成",
@@ -142,7 +156,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -164,18 +178,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -186,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -200,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上指责西班牙在美国对伊朗的行动中没有配合美国。",
+          "url": "https://flash.jin10.com/detail/20260418032736894800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "据法新社：美国总统特朗普表示，非常接近与伊朗达成协议。",
@@ -230,7 +244,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -263,7 +277,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -347,8 +361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -359,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -371,8 +385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时01分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -403,7 +417,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -414,7 +428,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
