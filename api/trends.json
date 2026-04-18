@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:34:52.130833+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-04-19T06:34:21.449591+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -94,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -117,8 +117,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -129,8 +129,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -141,8 +141,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -210,11 +210,12 @@
           "url": "https://flash.jin10.com/detail/20260419034558544800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时34分]"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -264,8 +265,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -291,11 +292,12 @@
           "ranks": [
             18,
             15,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时36分 ~ 06时34分]"
         }
       ]
     },
@@ -311,8 +313,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     },
@@ -327,11 +329,12 @@
           "ranks": [
             21,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时36分 ~ 06时34分]"
         }
       ]
     }
