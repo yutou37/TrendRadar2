@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-19T07:34:44.568724+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-19T10:35:14.448790+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时35分]"
+        },
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
           "url": "https://wallstreetcn.com/articles/3770302",
@@ -14,17 +26,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -69,11 +70,12 @@
           "url": "https://www.cls.cn/detail/2348149",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时35分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -218,6 +220,39 @@
           "time_info": "[05时34分 ~ 07时34分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "特朗普称以色列是“勇敢的盟友” 批评其他盟友“暴露本性”",
+          "url": "https://flash.jin10.com/detail/20260419091413176800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：无论人们是否喜欢以色列，他们都证明了自己是美国的伟大盟友。",
+          "url": "https://flash.jin10.com/detail/20260419090827382800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -249,12 +284,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -262,11 +308,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时35分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -311,11 +369,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时35分]"
         }
       ]
     },
@@ -331,11 +390,12 @@
             21,
             17,
             16,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 10时35分]"
         }
       ]
     }
