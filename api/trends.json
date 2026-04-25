@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T06:37:24.410871+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-04-26T07:37:50.034425+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -27,19 +27,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
           "url": "https://wallstreetcn.com/livenews/3094397",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
+          "url": "https://wallstreetcn.com/livenews/3094417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
@@ -103,6 +115,19 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时37分]"
+        },
+        {
           "title": "美国总统特朗普：同样，“阻挠议事”，现在就终止它。",
           "url": "https://flash.jin10.com/detail/20260426001431255800",
           "source": "金十数据",
@@ -115,19 +140,6 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
-          "url": "https://flash.jin10.com/detail/20260426034614966800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
           "url": "https://flash.jin10.com/detail/20260426033155583800",
           "source": "金十数据",
@@ -137,8 +149,20 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时37分]"
+        },
+        {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
+          "time_info": "[05时36分 ~ 07时37分]"
         },
         {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
@@ -187,18 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时38分]"
-        },
-        {
-          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
-          "url": "https://flash.jin10.com/detail/20260426043427804800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时37分]"
         },
         {
           "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
@@ -285,6 +297,17 @@
           "time_info": "[03时43分 ~ 04时38分]"
         },
         {
+          "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
+          "url": "https://www.cls.cn/detail/2355806",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "特朗普告诉Axios记者：“我们掌握了一切。我们不会去那儿闲聊无事。”",
           "url": "https://flash.jin10.com/detail/20260426000726599800",
           "source": "金十数据",
@@ -365,19 +388,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -389,8 +413,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -428,8 +452,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -457,11 +481,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         }
       ]
     },
@@ -479,8 +504,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时37分]"
         }
       ]
     }
