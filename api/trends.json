@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T06:37:50.221249+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-27T07:38:41.008038+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "高市早苗：得知特朗普总统安然无恙，我如释重负",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "枪声响起，万斯被特勤人员一把拽走，比特朗普先撤离",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普：枪手已被捕；枪击现场视频曝光",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普否认枪击事件与伊朗战争有关",
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -107,19 +107,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
           "url": "https://wallstreetcn.com/articles/3770913",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "枪击发生时特朗普旁的华裔女记者是谁",
@@ -130,11 +131,12 @@
             13,
             8,
             20,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -144,8 +146,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
@@ -156,8 +158,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -169,8 +171,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
@@ -178,11 +180,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
@@ -193,19 +196,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -214,11 +218,27 @@
           "ranks": [
             4,
             7,
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普夫人反应迅速",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26,
+            21,
+            10,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "time_info": "[03时45分 ~ 07时38分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -258,20 +278,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普夫人反应迅速",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26,
-            21,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时45分 ~ 06时37分]"
         },
         {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
@@ -326,6 +332,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
+          "url": "https://flash.jin10.com/detail/20260427073312245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "特朗普：不知道自己是否为枪手的袭击目标",
+          "url": "https://flash.jin10.com/detail/20260427071729357800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "特朗普称与俄乌总统进行“良好沟通” 寻求推动冲突解决",
@@ -489,6 +517,28 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
+          "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
+          "url": "https://wallstreetcn.com/livenews/3094568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "枪击现场安保行动缓慢？特朗普：是我想看看发生了什么",
+          "url": "https://flash.jin10.com/detail/20260427063049726800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京和乌克兰总统泽连斯基进行过交谈。",
           "url": "https://flash.jin10.com/detail/20260426233407651800",
           "source": "金十数据",
@@ -613,8 +663,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -625,8 +675,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -636,8 +686,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -648,8 +698,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -661,8 +711,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -671,11 +721,12 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -700,8 +751,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -721,11 +772,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时38分]"
         }
       ]
     },
@@ -738,22 +790,24 @@
           "url": "https://wallstreetcn.com/livenews/3094557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         },
         {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时38分]"
         }
       ]
     },
@@ -774,8 +828,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
         }
       ]
     }
