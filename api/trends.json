@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:53:49.356071+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-27T16:23:36.225877+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -109,11 +109,12 @@
             6,
             4,
             15,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -125,6 +126,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
@@ -139,6 +156,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 13时53分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "枪击发生时特朗普旁的华裔女记者是谁",
@@ -157,21 +189,6 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
-        },
-        {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
           "source": "澎湃新闻",
@@ -179,25 +196,12 @@
             17,
             18,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -220,11 +224,12 @@
           "ranks": [
             13,
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -241,6 +246,17 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
+          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普夫人反应迅速",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -254,17 +270,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时45分 ~ 07时38分]"
-        },
-        {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时53分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -304,6 +309,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
+          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -357,17 +384,6 @@
           "time_info": "[01时38分 ~ 05时37分]"
         },
         {
-          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
-          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "美国总统特朗普：巴基斯坦方面已不遗余力，并将继续参与谈判进程。",
           "url": "https://flash.jin10.com/detail/20260427005455489800",
           "source": "金十数据",
@@ -381,17 +397,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
@@ -528,6 +533,19 @@
           "time_info": "[01时38分 ~ 03时46分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
+        },
+        {
           "title": "美国总统特朗普：我们将把夺取伊朗的核材料作为谈判的一部分。",
           "url": "https://flash.jin10.com/detail/20260426235351108800",
           "source": "金十数据",
@@ -612,18 +630,6 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时53分]"
-        },
-        {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
           "url": "https://wallstreetcn.com/livenews/3094509",
           "source": "华尔街见闻-快讯",
@@ -655,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "枪击现场安保行动缓慢？特朗普：是我想看看发生了什么",
@@ -803,7 +820,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -835,11 +852,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -914,8 +932,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
@@ -926,8 +944,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -936,9 +954,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -972,39 +1001,42 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时23分]"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 16时23分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -1029,6 +1061,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时38分]"
+        },
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
+          "url": "https://www.cls.cn/detail/2356367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -1043,9 +1097,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，至98.34，刷新日内新低。",
+          "url": "https://wallstreetcn.com/livenews/3094834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
