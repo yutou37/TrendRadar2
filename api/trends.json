@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T02:17:09.434820+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-04-29T04:15:51.780242+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -36,9 +36,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -53,27 +65,26 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
-        },
-        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
+          "url": "https://wallstreetcn.com/livenews/3095986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
@@ -82,7 +93,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -98,22 +109,80 @@
           "time_info": "00时51分"
         },
         {
+          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260429030025624800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260429010529383800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
+          "url": "https://flash.jin10.com/detail/20260429025003263800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
+        },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
           "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
@@ -126,28 +195,15 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
+          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
+          "url": "https://flash.jin10.com/detail/20260429032221127800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            13
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
@@ -156,9 +212,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
+          "url": "https://flash.jin10.com/detail/20260429031029178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
@@ -167,7 +234,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -178,7 +245,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -189,7 +256,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
@@ -207,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时15分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -216,6 +283,34 @@
           "source": "知乎",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3095983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美股盘前纳指跌超1.4%",
+          "url": "https://www.toutiao.com/trending/7633808777389277227/",
+          "source": "今日头条",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -234,26 +329,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘前纳指跌超1.4%",
-          "url": "https://www.toutiao.com/trending/7633808777389277227/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "02时17分"
         }
       ]
     },
@@ -268,7 +346,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
