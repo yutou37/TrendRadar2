@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T18:55:24.132479+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-04-30T20:15:35.881195+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 20时15分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -29,6 +29,40 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 20时15分]"
+        },
+        {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 20时15分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 20时15分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -44,38 +78,15 @@
           "time_info": "[01时28分 ~ 10时48分]"
         },
         {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 18时55分]"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 18时55分]"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 20时15分]"
         },
         {
           "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
@@ -102,15 +113,35 @@
           "time_info": "[01时28分 ~ 06时56分]"
         },
         {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            14,
+            15,
+            13,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 20时15分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 20时15分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -136,21 +167,6 @@
           "time_info": "[07时55分 ~ 10时48分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 18时55分]"
-        },
-        {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
           "url": "https://www.zhihu.com/question/2032422954055776061",
           "source": "知乎",
@@ -161,20 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时48分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 18时55分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -317,6 +319,18 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -400,6 +414,18 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
           "title": "普京与特朗普通话超一个半小时",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
           "source": "百度热搜",
@@ -410,6 +436,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时48分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
         },
         {
           "title": "查尔斯三世当面嘲讽：若不是英国，你们还在说法语，特朗普表情亮了",
@@ -434,6 +471,17 @@
           "time_info": "[13时58分 ~ 13时59分]"
         },
         {
+          "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
+          "url": "https://wallstreetcn.com/livenews/3097479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
           "url": "https://www.cls.cn/detail/2360313",
           "source": "财联社热门",
@@ -454,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "伊朗议长怼特朗普的“三天爆炸论”：油井没炸，油价要炸——140美元见",
@@ -506,7 +543,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -555,17 +592,6 @@
           "time_info": "16时29分"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "特朗普：鲍威尔想留在美联储是因为在其他地方找不到工作",
           "url": "https://wallstreetcn.com/livenews/3096971",
           "source": "华尔街见闻-快讯",
@@ -575,17 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
@@ -616,7 +631,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -756,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 20时15分]"
         },
         {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
@@ -923,8 +938,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 20时15分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -936,19 +951,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 20时15分]"
         },
         {
           "title": "谷歌入驻广州珠江新城",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
         },
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
@@ -1150,7 +1166,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1161,11 +1177,12 @@
             14,
             17,
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时28分 ~ 18时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 20时15分]"
         },
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -1182,6 +1199,29 @@
           "time_info": "[01时28分 ~ 10时48分]"
         },
         {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "DeepSeek V4炸场背后",
           "url": "https://www.toutiao.com/trending/7634160479450959423/",
           "source": "今日头条",
@@ -1191,17 +1231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         }
       ]
     },
@@ -1216,7 +1245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1244,7 +1273,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
