@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-02T08:37:50.926404+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-05-02T10:36:51.257290+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 85,
       "titles": [
-        {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时53分 ~ 08时37分]"
-        },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
           "url": "https://www.cls.cn/detail/2361654",
@@ -30,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -42,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         },
         {
           "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
@@ -54,8 +42,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
+        },
+        {
+          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时53分 ~ 08时37分]"
         },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -78,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时36分 ~ 08时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时36分 ~ 10时36分]"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)计划将Truth Social和 Truth+拆分成立独立的上市公司。",
@@ -93,15 +93,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
-          "url": "https://flash.jin10.com/detail/20260502080736827800",
-          "source": "金十数据",
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时37分"
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -126,17 +126,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
           "title": "美国总统特朗普：我们正在考虑对精神航空进行救助。",
           "url": "https://flash.jin10.com/detail/20260502003026056800",
           "source": "金十数据",
@@ -146,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
+          "url": "https://flash.jin10.com/detail/20260502095753000800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
@@ -174,6 +174,30 @@
           "time_info": "[04时04分 ~ 08时37分]"
         },
         {
+          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3098071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 10时36分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
           "url": "https://flash.jin10.com/detail/20260502003003874800",
           "source": "金十数据",
@@ -196,18 +220,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 08时37分]"
-        },
-        {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
           "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
           "source": "凤凰网",
@@ -217,6 +229,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 06时50分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
+          "url": "https://flash.jin10.com/detail/20260502080736827800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 10时36分]"
         },
         {
           "title": "美国总统特朗普对古巴官员、企业、政府的支持者实施广泛制裁。",
@@ -243,6 +267,18 @@
           "time_info": "[01时01分 ~ 02时05分]"
         },
         {
+          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3098088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 10时36分]"
+        },
+        {
           "title": "美国总统特朗普：美国现在生产和卖出的石油更多了。",
           "url": "https://wallstreetcn.com/livenews/3097983",
           "source": "华尔街见闻-快讯",
@@ -264,6 +300,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时36分 ~ 10时36分]"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -322,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时05分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时36分 ~ 08时37分]"
         },
         {
           "title": "美国总统特朗普：可能会去法国参加七国集团（G7）峰会。",
@@ -465,6 +501,17 @@
           "time_info": "[05时53分 ~ 06时50分]"
         },
         {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国总统特朗普：刚刚与伊朗进行了对话。",
           "url": "https://flash.jin10.com/detail/20260502002950658800",
           "source": "金十数据",
@@ -542,6 +589,28 @@
           "time_info": "02时05分"
         },
         {
+          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "谈判短期达成结果不现实！特朗普称“目标是迫使放弃发展核武器”，伊朗最高领袖“将核、导弹都视为国家资产”",
+          "url": "https://wallstreetcn.com/articles/3771449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国总统特朗普：对意大利和西班牙感到不满。",
           "url": "https://flash.jin10.com/detail/20260502002716494800",
           "source": "金十数据",
@@ -562,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普声称美国“几乎能立即”接管古巴",
+          "url": "https://wallstreetcn.com/livenews/3098094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普：周四与伊拉克候任总理进行了交谈。强烈支持他。",
@@ -617,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普称美国“几乎能立即接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260502084948231800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。",
@@ -850,6 +941,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普“上帝情结”对美政治有何影响",
+          "url": "https://www.toutiao.com/trending/7635066973419736627/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "特朗普不发邀请函，非盟委员会主席：没有南非的G20峰会将“毫无意义”",
           "url": "https://wallstreetcn.com/livenews/3097958",
           "source": "华尔街见闻-快讯",
@@ -875,7 +977,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -887,8 +989,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -955,11 +1057,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 08时37分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 10时36分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
@@ -967,11 +1070,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 08时37分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 10时36分]"
         },
         {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
@@ -979,11 +1083,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 10时36分]"
+        },
+        {
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时50分 ~ 08时37分]"
+          "time_info": "[08时37分 ~ 10时36分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 10时36分]"
         },
         {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
@@ -1008,26 +1137,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
+          "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
+          "url": "https://www.zhihu.com/question/2033586111524468458",
+          "source": "知乎",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时37分"
+          "time_info": "10时36分"
         }
       ]
     },
@@ -1041,11 +1159,24 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1060,28 +1191,17 @@
           "time_info": "[00时59分 ~ 06时50分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
-        },
-        {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -1116,11 +1236,12 @@
           "url": "https://wallstreetcn.com/livenews/3098085",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 10时36分]"
         }
       ]
     },
@@ -1134,11 +1255,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时36分]"
         }
       ]
     }
