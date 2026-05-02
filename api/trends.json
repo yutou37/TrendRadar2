@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T17:05:46.941360+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-05-02T18:51:53.642355+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 97,
       "titles": [
         {
           "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
@@ -32,6 +32,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时59分 ~ 17时05分]"
+        },
+        {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 18时51分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -70,18 +82,6 @@
           "time_info": "[05时53分 ~ 08时37分]"
         },
         {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 17时05分]"
-        },
-        {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
           "source": "澎湃新闻",
@@ -95,27 +95,17 @@
           "time_info": "[00时59分 ~ 06时50分]"
         },
         {
-          "title": "特朗普媒体科技集团(DJT.O)计划将Truth Social和 Truth+拆分成立独立的上市公司。",
-          "url": "https://flash.jin10.com/detail/20260502020119063800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时36分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[08时36分 ~ 18时51分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -127,8 +117,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)计划将Truth Social和 Truth+拆分成立独立的上市公司。",
+          "url": "https://flash.jin10.com/detail/20260502020119063800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         },
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -142,6 +143,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 18时51分]"
+        },
+        {
           "title": "美国总统特朗普：（关于精神航空）我们给了他们一个最终提案。",
           "url": "https://flash.jin10.com/detail/20260502003039980800",
           "source": "金十数据",
@@ -151,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-02）",
+          "url": "https://flash.jin10.com/detail/20260502182311552800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国总统特朗普：我们正在考虑对精神航空进行救助。",
@@ -247,17 +270,6 @@
           "time_info": "[02时05分 ~ 06时50分]"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 17时05分]"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
           "url": "https://flash.jin10.com/detail/20260502080736827800",
           "source": "金十数据",
@@ -307,6 +319,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时36分 ~ 15时43分]"
+        },
+        {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时51分]"
         },
         {
           "title": "特朗普：对伊朗提出的最新谈判方案“不满意”",
@@ -381,6 +405,20 @@
           "time_info": "[13时36分 ~ 15时43分]"
         },
         {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -390,18 +428,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 05时53分]"
-        },
-        {
-          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时05分]"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -415,17 +441,17 @@
           "time_info": "[02时05分 ~ 05时53分]"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://wallstreetcn.com/livenews/3098122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            12,
-            11
+            8,
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时05分]"
+          "time_info": "[15时43分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
@@ -449,6 +475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时01分]"
+        },
+        {
+          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
+          "url": "https://news.ifeng.com/c/8snecDmwXXq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：伊朗提出了我无法同意的事。",
@@ -475,16 +512,15 @@
           "time_info": "[01时01分 ~ 02时05分]"
         },
         {
-          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
-          "url": "https://wallstreetcn.com/livenews/3098122",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 17时05分]"
+          "time_info": "[17时05分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：可能会去法国参加七国集团（G7）峰会。",
@@ -687,17 +723,6 @@
           "time_info": "04时04分"
         },
         {
-          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
-          "url": "https://news.ifeng.com/c/8snecDmwXXq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）将迫使公司将生产转移至美国。",
           "url": "https://flash.jin10.com/detail/20260502002856166800",
           "source": "金十数据",
@@ -729,17 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "美国总统特朗普：伊朗已经没有军队了。",
@@ -1119,7 +1133,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -1302,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
@@ -1418,6 +1443,18 @@
           "time_info": "[13时36分 ~ 15时43分]"
         },
         {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时51分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1427,24 +1464,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
         {
           "title": "马斯克承认蒸馏ChatGPT",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
@@ -1458,27 +1496,27 @@
           "time_info": "[13时36分 ~ 15时43分]"
         },
         {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时05分]"
-        },
-        {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
           "url": "https://www.zhihu.com/question/2033267772931749457",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时51分]"
+        },
+        {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
