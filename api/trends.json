@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T05:56:57.774907+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-07T06:53:53.744067+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -16,8 +16,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
@@ -29,6 +52,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
         },
         {
           "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
@@ -53,17 +90,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://news.ifeng.com/c/8sugghRWW2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
-        },
-        {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
           "url": "https://wallstreetcn.com/livenews/3099511",
           "source": "华尔街见闻-快讯",
@@ -86,29 +112,29 @@
           "time_info": "04时22分"
         },
         {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
-        },
-        {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -210,6 +236,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3099498",
           "source": "华尔街见闻-快讯",
@@ -241,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "特朗普：伊朗战事“很有可能结束”，双方正接近达成协议",
@@ -301,7 +327,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -316,6 +342,17 @@
           "time_info": "[00时27分 ~ 05时56分]"
         },
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
@@ -324,8 +361,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -337,8 +374,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 06时53分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -385,17 +434,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3099572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260507040519442800",
           "source": "金十数据",
@@ -424,7 +462,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -435,7 +473,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -491,11 +529,12 @@
           "url": "https://flash.jin10.com/detail/20260507051248108800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
         },
         {
           "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
@@ -524,8 +563,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
         }
       ]
     },
@@ -538,11 +577,12 @@
           "url": "https://wallstreetcn.com/livenews/3099585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时53分]"
         }
       ]
     },
@@ -558,11 +598,12 @@
             25,
             19,
             24,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时53分]"
         }
       ]
     }
