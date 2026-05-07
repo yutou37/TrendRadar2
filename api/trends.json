@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:45:07.734917+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-05-07T14:14:59.416729+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             2,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 10时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时14分]"
         },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时14分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -59,6 +60,17 @@
           "time_info": "[02时15分 ~ 07时52分]"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时14分]"
+        },
+        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -85,15 +97,15 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
@@ -138,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "报道称沙特不满迫使特朗普“突然”叫停“自由计划”",
+          "url": "https://wallstreetcn.com/livenews/3099775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "特朗普再称对美伊达成协议表示乐观",
@@ -218,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
@@ -380,6 +414,17 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 14时14分]"
+        },
+        {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
@@ -390,17 +435,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 05时56分]"
-        },
-        {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时53分 ~ 10时45分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -416,6 +450,19 @@
           "time_info": "[00时27分 ~ 10时45分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 14时14分]"
+        },
+        {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
           "url": "https://wallstreetcn.com/livenews/3099620",
           "source": "华尔街见闻-快讯",
@@ -425,18 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时45分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -642,8 +677,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 14时14分]"
         }
       ]
     },
