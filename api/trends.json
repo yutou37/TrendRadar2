@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:32:15.568018+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-05-08T15:29:34.121236+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 15时29分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -149,33 +149,47 @@
           "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时29分]"
         },
         {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035771230985380677",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时29分]"
         },
         {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
           "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时29分]"
+        },
+        {
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -211,6 +225,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
           "url": "https://flash.jin10.com/detail/20260508035818698800",
           "source": "金十数据",
@@ -220,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美法院裁定特朗普的10%全球关税不成立",
@@ -283,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -354,6 +390,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -422,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 15时29分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -521,7 +568,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -530,11 +577,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时23分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 15时29分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -552,11 +600,23 @@
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时29分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -605,6 +665,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%B0%E5%80%BC450%E4%BA%BF%E7%BE%8E%E5%85%83&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -626,24 +714,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek估值450亿美元",
-          "url": "https://www.toutiao.com/trending/7637337504823119387/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
