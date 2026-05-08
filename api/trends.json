@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T10:49:33.834937+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-05-08T13:32:15.568018+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -20,6 +20,17 @@
           "time_info": "[00时49分 ~ 10时49分]"
         },
         {
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -31,15 +42,16 @@
           "time_info": "[00时49分 ~ 05时57分]"
         },
         {
-          "title": "特朗普访华前瞻——台湾怎么办？",
-          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
-            6
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 10时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时32分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -87,24 +99,13 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "哈里斯：特朗普是史上最无能总统 俄罗斯正坐收渔利",
           "url": "https://flash.jin10.com/detail/20260508102947504800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -144,6 +145,39 @@
           "time_info": "[00时49分 ~ 02时23分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
@@ -172,7 +206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -227,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -241,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://wallstreetcn.com/livenews/3100397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "特朗普会见巴西总统卢拉讨论关税等问题",
@@ -326,7 +371,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -370,6 +415,17 @@
           "time_info": "[00时49分 ~ 05时57分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时32分]"
+        },
+        {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2365305",
           "source": "财联社热门",
@@ -381,6 +437,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 10时49分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时32分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -404,28 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时02分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -476,7 +521,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -488,8 +533,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 10时49分]"
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 13时32分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -498,9 +543,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -550,7 +606,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
@@ -562,6 +618,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
