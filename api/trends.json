@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T21:45:09.951428+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-05-08T23:21:42.108624+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -31,17 +31,6 @@
           "time_info": "[00时49分 ~ 13时32分]"
         },
         {
-          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 05时57分]"
-        },
-        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://www.cls.cn/detail/2366051",
           "source": "财联社热门",
@@ -51,8 +40,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 23时21分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时45分]"
+          "time_info": "[00时49分 ~ 05时57分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是轻微敲打",
@@ -75,11 +75,36 @@
             9,
             10,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 23时21分]"
+        },
+        {
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时21分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 23时21分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -92,29 +117,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 07时02分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时45分]"
-        },
-        {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
@@ -138,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：战争部已向公众发布了第一批不明飞行物/不明空中现象（UFO/UAP）档案，供大家查阅和研究。为了实现完全透明，我荣幸地指示我的政府部门识别并提供与外星生命、不明空中现象和不明飞行物相关的政府档案。以往的政府在这个问题上未能做到透明，但有了这些新的文件和视频，人们可以自行判断“这到底是怎么回事？”祝大家愉快！",
+          "url": "https://flash.jin10.com/detail/20260508231252471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
@@ -190,7 +203,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -239,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 23时21分]"
         },
         {
           "title": "中美双方就特朗普访华保持沟通",
@@ -436,7 +449,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -463,6 +476,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普将欧盟批准关税协议的最后期限延长至7月4日",
           "url": "https://flash.jin10.com/detail/20260508034301244800",
           "source": "金十数据",
@@ -485,6 +509,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -496,6 +531,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国总统特朗普赞扬弗吉尼亚州法院裁定推翻民主党选区划分。",
+          "url": "https://flash.jin10.com/detail/20260508225351506800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于美东时间周五中午（北京时间周六凌晨）在玫瑰园发表讲话。",
           "url": "https://flash.jin10.com/detail/20260508100502102800",
           "source": "金十数据",
@@ -505,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "特朗普的“餐厅菜单”上新？继TACO后，NACHO逻辑正席卷市场",
+          "url": "https://flash.jin10.com/detail/20260508224705469800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -554,8 +611,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 23时21分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -633,7 +690,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -722,7 +779,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -733,7 +790,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -755,7 +812,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
