@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:43:48.704929+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-10T06:42:56.978629+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -27,11 +27,12 @@
             23,
             4,
             22,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -142,8 +144,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -153,8 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -167,8 +169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -178,8 +180,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 06时42分]"
         }
       ]
     },
@@ -196,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -225,8 +227,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 06时42分]"
         }
       ]
     }
