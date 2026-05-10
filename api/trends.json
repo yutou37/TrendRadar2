@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:53:25.091498+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-05-10T18:14:48.888829+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -184,8 +184,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 16时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 18时14分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -194,11 +194,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 18时14分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -218,11 +219,12 @@
           "source": "微博",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 18时14分]"
         }
       ]
     },
@@ -319,11 +321,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 18时14分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -332,7 +335,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
