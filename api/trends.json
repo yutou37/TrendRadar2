@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T13:54:46.319074+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-05-16T16:02:56.926908+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -53,6 +53,21 @@
           "time_info": "[00时51分 ~ 10时48分]"
         },
         {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 16时02分]"
+        },
+        {
           "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
           "source": "澎湃新闻",
@@ -62,34 +77,6 @@
             5,
             3,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普离开这一幕中国军人尽显英姿",
-          "url": "https://www.toutiao.com/trending/7639049468456992787/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            7,
-            28
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -106,6 +93,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            7,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 16时02分]"
         },
         {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
@@ -198,8 +200,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 13时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 16时02分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -293,11 +295,23 @@
           "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
           "source": "凤凰网",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普在空军一号受访，释放大量信号",
+          "url": "https://news.ifeng.com/c/8tAtho08BXE",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时02分"
         },
         {
           "title": "特朗普团队拟重塑加沙“钱途” 巴勒斯坦税收恐被挪用",
@@ -326,11 +340,12 @@
           "url": "https://news.ifeng.com/c/8tAOMUPRq30",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
         },
         {
           "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
@@ -341,8 +356,33 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时54分]"
+          "time_info": "[10时47分 ~ 16时02分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -357,18 +397,6 @@
           "time_info": "[04时17分 ~ 07时02分]"
         },
         {
-          "title": "特朗普抵达美国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 13时54分]"
-        },
-        {
           "title": "特朗普说随访美国商人是自己想来的",
           "url": "https://www.toutiao.com/trending/7639597869411500086/",
           "source": "今日头条",
@@ -381,15 +409,52 @@
           "time_info": "[10时47分 ~ 13时54分]"
         },
         {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
+          "title": "特朗普：“伊斯兰国”二号头目被消灭",
+          "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
+          "source": "凤凰网",
           "ranks": [
-            9
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[13时54分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普称随访美国商人是自己想来的",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
         },
         {
           "title": "外交部发言人就美国总统特朗普访华情况答记者问",
@@ -412,17 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普：“伊斯兰国”二号头目被消灭",
-          "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普称赞股市。",
@@ -513,15 +567,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时02分"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -535,13 +589,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普儿媳妇发布打卡长城照",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E5%A6%87%E5%8F%91%E5%B8%83%E6%89%93%E5%8D%A1%E9%95%BF%E5%9F%8E%E7%85%A7",
           "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -563,20 +628,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
         {
-          "title": "特朗普称随访美国商人是自己想来的",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
-          "source": "百度热搜",
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时02分"
         },
         {
           "title": "美国总统特朗普说极端组织“伊斯兰国”二号头目被“清除”。（新华社）",
@@ -585,20 +650,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
-          "source": "百度热搜",
+          "title": "特朗普结束访华，大赞中南海景致：若待得惯都不想走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182927",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时02分"
         },
         {
           "title": "特朗普说“伊斯兰国”二号头目被“清除”",
@@ -607,7 +672,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -629,7 +694,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -669,8 +734,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 16时02分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 16时02分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -683,19 +761,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 10时48分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 13时54分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -823,18 +888,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时02分]"
+        },
+        {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
+          "url": "https://flash.jin10.com/detail/20260516150549630800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时02分"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
