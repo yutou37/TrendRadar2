@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T22:56:08.892946+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-05-17T23:58:53.424628+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -51,11 +51,12 @@
             1,
             2,
             3,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 22时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 23时58分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -143,8 +144,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 22时56分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 23时58分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -156,8 +157,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时04分 ~ 22时56分]"
+          "appearance_count": 7,
+          "time_info": "[17时04分 ~ 23时58分]"
         },
         {
           "title": "特朗普黄仁勋同款美食",
@@ -220,6 +221,18 @@
           "time_info": "[03时03分 ~ 07时52分]"
         },
         {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 23时58分]"
+        },
+        {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
           "url": "https://flash.jin10.com/detail/20260517002136992800",
           "source": "金十数据",
@@ -266,18 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 21时18分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 22时56分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -341,6 +342,18 @@
           "time_info": "[21时18分 ~ 22时56分]"
         },
         {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
+        },
+        {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
           "url": "https://flash.jin10.com/detail/20260517010131045800",
           "source": "金十数据",
@@ -353,15 +366,15 @@
           "time_info": "[03时03分 ~ 04时44分]"
         },
         {
-          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
-          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517233453161800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时56分"
+          "time_info": "23时58分"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
@@ -403,7 +416,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -545,8 +558,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 22时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 23时58分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -586,8 +599,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 22时56分]"
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 23时58分]"
         }
       ]
     },
