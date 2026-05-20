@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T06:17:00.980136+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-20T08:05:27.700219+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 08时05分]"
         },
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -37,8 +37,33 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 08时05分]"
+        },
+        {
+          "title": "万斯为特朗普超长交易清单辩护",
+          "url": "https://flash.jin10.com/detail/20260520075009273800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "赖清德暗怼特朗普后心虚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18,
+            26,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "time_info": "[03时01分 ~ 08时05分]"
         },
         {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
@@ -47,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -58,9 +83,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "国际油价短线小幅走低。特朗普发表讲话称，将很快结束伊朗战争，伊朗非常想达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3106302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美媒：特朗普或在生日期间出席法国G7峰会",
+          "url": "https://flash.jin10.com/detail/20260520074652554800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普将出席在法国举行的G7峰会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3106301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美国副总统万斯：无论总统特朗普作何决定，伊朗战争都不可能永远持续下去。",
@@ -80,22 +138,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "赖清德暗怼特朗普后心虚了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时17分]"
         },
         {
           "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
@@ -162,9 +207,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
+          "url": "https://flash.jin10.com/detail/20260520073855509800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "特朗普听取对伊朗军事行动方案",
@@ -184,9 +240,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗战事）希望我们能以一种好的方式解决它。",
+          "url": "https://flash.jin10.com/detail/20260520073824544800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260520073551470800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "路透社/益普索调查显示，47%的共和党人支持特朗普对生活成本的处理，46%表示不支持。",
@@ -211,6 +289,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "路透社/益普索的调查显示，美国总统特朗普的支持率降至35%，接近其任期内的最低水平。",
           "url": "https://flash.jin10.com/detail/20260520021228583800",
           "source": "金十数据",
@@ -233,6 +322,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）我们将迅速结束战争。",
+          "url": "https://flash.jin10.com/detail/20260520073414269800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
           "url": "https://wallstreetcn.com/livenews/3106198",
           "source": "华尔街见闻-快讯",
@@ -253,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据AXIOS：尽管与盟友关系紧张，美国总统特朗普将出席法国G7峰会。",
+          "url": "https://flash.jin10.com/detail/20260520072931078800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美国总统特朗普：我们还没有撤离伊朗。",
@@ -280,8 +391,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 08时05分]"
+        },
         {
           "title": "谷歌展示Google Flow Music。",
           "url": "https://wallstreetcn.com/livenews/3106211",
@@ -294,16 +418,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -333,11 +456,12 @@
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时05分]"
         },
         {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
@@ -360,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
@@ -393,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -434,7 +580,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -445,7 +591,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -525,12 +671,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "三星与谷歌首次展示新款智能眼镜",
+          "url": "https://flash.jin10.com/detail/20260520071733734800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -562,7 +719,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -573,9 +730,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 08时05分]"
         },
         {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
@@ -588,6 +757,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时17分]"
+        },
+        {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 08时05分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -614,17 +795,6 @@
           "time_info": "[04时49分 ~ 06时17分]"
         },
         {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 06时17分]"
-        },
-        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -635,17 +805,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 06时17分]"
         },
         {
           "title": "美股开盘：西部数据、闪迪跌超3%",
@@ -665,7 +824,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -690,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美股三大指数收跌 光通信逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E8%B7%8C+%E5%85%89%E9%80%9A%E4%BF%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
@@ -723,13 +893,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
+          "url": "https://wallstreetcn.com/livenews/3106273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "WTI原油、现货黄金和美元指数DXY小幅异动，美国总统特朗普称，将迅速结束战争。",
+          "url": "https://flash.jin10.com/detail/20260520073537411800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
         {
           "title": "彭博美元指数涨超0.3%",
           "url": "https://wallstreetcn.com/livenews/3106228",
@@ -774,11 +966,12 @@
           "url": "https://www.cls.cn/detail/2375756",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 08时05分]"
         },
         {
           "title": "DeepSeek最新回应",
@@ -786,11 +979,12 @@
           "source": "微博",
           "ranks": [
             5,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 08时05分]"
         }
       ]
     },
