@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T18:49:52.025432+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-22T21:32:16.376221+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -101,6 +101,17 @@
           "time_info": "[01时57分 ~ 15时44分]"
         },
         {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时32分]"
+        },
+        {
           "title": "中方回应特朗普称将与赖清德谈军售",
           "url": "https://www.toutiao.com/trending/7642244493529321014/",
           "source": "今日头条",
@@ -113,15 +124,17 @@
           "time_info": "[01时57分 ~ 07时03分]"
         },
         {
-          "title": "特朗普声称要与赖清德通话，美媒分析后果",
-          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
-          "source": "凤凰网",
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
           "ranks": [
-            2
+            12,
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 21时32分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -170,16 +183,16 @@
           "time_info": "[05时27分 ~ 07时03分]"
         },
         {
-          "title": "特朗普儿媳再忆中国行直呼震撼",
-          "url": "https://www.toutiao.com/trending/7641561881347309611/",
-          "source": "今日头条",
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            14
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时32分 ~ 15时44分]"
+          "time_info": "[15时43分 ~ 21时32分]"
         },
         {
           "title": "特朗普称将向波兰增派5000名美军",
@@ -216,17 +229,6 @@
           "time_info": "[15时43分 ~ 15时44分]"
         },
         {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
           "url": "https://wallstreetcn.com/livenews/3107623",
           "source": "华尔街见闻-快讯",
@@ -237,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 07时03分]"
+        },
+        {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "特朗普说去不去儿子婚礼都会被骂",
@@ -366,7 +379,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -380,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：需要赶快通过《拯救美国法案》！",
+          "url": "https://flash.jin10.com/detail/20260522211726507800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
@@ -435,12 +459,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：沃什将使美联储回归本源。 沃什将恢复美联储的独立性。 特朗普相信沃什会以数据为依据。 存在石油冲击传导至核心通胀的风险。 全球各国央行都必须高度关注”石油冲击。 毫无疑问，这是一次石油冲击。而一旦出现石油冲击，就存在其传导至核心通胀的风险。 核心通胀仅出现小幅波动。 希望鲍威尔能够下台。 沃什会妥善管理利率。 希望鲍威尔很快离开，沃什能完全掌控大局。",
+          "url": "https://wallstreetcn.com/livenews/3108041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -514,6 +549,17 @@
           "time_info": "[15时43分 ~ 18时49分]"
         },
         {
+          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
@@ -544,7 +590,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -569,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3108061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
@@ -621,7 +678,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -632,9 +689,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "布伦特原油5分钟内下跌1.13美元/桶，报103.19美元/桶；WTI原油5分钟内下跌1.13美元/桶，报96.33美元/桶。 美股期货拉升，标普500指数期货涨0.4%。 美国国债扩大涨幅，10年期国债收益率触及盘中低点4.54%。 欧洲债券扩大涨幅，德国10年期国债收益率下跌7个基点至3.03%。",
+          "url": "https://wallstreetcn.com/livenews/3108046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -827,6 +895,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     }
