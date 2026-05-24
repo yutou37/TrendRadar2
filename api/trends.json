@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T11:40:54.869542+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-24T15:00:05.359292+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时00分]"
         },
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时00分]"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -78,6 +78,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时51分 ~ 11时40分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -144,17 +156,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3108428",
           "source": "华尔街见闻-快讯",
@@ -192,6 +193,18 @@
           "time_info": "[04时51分 ~ 07时57分]"
         },
         {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：美国总统特朗普关于霍尔木兹海峡恢复原状的说法不实。",
           "url": "https://flash.jin10.com/detail/20260524052344173800",
           "source": "金十数据",
@@ -215,6 +228,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3108428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 15时00分]"
         },
         {
           "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
@@ -241,18 +267,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3108428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 11时40分]"
         },
         {
           "title": "美国总统特朗普对以色列第12频道表示，如果协议对以色列不利，我将不会签署。",
@@ -395,6 +409,18 @@
           "time_info": "[04时51分 ~ 07时57分]"
         },
         {
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
+        },
+        {
           "title": "特朗普称美伊协议基本谈成",
           "url": "https://flash.jin10.com/detail/20260524043922991800",
           "source": "金十数据",
@@ -419,6 +445,17 @@
           "time_info": "[00时08分 ~ 03时24分]"
         },
         {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 15时00分]"
+        },
+        {
           "title": "据以色列第12频道报道，以色列官员称，美国特使威特科夫正试图“不惜一切代价”促成协议，并且正是他在施压特朗普总统不要恢复战事。",
           "url": "https://flash.jin10.com/detail/20260524010941345800",
           "source": "金十数据",
@@ -431,15 +468,16 @@
           "time_info": "[02时02分 ~ 03时24分]"
         },
         {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://wallstreetcn.com/livenews/3108435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 15时00分]"
         },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
@@ -451,28 +489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "枪击发生时特朗普正在白宫",
-          "url": "https://wallstreetcn.com/livenews/3108435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "据Axios援引以色列官员报道，以色列总理内塔尼亚胡敦促美国总统特朗普恢复对伊朗的打击。报道还称，内塔尼亚胡对目前正在起草的美伊协议感到极为担忧。",
@@ -492,7 +508,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -506,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "巴基斯坦外交部长：赞扬美国总统特朗普的领导力、对对话和外交的承诺，以及美国副总统万斯、美国国务卿鲁比奥和整个美国团队。",
+          "url": "https://flash.jin10.com/detail/20260524132526112800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "据Axios记者报道，美国总统特朗普告诉我，他认为以色列总理内塔尼亚胡并不担心美伊之间可能达成的协议。",
@@ -525,9 +552,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "巴基斯坦外交部长：今天由美国总统特朗普主导的重要通话标志着朝区域和平迈出重要一步。",
+          "url": "https://flash.jin10.com/detail/20260524132440651800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "枪击发生时特朗普正在白宫",
@@ -536,7 +574,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -558,9 +596,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：土耳其欢迎伊美外交进程提升至特朗普所提到的层级。",
+          "url": "https://flash.jin10.com/detail/20260524124724318800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "特朗普回应白宫附近枪击案 称建造安保空间非常重要",
+          "url": "https://flash.jin10.com/detail/20260524122944346800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "枪击发生时特朗普正在白宫",
@@ -569,7 +629,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -610,8 +670,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时00分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -637,8 +697,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[02时01分 ~ 15时00分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -656,26 +728,16 @@
           "time_info": "[00时08分 ~ 07时57分]"
         },
         {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
         }
       ]
     },
@@ -693,8 +755,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时00分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -703,11 +765,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时00分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -740,11 +803,12 @@
           "url": "https://wallstreetcn.com/articles/3772970",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 15时00分]"
         }
       ]
     },
