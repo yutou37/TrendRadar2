@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-05-25T21:59:43.749645+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-05-26T00:27:56.535124+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
-          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
-        {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
-        {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773010",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 21时59分]"
-        },
-        {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -87,393 +25,48 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 18时03分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
-          "url": "https://wallstreetcn.com/livenews/3108525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://wallstreetcn.com/livenews/3108545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 08时04分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3108523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 06时58分]"
-        },
-        {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 18时03分]"
-        },
-        {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时04分]"
-        },
-        {
-          "title": "特朗普告诉美方代表：不要急于达成协议",
-          "url": "https://wallstreetcn.com/livenews/3108518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 05时56分]"
-        },
-        {
-          "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
-          "url": "https://wallstreetcn.com/articles/3773000",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
-          "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
-          "url": "https://flash.jin10.com/detail/20260525025220703800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "00时27分"
         },
         {
-          "title": "美国正边缘化以色列：内塔尼亚胡私下坦言无力干预特朗普决策",
-          "url": "https://flash.jin10.com/detail/20260525213109463800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普称美伊协议“未谈妥”",
-          "url": "https://www.douyin.com/hot/2511044",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
-          "url": "https://wallstreetcn.com/livenews/3108666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "特朗普要求中东多国与以色列建交",
-          "url": "https://wallstreetcn.com/livenews/3108912",
+          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
+          "url": "https://wallstreetcn.com/livenews/3108956",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
-          "url": "https://flash.jin10.com/detail/20260525021837160800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://flash.jin10.com/detail/20260525035821576800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
-          "url": "https://flash.jin10.com/detail/20260525014506415800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "特朗普表示与伊朗的谈判正在“顺利”推进",
-          "url": "https://wallstreetcn.com/livenews/3108896",
+          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108943",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
-          "url": "https://wallstreetcn.com/livenews/3108501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        },
-        {
-          "title": "沃什接棒鲍威尔，特朗普再无“背锅侠”",
-          "url": "https://flash.jin10.com/detail/20260525205756687800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "特朗普称美伊协议未谈妥：封锁将持续",
-          "url": "https://www.toutiao.com/trending/7643602399059250731/",
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
           "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时58分]"
-        },
-        {
-          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260525060644652800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
-        },
-        {
-          "title": "提醒：美股因节假日休市一日。",
-          "url": "https://wallstreetcn.com/livenews/3108922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "中国500万美股账户被冻结 后续怎么办",
-          "url": "https://www.toutiao.com/trending/7643690261362196489/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时19分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 21时59分]"
-        },
-        {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
-          "url": "https://wallstreetcn.com/livenews/3108773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY跌破99，日内跌0.33%。",
-          "url": "https://flash.jin10.com/detail/20260525063241130800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
+          "time_info": "00时27分"
         }
       ]
     }
