@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:19:41.190886+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-05-25T18:03:14.889459+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -55,6 +55,17 @@
           "time_info": "[00时59分 ~ 08时04分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
           "title": "特朗普一季度做了3711笔证券交易",
           "url": "https://www.toutiao.com/trending/7643303101427879430/",
           "source": "今日头条",
@@ -67,6 +78,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 08时04分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 18时03分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -110,6 +133,17 @@
           "time_info": "[01时00分 ~ 06时58分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 18时03分]"
+        },
+        {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
           "url": "https://wallstreetcn.com/articles/3772984",
           "source": "华尔街见闻",
@@ -134,15 +168,15 @@
           "time_info": "[01时00分 ~ 05时56分]"
         },
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
+          "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
+          "url": "https://wallstreetcn.com/articles/3773000",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
         },
         {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
@@ -154,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "特朗普称美伊协议“未谈妥”",
@@ -184,7 +207,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -291,11 +314,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 18时03分]"
         }
       ]
     },
@@ -333,9 +357,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
+          "url": "https://wallstreetcn.com/livenews/3108773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
