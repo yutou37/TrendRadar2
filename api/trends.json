@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T06:08:51.157694+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-05-26T08:05:18.734507+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 08时05分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
@@ -36,18 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
-          "url": "https://wallstreetcn.com/livenews/3109035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -74,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://wallstreetcn.com/livenews/3109035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时05分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -118,7 +119,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -129,9 +130,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
@@ -143,6 +155,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "浓缩铀交给美国？特朗普扔最新方案，多家媒体爆料：霍尔木兹30天内打通，伊朗石油获豁免",
+          "url": "https://flash.jin10.com/detail/20260526071724879800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
+          "url": "https://wallstreetcn.com/livenews/3109041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -159,7 +204,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
@@ -172,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 02时25分]"
+        },
+        {
+          "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
+          "url": "https://flash.jin10.com/detail/20260526072611689800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
@@ -220,7 +276,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -234,6 +290,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
+          "url": "https://wallstreetcn.com/livenews/3109054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     }
