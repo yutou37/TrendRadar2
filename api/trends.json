@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-28T00:36:56.796266+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T03:24:45.508129+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 03时24分]"
+        },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260528000920766800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "特朗普：如果阿曼在海峡问题上站在伊朗一边，将“炸掉”阿曼",
+          "url": "https://flash.jin10.com/detail/20260528030457684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美国总统特朗普：我并不关心中期选举。",
@@ -35,17 +57,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
-          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -206,6 +217,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据华尔街日报：特朗普儿童账户应用程序定于周四上线。",
+          "url": "https://flash.jin10.com/detail/20260528021613630800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+          "url": "https://wallstreetcn.com/livenews/3110214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "据美国公共电视网 (PBS)：美国总统特朗普表示，放弃铀矿不会换来对伊朗制裁的解除。",
           "url": "https://flash.jin10.com/detail/20260527234654653800",
           "source": "金十数据",
@@ -226,6 +259,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+          "url": "https://wallstreetcn.com/livenews/3110209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：如果（沙特等）多个国家不加入《亚伯拉罕协议》，不确定是否应当达成伊朗协议。 如果伊朗协议不伟大，我们就不会努力。 （关于伊朗问题的时间框架）事情进展很快。 我们可能必须迅速结束此事。 我们正在更迭伊朗政权。",
+          "url": "https://wallstreetcn.com/livenews/3110207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普在被问及免征燃油税（Gas Tax Holiday）时表示：这是我们可能会讨论的事情，让我们看看会发生什么。",
+          "url": "https://wallstreetcn.com/livenews/3110206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普威胁称，阿曼要么老实点，“否则我们就会炸他们”。目前，标普500指数跌超0.2%，纳斯达克100指数跌超0.5%，费城半导体指数跌超2.5%，银行指数跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3110205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普威胁阿曼：老实点，否则会轰炸",
+          "url": "https://wallstreetcn.com/livenews/3110202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -238,11 +326,12 @@
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -252,8 +341,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -263,8 +352,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 03时24分]"
         },
         {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
@@ -276,6 +365,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
+          "url": "https://www.zhihu.com/question/2042293920017691036",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     }
