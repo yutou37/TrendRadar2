@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T19:28:34.294011+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-29T23:25:35.391576+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 23时25分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -144,6 +144,28 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773437",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
           "url": "https://wallstreetcn.com/livenews/3110972",
           "source": "华尔街见闻-快讯",
@@ -188,6 +210,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，科技行业ETF涨超2%，全球科技股指数ETF、半导体ETF涨1.62%，日常消费品ETF、能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
           "url": "https://wallstreetcn.com/livenews/3110950",
           "source": "华尔街见闻-快讯",
@@ -197,12 +230,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "马斯克表示，有关SpaceX下调IPO估值目标的报道是“虚假的”。特斯拉美股目前仍跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数涨超1%，戴尔科技涨约33%，超微电脑涨约9%",
+          "url": "https://wallstreetcn.com/livenews/3111484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 18,
       "titles": [
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -240,6 +295,28 @@
           "time_info": "[02时11分 ~ 11时28分]"
         },
         {
+          "title": "美国总统特朗普：海上封锁将被解除。",
+          "url": "https://flash.jin10.com/detail/20260529225627572800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗将完成清除或引爆遗留的水雷。",
+          "url": "https://flash.jin10.com/detail/20260529225553724800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
           "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
           "source": "凤凰网",
@@ -249,6 +326,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时11分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普提议修改美墨加协定，旨在提高汽车中的“美国制造”含量",
+          "url": "https://flash.jin10.com/detail/20260529225444435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "【美财长：美伊能否达成协议取决于“总统想要怎么做”】美国财政部长贝森特28日在白宫记者会上表示，美国与伊朗能否达成潜在的协议取决于美总统特朗普是否支持该协议。 据美国媒体当天早些时候援引美官员的话报道，美伊谈判代表已就谅解备忘录条款基本达成一致，有待特朗普最终批准。贝森特在记者会上没有直接回答多次相关提问，而是称“双方团队一直在进行往来磋商”，并强调“一切都取决于总统想要怎么做”。 贝森特说，特朗普有几条明确的“红线”，即伊朗必须交出其高浓缩铀、伊朗不能发展核武器，以及霍尔木兹海峡必须保持开放。（新华社）",
@@ -272,6 +360,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 19时28分]"
+        },
+        {
+          "title": "美国总统特朗普：所有水雷，如果存在水雷的话，将被清除。我们通过引爆，已清除许多此类地雷。",
+          "url": "https://flash.jin10.com/detail/20260529225404984800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：现在将召开会议以最终决定伊朗问题；伊朗必须同意他们永远不会拥有核武器和炸弹；霍尔木兹海峡必须立即开放，且不收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260529225323525800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "通用汽车(GM.N)跌超3%，福特汽车(F.N)涨幅收窄至4%，Stellantis(STLA.N)跌2%，此前消息称，特朗普政府希望根据美墨加协定生产的汽车至少有50%在美国制造。",
+          "url": "https://flash.jin10.com/detail/20260529225215262800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "报道：特朗普政府企图让美国车辆制造在USMCA占比达到50%",
+          "url": "https://wallstreetcn.com/livenews/3111516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
@@ -305,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府希望根据美墨加协定（USMCA）生产的汽车至少有50%在美国制造。",
+          "url": "https://flash.jin10.com/detail/20260529223039954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
@@ -319,9 +473,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 23时25分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -382,87 +536,31 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
-          "url": "https://wallstreetcn.com/livenews/3110939",
+          "title": "美国总统特朗普称，现在将开会，对伊朗问题做出最终决定。 伊朗必须同意他们永远不会拥有核武器和核弹。 霍尔木兹海峡必须立即开放，不得收费。 所有水雷，如果有的话，都将被清除。 彭博美元指数刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3111525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时08分"
+          "time_info": "23时25分"
         },
         {
-          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
-          "url": "https://wallstreetcn.com/livenews/3110968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 19时28分]"
-        },
-        {
-          "title": "OpenAI的Codex怎么玩",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
-          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "title": "美债延续涨势，美元指数DXY跌至盘中低点，现报98.8。",
+          "url": "https://flash.jin10.com/detail/20260529225533139800",
           "source": "金十数据",
           "ranks": [
-            26
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
+          "time_info": "23时25分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
           "url": "https://wallstreetcn.com/livenews/3110872",
@@ -499,6 +597,96 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
+          "url": "https://wallstreetcn.com/livenews/3110939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
+          "url": "https://wallstreetcn.com/livenews/3110860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "谷歌TPU或迎空前大单 私募巨头正为Anthropic筹划巨额芯片融资",
+          "url": "https://flash.jin10.com/detail/20260529222227532800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 23时25分]"
+        },
+        {
+          "title": "OpenAI的Codex怎么玩",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
+          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -521,9 +709,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 23时25分]"
         }
       ]
     }
