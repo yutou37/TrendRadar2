@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T11:28:58.175598+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-05-29T15:54:57.025074+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,28 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
@@ -52,28 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -116,7 +116,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -201,7 +201,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -224,8 +224,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[02时11分 ~ 15时54分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -272,6 +272,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
           "url": "https://flash.jin10.com/detail/20260529042337161800",
           "source": "金十数据",
@@ -304,11 +315,12 @@
           "url": "https://www.zhihu.com/question/2043503794751791638",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
         },
         {
           "title": "如何看待微软取消了 Claude Code 订阅？",
@@ -350,7 +362,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -392,6 +404,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "OpenAI的Codex怎么玩",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
+          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -449,23 +500,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时11分 ~ 11时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的Codex怎么玩",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         }
       ]
     }
