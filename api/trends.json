@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:01:50.974217+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-05-31T07:09:54.271931+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,40 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
+          "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
+          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
+        },
+        {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
           "url": "https://flash.jin10.com/detail/20260531001517348800",
           "source": "金十数据",
@@ -30,38 +64,17 @@
           "time_info": "01时03分"
         },
         {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
           "ranks": [
-            10
+            10,
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -74,19 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 03时13分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -126,19 +126,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         }
       ]
     },
@@ -152,11 +153,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 07时09分]"
         }
       ]
     },
@@ -191,8 +193,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时09分]"
         }
       ]
     }
