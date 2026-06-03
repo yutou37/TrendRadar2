@@ -1,46 +1,12 @@
 {
-  "generated_at": "2026-06-03T21:19:08.348105+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-06-04T02:23:03.282862+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "特朗普：美伊暂停谈判？假新闻！",
-          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普，开掉“不听话的情报头子”",
-          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时45分]"
-        },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
           "url": "https://news.ifeng.com/c/8ter8XhY8eS",
@@ -50,19 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 11时58分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -73,283 +38,101 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
-          "url": "https://news.ifeng.com/c/8tdev8HIju4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
-        },
-        {
-          "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
-          "url": "https://flash.jin10.com/detail/20260603023318280800",
+          "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
+          "url": "https://flash.jin10.com/detail/20260604015519960800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
-          "url": "https://flash.jin10.com/detail/20260603052655387800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
-          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "美国总统特朗普将于7月24日出席改期的记者晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3113229",
+          "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
+          "url": "https://wallstreetcn.com/livenews/3113962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
-          "url": "https://www.cls.cn/detail/2388943",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 11时58分]"
+          "time_info": "02时23分"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 21时19分]"
-        },
-        {
-          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
-          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普被曝同以总理通话爆粗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3113300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
-          "url": "https://www.cls.cn/detail/2389030",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "国际原子能机构（IAEA）：伊朗核风险被认为高于特朗普发动袭击前的水平。",
-          "url": "https://wallstreetcn.com/livenews/3113810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
-          "url": "https://flash.jin10.com/detail/20260603022637217800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
-          "url": "https://flash.jin10.com/detail/20260603022625519800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：非法移民和外国诈骗者每年从美国纳税人那里窃取数十亿美元。作为我政府历史性努力的一部分，以结束欺诈和扭转大规模非法移民，我最近签署了一项强有力的新行政命令，由财政部主导，旨在阻止银行、信用卡和金融机构被用于促进人口走私、毒品贩运、非法移民以及策划这些活动的犯罪集团。",
-          "url": "https://flash.jin10.com/detail/20260603022601524800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "一份报告显示，国际原子能机构（IAEA）在报告中指出核扩散风险，伊朗核风险被认为高于特朗普发动袭击前的水平。",
-          "url": "https://flash.jin10.com/detail/20260603204845458800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "据美联社：美国代理司法部长托德·布兰奇表示，在遭到广泛的政治反弹和法庭挫败后，特朗普政府将放弃设立18亿美元基金的计划，该基金旨在“补偿”这位共和党总统的盟友。",
-          "url": "https://flash.jin10.com/detail/20260603045046155800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
-          "url": "https://wallstreetcn.com/livenews/3113212",
+          "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
+          "url": "https://wallstreetcn.com/livenews/3113939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
-          "url": "https://flash.jin10.com/detail/20260603020332024800",
-          "source": "金十数据",
+          "title": "【内塔尼亚胡承认与特朗普存在“战术分歧”，特朗普证实对其爆粗口】以色列总理内塔尼亚胡3日表示，他与美国总统特朗普“有时会出现战术层面的分歧”，但双方在“核心目标”上保持一致。 内塔尼亚胡当日在接受美国消费者新闻与商业频道采访时说，他与特朗普“每两天就会通一次电话”，双方有着共同目标，其中包括“阻止伊朗获得核武器以及确保以色列安全”。 谈及伊朗战事时，内塔尼亚胡表示，战事最终如何结束“仍是一个开放性问题”，但以色列将继续维护自身安全利益。 特朗普在3日播出的一档访谈节目中证实，他在6月1日与内塔尼亚胡通话时爆粗口，斥责内塔尼亚胡“疯了”，但称两人“合作得非常愉快”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3113935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时44分 ~ 21时19分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 11时58分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "迈威尔科技美股盘后涨9.4%。",
-          "url": "https://wallstreetcn.com/livenews/3113304",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时45分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
@@ -360,274 +143,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 05时47分]"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
-          "url": "https://wallstreetcn.com/livenews/3113295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "“巨无霸IPO”即将接踵而至，以史为鉴美股要崩了？一文看懂",
-          "url": "https://www.cls.cn/detail/2389038",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3113808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美股现罕见盘面，历史级涨幅对标1987年崩盘前夕",
-          "url": "https://flash.jin10.com/detail/20260603164512752800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
-          "url": "https://wallstreetcn.com/livenews/3113281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
-          "url": "https://wallstreetcn.com/livenews/3113280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "美国稀土美股盘前涨近4%，公司与美国商务部敲定最终协议，协议涉及最多2.77亿美元联邦资金，最高可获得13亿美元高级担保贷款额度。",
-          "url": "https://wallstreetcn.com/livenews/3113790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周二（6月2日），美股超大规模云服务商（Hyperscalers）跌2.51%，报103.13点。",
-          "url": "https://wallstreetcn.com/livenews/3113278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "周二（6月2日），美股存储芯片与硬件供应链指数涨2.07%，报222.31点，连续六个交易日创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3113277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
-          "url": "https://wallstreetcn.com/livenews/3113276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 07时45分]"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 11时58分]"
-        },
-        {
-          "title": "德勤与谷歌云及Wiz合作，推出人机协作的人工智能网络防御系统。",
-          "url": "https://flash.jin10.com/detail/20260603210157742800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
-          "url": "https://flash.jin10.com/detail/20260603022348534800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3113205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 21时19分]"
-        },
-        {
-          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-          "url": "https://www.cls.cn/detail/2388950",
-          "source": "财联社热门",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
-        },
-        {
-          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
-          "url": "https://wallstreetcn.com/livenews/3113224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3113311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     },
@@ -636,43 +163,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "曝DeepSeek首轮融资约70亿美元",
-          "url": "https://www.toutiao.com/trending/7647079043384217115/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[02时22分 ~ 02时23分]"
+        },
+        {
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
+          "url": "https://www.zhihu.com/question/2045440339406762131",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
-          "url": "https://wallstreetcn.com/livenews/3113215",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
+          "url": "https://wallstreetcn.com/livenews/3113946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "02时23分"
         }
       ]
     }
