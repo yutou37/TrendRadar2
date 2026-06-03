@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T16:57:59.741229+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-06-03T21:19:08.348105+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -42,6 +42,17 @@
           "time_info": "[02时39分 ~ 07时45分]"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时39分 ~ 11时58分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
@@ -93,7 +115,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -104,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -130,6 +152,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时44分 ~ 11时58分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 21时19分]"
         },
         {
           "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
@@ -166,26 +200,26 @@
           "time_info": "05时47分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
           "url": "https://www.cls.cn/detail/2389030",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3113810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -219,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "一份报告显示，国际原子能机构（IAEA）在报告中指出核扩散风险，伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://flash.jin10.com/detail/20260603204845458800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "据美联社：美国代理司法部长托德·布兰奇表示，在遭到广泛的政治反弹和法庭挫败后，特朗普政府将放弃设立18亿美元基金的计划，该基金旨在“补偿”这位共和党总统的盟友。",
@@ -257,7 +302,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -268,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 16时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时44分 ~ 21时19分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -307,6 +352,17 @@
           "time_info": "[02时39分 ~ 07时45分]"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -316,6 +372,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 05时47分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
@@ -335,9 +413,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3113808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美股现罕见盘面，历史级涨幅对标1987年崩盘前夕",
@@ -346,7 +435,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -382,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "美国稀土美股盘前涨近4%，公司与美国商务部敲定最终协议，协议涉及最多2.77亿美元联邦资金，最高可获得13亿美元高级担保贷款额度。",
+          "url": "https://wallstreetcn.com/livenews/3113790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "周二（6月2日），美股超大规模云服务商（Hyperscalers）跌2.51%，报103.13点。",
@@ -420,7 +520,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -444,6 +544,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时44分 ~ 11时58分]"
+        },
+        {
+          "title": "德勤与谷歌云及Wiz合作，推出人机协作的人工智能网络防御系统。",
+          "url": "https://flash.jin10.com/detail/20260603210157742800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
@@ -474,6 +585,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 21时19分]"
+        },
+        {
           "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
           "url": "https://www.cls.cn/detail/2388950",
           "source": "财联社热门",
@@ -496,17 +619,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3113311",
           "source": "华尔街见闻-快讯",
@@ -516,6 +628,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "曝DeepSeek首轮融资约70亿美元",
+          "url": "https://www.toutiao.com/trending/7647079043384217115/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         }
       ]
     },
