@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T18:29:22.623581+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-06-07T20:20:56.823780+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -43,6 +43,39 @@
           "time_info": "01时12分"
         },
         {
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 20时20分]"
+        },
+        {
+          "title": "特朗普宣布将前往现场看NBA总决赛",
+          "url": "https://wallstreetcn.com/livenews/3115551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 20时20分]"
+        },
+        {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
           "url": "https://flash.jin10.com/detail/20260607031222169800",
           "source": "金十数据",
@@ -56,34 +89,12 @@
           "time_info": "[03时21分 ~ 07时03分]"
         },
         {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时29分]"
-        },
-        {
           "title": "伊朗开价240亿美元，这可要了特朗普的命",
           "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
           "source": "凤凰网",
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -143,12 +154,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "专家：特朗普为赶移民要判人“死亡”",
+          "url": "https://www.toutiao.com/trending/7648586699135520292/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-07）",
+          "url": "https://flash.jin10.com/detail/20260607181845041800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -160,8 +193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 20时20分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -173,8 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 20时20分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -230,9 +263,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "业内：不要“无视”周五美股的大跌",
+          "url": "https://www.toutiao.com/trending/7648521565105032746/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
+          "url": "https://flash.jin10.com/detail/20260607184311159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
@@ -276,8 +331,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 20时20分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -285,11 +340,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 20时20分]"
         }
       ]
     },
@@ -330,11 +386,12 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时20分]"
         }
       ]
     },
