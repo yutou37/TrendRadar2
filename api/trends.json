@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T15:54:55.189454+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-06-07T18:29:22.623581+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时29分]"
         },
         {
           "title": "伊朗开价240亿美元，这可要了特朗普的命",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时29分]"
         },
         {
           "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
@@ -86,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时29分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -118,7 +118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -140,7 +140,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -148,7 +148,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -156,11 +156,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 15时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 18时29分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -168,11 +169,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 15时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 18时29分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -220,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "美股大跌 A股周一能扛住吗",
+          "url": "https://www.toutiao.com/trending/7648566314880994870/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -247,39 +260,42 @@
           "ranks": [
             1,
             13,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 18时29分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 18时29分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 18时29分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -292,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时03分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[05时03分 ~ 18时29分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -308,6 +324,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时03分 ~ 15时54分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
