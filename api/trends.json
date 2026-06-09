@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T04:57:23.182164+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-06-10T06:24:50.144166+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时24分]"
         },
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
@@ -36,9 +36,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时24分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
@@ -47,9 +59,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
+          "url": "https://wallstreetcn.com/livenews/3117050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
@@ -64,16 +87,16 @@
           "time_info": "[02时04分 ~ 04时57分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "机构：美股70%熊市信号被触发",
+          "url": "https://www.toutiao.com/trending/7649392765633056299/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            6
+            22,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时57分]"
+          "time_info": "[04时57分 ~ 06时24分]"
         },
         {
           "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
@@ -82,9 +105,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美股三大股指期货开盘小幅下跌，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260610060116201800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "美股大幅波动 投资者或为SpaceX巨额IPO调仓换股",
@@ -93,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -120,17 +165,6 @@
           "time_info": "02时04分"
         },
         {
-          "title": "机构：美股70%熊市信号被触发",
-          "url": "https://www.toutiao.com/trending/7649392765633056299/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "美股费城半导体指数跌幅扩大至6%，迈威尔科技/美满电子回撤超10%，Arm跌超10%，高通跌超9%，AMD、美光科技跌超7%，台积电跌2.6%，英伟达跌2.73%。 纳斯达克100指数跌超2.7%。",
           "url": "https://wallstreetcn.com/livenews/3116949",
           "source": "华尔街见闻-快讯",
@@ -140,6 +174,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "报道：美军报复性打击后，特朗普仍认为美伊接近达成和平协议",
+          "url": "https://wallstreetcn.com/livenews/3117052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时24分]"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://wallstreetcn.com/livenews/3117049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美国法官Richard Eaton要求总统特朗普的政府加速退还关税。",
+          "url": "https://wallstreetcn.com/livenews/3117047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://flash.jin10.com/detail/20260610055938102800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普淡化美直升机坠毁事件：没什么大不了",
+          "url": "https://flash.jin10.com/detail/20260610042428986800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
+          "url": "https://wallstreetcn.com/livenews/3116959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "据ABC新闻报道，特朗普在接受该媒体采访时表示：“美国对伊朗做出回应非常重要。他们击落了一架直升机，我们正在予以回应。这是对他们昨晚对我们直升机所做之事的回应，我相信回应应该会非常强硬、非常有力。”",
+          "url": "https://flash.jin10.com/detail/20260610053201143800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
+          "url": "https://wallstreetcn.com/livenews/3116986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -227,75 +401,19 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
+          "title": "谷歌英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时57分]"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时57分]"
-        },
-        {
-          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
-          "url": "https://wallstreetcn.com/articles/3774230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普淡化美直升机坠毁事件：没什么大不了",
-          "url": "https://flash.jin10.com/detail/20260610042428986800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
-          "url": "https://wallstreetcn.com/livenews/3116959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
-          "url": "https://wallstreetcn.com/livenews/3116986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "06时24分"
         }
       ]
     },
@@ -309,11 +427,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时24分]"
         }
       ]
     },
@@ -328,7 +447,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }
