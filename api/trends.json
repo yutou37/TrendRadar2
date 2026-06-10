@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T00:39:11.097219+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T03:35:36.451547+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时35分]"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普本周料将会见国防工业主管，敦促防务企业提高产量。",
+          "url": "https://flash.jin10.com/detail/20260611030404550800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "特朗普称将“非常猛烈”打击伊朗",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美国总统特朗普本周料将会见国防工业的主管们。 特朗普将村粗防务企业提高产量。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3117673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：我认为，伊朗希望达成协议。",
@@ -47,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -81,19 +103,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：我们每晚都在获取数百万桶石油。",
@@ -102,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -113,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -124,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -135,7 +158,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -146,7 +169,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -157,9 +180,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：伊朗的情况看起来不像委内瑞拉行动那样顺利。",
@@ -168,7 +202,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -179,7 +213,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -190,7 +224,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -201,9 +235,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "特朗普政府声明称，甲骨文(ORCL.N)获得了美国政府合同，将为政府提供人力资源软件。",
+          "url": "https://flash.jin10.com/detail/20260611023557060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "特朗普重申房利美和房地美的估值可能达到1万亿美元。",
@@ -212,7 +257,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -223,7 +268,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -234,7 +279,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -245,7 +290,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -256,9 +301,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美国总统特朗普的司法部询问大型银行是否不当地关闭了客户的银行账户。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3117656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：（关于美墨加协定）我们在与他们沟通，将拭目以待。",
@@ -267,7 +323,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -278,7 +334,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -289,9 +345,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "特朗普：超过1亿桶石油通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3117654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：美国不需要墨西哥或加拿大的任何东西。墨西哥和加拿大必须更好地对待我们。",
@@ -300,7 +367,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -311,7 +378,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -322,7 +389,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -333,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         },
@@ -344,15 +411,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3117647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：推出DiffusionGemma。",
@@ -361,15 +439,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "数据硬件和软件供应商DDN的首席执行官亚历克斯·布扎里表示，公司计划在今年年底前进行新一轮融资。DDN的合作伙伴包括英伟达，客户则包括谷歌和Salesforce。",
+          "url": "https://flash.jin10.com/detail/20260611023411479800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
+          "url": "https://flash.jin10.com/detail/20260611022100658800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：面向Apache Spark托管服务的Lightning Engine已正式全面开放。",
+          "url": "https://flash.jin10.com/detail/20260611022037644800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -378,9 +489,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
@@ -396,8 +518,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 03时35分]"
         }
       ]
     },
@@ -412,7 +534,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
         }
