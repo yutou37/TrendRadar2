@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T18:10:39.154688+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-12T22:11:06.699449+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 18时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 22时11分]"
         },
         {
           "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
@@ -131,7 +131,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -186,9 +186,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "特朗普称伊朗袭击印度船只不可接受",
+          "url": "https://wallstreetcn.com/livenews/3118943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
@@ -211,6 +222,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 22时11分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 22时11分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -291,17 +325,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
           "url": "https://wallstreetcn.com/livenews/3118442",
           "source": "华尔街见闻-快讯",
@@ -319,7 +342,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -346,15 +369,48 @@
           "time_info": "08时19分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
+          "title": "特朗普称伊媒发布的美伊协议草案与事实不符",
+          "url": "https://wallstreetcn.com/livenews/3118933",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "22时11分"
+        },
+        {
+          "title": "特朗普：伊朗向“假新闻”泄露的条款与书面达成的协议条款毫无关系",
+          "url": "https://flash.jin10.com/detail/20260612214711731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "特朗普：伊朗对协议的说法与事实完全不符。 伊朗最好行动起来，赶紧行动。 媒体报道的伊朗条款与已达成的协议条款毫无关系。 伊朗袭击印度船只不可接受。 跟他们打交道完全没有诚意可言。",
+          "url": "https://wallstreetcn.com/livenews/3118931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美国国债收益率创下日内新高，此前美国总统特朗普对伊朗问题发表评论。",
+          "url": "https://flash.jin10.com/detail/20260612214614851800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
@@ -377,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）他们昨晚对离开霍尔木兹海峡的印度船只发动的无人机袭击是完全不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260612214332798800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "特朗普提名原SEC主席为美国国家情报总监",
@@ -440,7 +507,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -454,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗泄露给假新闻的条款与书面达成的条款毫无关系。与他们打交道，根本不存在诚信可言。伊朗最好迅速采取行动。",
+          "url": "https://flash.jin10.com/detail/20260612214145573800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
@@ -569,8 +647,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 22时11分]"
+        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
@@ -581,17 +670,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 06时03分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 18时10分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -640,6 +718,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美股太空股ETF跌5.9%。",
+          "url": "https://wallstreetcn.com/livenews/3118944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -673,6 +762,17 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
+          "title": "SpaceX交易倒计时，美股指涨跌互现，太空概念股盘初转跌，布油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
           "title": "金十图示：2026年06月11日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260612003159566800",
           "source": "金十数据",
@@ -682,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260612215231889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
@@ -695,6 +806,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "美股三大指数开盘涨跌不一，道指涨0.59%，标普500指数涨0.2%，纳指接近平盘。美股太空概念股多数上涨。Rocket Lab涨超3%，回声星通信涨超2%。Adobe跌8%，创下2018年2月以来的盘中最低水平，公司Q2营收超预期，业绩指引上调，但CFO离职引担忧。",
+          "url": "https://wallstreetcn.com/livenews/3118928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%",
           "url": "https://wallstreetcn.com/livenews/3118395",
           "source": "华尔街见闻-快讯",
@@ -704,6 +826,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3118922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "恐惧与贪婪交织，美股单边行情落幕？",
+          "url": "https://flash.jin10.com/detail/20260612214118700800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美满电子（迈威尔科技）美股盘后跌2%，该公司任命Dan Durn为首席财务官（CFO），6月15日生效。 值得一提的是，Durn此前是Adobe的CFO。",
@@ -854,7 +998,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
@@ -869,11 +1013,12 @@
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 22时11分]"
         }
       ]
     }
