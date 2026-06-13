@@ -1,81 +1,77 @@
 {
-  "generated_at": "2026-06-13T23:43:33.261685+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-06-14T01:22:26.921800+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 15,
       "titles": [
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
+          "url": "https://flash.jin10.com/detail/20260614010232105800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 04时10分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时37分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 08时20分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普扮忍者AI视频引日本不满",
-          "url": "https://www.toutiao.com/trending/7649725897653714990/",
-          "source": "今日头条",
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
+          "url": "https://flash.jin10.com/detail/20260614005805979800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119021",
-          "source": "华尔街见闻-快讯",
+          "title": "唐宁街10号（英国首相府）：英国首相斯塔默今天下午与美国总统唐纳德·特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20260614005746679800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
+          "url": "https://flash.jin10.com/detail/20260614005348498800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普就伊朗问题表示：我们与伊朗的关系比前任政府时期更加不同、更加良好。",
+          "url": "https://flash.jin10.com/detail/20260614005039363800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -85,535 +81,180 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "title": "美国总统特朗普就伊朗问题表示：希望这一进程能快速、简单、顺利地完成；如果不行，我们还有终极备选方案。",
+          "url": "https://flash.jin10.com/detail/20260614004838021800",
           "source": "金十数据",
           "ranks": [
-            9,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 08时20分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普就伊朗问题表示：在适当的时候，当一切平静时，我们将进入并获取核尘埃。",
+          "url": "https://flash.jin10.com/detail/20260614004827925800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普就伊朗问题表示：协议计划于明天签署。协议签署后，霍尔木兹海峡将立即对所有人开放。",
+          "url": "https://flash.jin10.com/detail/20260614004739584800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
+          "url": "https://flash.jin10.com/detail/20260614001329812800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
           "url": "https://wallstreetcn.com/livenews/3119159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美媒细数特朗普曾39次说与伊朗谈好",
           "url": "https://wallstreetcn.com/livenews/3119158",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3119171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "01时22分"
         },
         {
-          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
-          "url": "https://flash.jin10.com/detail/20260613182624858800",
+          "title": "特朗普将在G7峰会期间会晤中东伙伴",
+          "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "01时22分"
         },
         {
-          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
-          "url": "https://flash.jin10.com/detail/20260613104207547800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
-          "url": "https://flash.jin10.com/detail/20260613223904277800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3119010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
-          "url": "https://flash.jin10.com/detail/20260613203149483800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "特朗普转发巴总理有关美伊签署协议可能性的推文",
-          "url": "https://flash.jin10.com/detail/20260613223548832800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
-          "url": "https://flash.jin10.com/detail/20260613092918763800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "美国高级政府官员：美国总统特朗普还计划与法国、埃及和印度领导人举行双边会晤。",
-          "url": "https://flash.jin10.com/detail/20260613222721867800",
+          "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260613234554532800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美国高级政府官员：美国总统特朗普将于下周三在凡尔赛与法国总统马克龙共进晚餐。",
-          "url": "https://flash.jin10.com/detail/20260613222707086800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
-          "url": "https://flash.jin10.com/detail/20260613135132785800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260613090715507800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
-          "url": "https://flash.jin10.com/detail/20260613090651699800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "特朗普转发伊朗外长表态",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%A1%A8%E6%80%81%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 06时24分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 23时43分]"
-        },
-        {
-          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 06时24分]"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 13时21分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040515542800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040511043800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
-          "url": "https://wallstreetcn.com/livenews/3119078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3119077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "美股收盘，SpaceX上市首日收涨19%",
-          "url": "https://flash.jin10.com/detail/20260613040143470800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
-          "url": "https://wallstreetcn.com/livenews/3119076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
-          "url": "https://wallstreetcn.com/livenews/3119074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
-          "url": "https://wallstreetcn.com/livenews/3119073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3119072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时20分]"
-        },
-        {
-          "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
-          "url": "https://wallstreetcn.com/livenews/3119009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "周五（6月12日），美股信息科技指数涨1.98%，报437.15点，本周累涨6.44%。 成分股中，希捷科技收涨7.25%，英特尔涨6.51%表现第二（最近两个交易日累计上涨16.38%），西部数据涨6.35%、高意公司Coherent涨5.90%、泰瑞达涨5.72%、科磊涨5.55%、IREN涨5.40%、闪迪涨5.24%、CoreWeave涨5.02%紧随其后，美光科技跌1.43%、苹果跌1.52%表现靠后，Ondas Inc.跌5.09%跌幅第三大，Credo科技集团跌5.27%，Adobe跌6.76%。 在标普500指数的科技板块，希捷科技、英特尔、西部数据、Coherent、泰瑞达、科磊、闪迪领跑，Lumentum涨3.59%表现第十二，超微电脑跌4.72%、与Adobe表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3119071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
           "url": "https://www.zhihu.com/question/2049072203191342205",
           "source": "知乎",
           "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 23时43分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://wallstreetcn.com/livenews/3119114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 16时57分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://flash.jin10.com/detail/20260613093036412800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国突然限用Claude 5说明了什么",
+          "url": "https://www.toutiao.com/trending/7650833215002775103/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 13时21分]"
-        },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 23时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数本周跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3119062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 06时24分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     }
