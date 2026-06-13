@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-14T03:24:50.369708+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-06-14T05:15:36.254417+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
-          "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
-          "url": "https://flash.jin10.com/detail/20260614025927509800",
+          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
+          "url": "https://flash.jin10.com/detail/20260614045258501800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "05时15分"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 03时24分]"
+        },
+        {
+          "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
+          "url": "https://flash.jin10.com/detail/20260614025927509800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时15分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -62,8 +74,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -72,17 +117,6 @@
           "ranks": [
             6,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 03时24分]"
+        },
+        {
+          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
+          "url": "https://flash.jin10.com/detail/20260614021404765800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普就伊朗问题表示：希望这一进程能快速、简单、顺利地完成；如果不行，我们还有终极备选方案。",
@@ -135,39 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 03时24分]"
-        },
-        {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
-        },
-        {
-          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
-          "url": "https://flash.jin10.com/detail/20260614021404765800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -216,19 +229,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -239,8 +253,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
         }
       ]
     },
@@ -283,11 +297,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时15分]"
         }
       ]
     },
@@ -300,11 +315,12 @@
           "url": "https://www.zhihu.com/question/1997586495188521827",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时15分]"
         }
       ]
     }
