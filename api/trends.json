@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T21:57:30.974479+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-06-13T23:43:33.261685+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -44,6 +44,18 @@
           "time_info": "[01时37分 ~ 08时20分]"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 23时43分]"
+        },
+        {
           "title": "特朗普扮忍者AI视频引日本不满",
           "url": "https://www.toutiao.com/trending/7649725897653714990/",
           "source": "今日头条",
@@ -66,18 +78,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 21时57分]"
-        },
-        {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
           "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
           "source": "凤凰网",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时43分]"
         },
         {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
@@ -99,6 +99,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 08时20分]"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 23时43分]"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 23时43分]"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
@@ -125,26 +149,15 @@
           "time_info": "[13时21分 ~ 16时57分]"
         },
         {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "23时43分"
         },
         {
           "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
@@ -169,6 +182,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613223904277800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
@@ -186,9 +210,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
+        },
+        {
+          "title": "特朗普转发巴总理有关美伊签署协议可能性的推文",
+          "url": "https://flash.jin10.com/detail/20260613223548832800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
@@ -200,6 +235,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普还计划与法国、埃及和印度领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222721867800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将于下周三在凡尔赛与法国总统马克龙共进晚餐。",
+          "url": "https://flash.jin10.com/detail/20260613222707086800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
@@ -260,8 +317,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时20分 ~ 21时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时20分 ~ 23时43分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时20分 ~ 23时43分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -275,17 +345,18 @@
           "time_info": "[01时37分 ~ 06时24分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            6,
-            4
+            11,
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时20分 ~ 21时57分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 23时43分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -298,19 +369,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时37分 ~ 06时24分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 21时57分]"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
@@ -463,11 +521,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 23时43分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -517,9 +576,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 23时43分]"
         }
       ]
     },
