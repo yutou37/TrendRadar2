@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T22:02:38.352192+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-06-14T23:54:25.515035+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 23时54分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 23时54分]"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -56,6 +57,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
+          "url": "https://wallstreetcn.com/livenews/3119258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 23时54分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -131,18 +156,6 @@
           "time_info": "[01时22分 ~ 03时24分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 22时02分]"
-        },
-        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今天下午与美国总统唐纳德·特朗普通了电话。",
           "url": "https://flash.jin10.com/detail/20260614005746679800",
           "source": "金十数据",
@@ -167,6 +180,17 @@
           "time_info": "[07时04分 ~ 11时56分]"
         },
         {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 23时54分]"
+        },
+        {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
           "url": "https://wallstreetcn.com/livenews/3119179",
           "source": "华尔街见闻-快讯",
@@ -180,15 +204,16 @@
           "time_info": "[11时56分 ~ 19时31分]"
         },
         {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时16分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 23时54分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -263,17 +288,6 @@
           "time_info": "[01时22分 ~ 03时24分]"
         },
         {
-          "title": "特朗普称美伊协议计划14日签署",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
           "url": "https://flash.jin10.com/detail/20260614001329812800",
           "source": "金十数据",
@@ -318,6 +332,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "伊媒：伊朗不会在特朗普宣布的时间签署任何协议",
+          "url": "https://flash.jin10.com/detail/20260614230702538800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260613234554532800",
           "source": "金十数据",
@@ -327,6 +352,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260614225718900800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平",
+          "url": "https://flash.jin10.com/detail/20260614225441637800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
@@ -387,8 +434,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 23时54分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -447,9 +494,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时54分]"
         }
       ]
     },
