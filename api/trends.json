@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T07:09:43.567360+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-15T12:08:56.321554+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -181,6 +192,28 @@
           "time_info": "[03时26分 ~ 05时12分]"
         },
         {
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
           "url": "https://flash.jin10.com/detail/20260615002828559800",
           "source": "金十数据",
@@ -209,7 +242,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -258,6 +291,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普对俄罗斯总统普京表示，结束乌克兰战争至关重要，并表示他准备提供帮助。",
           "url": "https://flash.jin10.com/detail/20260615002209716800",
           "source": "金十数据",
@@ -267,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "俄总统助理：特朗普告知俄方美伊谈判取得可接受结果",
@@ -297,9 +352,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普：若未达成核协议将重启打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E6%9C%AA%E8%BE%BE%E6%88%90%E6%A0%B8%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%87%8D%E5%90%AF%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "以方消息人士：内塔尼亚胡寻求在G7后紧急会晤特朗普",
@@ -363,7 +429,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -396,7 +462,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -418,7 +484,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -440,7 +506,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
@@ -458,8 +524,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 12时08分]"
         }
       ]
     },
@@ -477,6 +543,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 07时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
+          "url": "https://www.cls.cn/detail/2399448",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Fable 5预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Fable%205%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
