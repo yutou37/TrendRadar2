@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-06-18T07:23:38.052601+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-18T11:47:07.071734+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 11时47分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时14分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
+          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
         {
           "title": "摩根资产管理Michele：经济形势不适合降息，沃什注定让特朗普失望",
           "url": "https://wallstreetcn.com/livenews/3121178",
@@ -24,17 +72,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -63,30 +100,6 @@
           "time_info": "[02时14分 ~ 07时23分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
           "url": "https://www.cls.cn/detail/2402714",
           "source": "财联社热门",
@@ -99,6 +112,17 @@
           "time_info": "[02时14分 ~ 05时05分]"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
@@ -108,6 +132,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 02时15分]"
+        },
+        {
+          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
+          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
+          "url": "https://www.cls.cn/detail/2403030",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
@@ -182,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -226,7 +305,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -297,6 +376,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "以色列始终认为不受美伊协议约束 特朗普直言以战术不可接受",
+          "url": "https://flash.jin10.com/detail/20260618111057786800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美国总统特朗普：将不得不为黎巴嫩付出努力。",
           "url": "https://wallstreetcn.com/livenews/3121150",
           "source": "华尔街见闻-快讯",
@@ -344,7 +434,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -371,6 +461,41 @@
           "time_info": "[02时14分 ~ 05时05分]"
         },
         {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时47分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时47分]"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
@@ -382,28 +507,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
@@ -426,6 +529,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "美伊签了！美股期货直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
@@ -489,7 +614,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -511,7 +636,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
@@ -604,6 +729,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         }
       ]
     }
