@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T03:24:48.841333+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:18:01.953331+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：今年将再次访问中国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -38,8 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
+        },
+        {
+          "title": "特朗普高市早苗当众吵起来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "美国总统特朗普：在60天停火期内，霍尔木兹海峡将不会收取任何通行费用，停火期结束后也不会收取任何费用，除非在协议未能完成的情况下，由美国为其自身目的征收相关费用，以作为“守护天使”向中东各国提供服务的报酬，用于过去、现在及未来成本的偿付。",
@@ -48,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -60,19 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普高市早苗当众吵起来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -82,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
@@ -98,6 +100,17 @@
           "time_info": "[01时26分 ~ 03时24分]"
         },
         {
+          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260621035019632800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -107,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
+          "url": "https://flash.jin10.com/detail/20260621031735328800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -137,7 +161,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -163,22 +187,24 @@
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -188,8 +214,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 05时18分]"
         }
       ]
     }
