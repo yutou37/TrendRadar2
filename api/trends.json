@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T11:28:28.903074+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-06-24T15:39:34.338503+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美媒称伊朗研读《交易的艺术》以破解特朗普谈判策略",
+          "url": "https://flash.jin10.com/detail/20260624152021834800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
@@ -125,13 +136,47 @@
           "time_info": "[01时54分 ~ 06时11分]"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时39分]"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时39分]"
+        },
+        {
           "title": "软银CEO孙正义：希望美国总统特朗普能为中东带来和平。",
           "url": "https://flash.jin10.com/detail/20260624110419480800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -167,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
-          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
@@ -219,7 +253,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -230,20 +264,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
-          "source": "凤凰网",
+          "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
+          "url": "https://www.cls.cn/detail/2407452",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时39分"
         },
         {
           "title": "被问及国际原子能机构核查员什么时候会在伊朗现场，美国总统特朗普表示：在合适的时候。不急。",
@@ -296,7 +330,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -433,17 +467,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "美国总统特朗普：当务之急是确保伊朗永远不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260624011808259800",
           "source": "金十数据",
@@ -516,7 +539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -538,7 +561,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -590,8 +613,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 15时39分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -654,6 +677,18 @@
           "time_info": "[01时54分 ~ 06时11分]"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时39分]"
+        },
+        {
           "title": "美股芯片股全线重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
@@ -663,17 +698,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
@@ -799,8 +823,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 15时39分]"
         },
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
@@ -910,7 +934,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
