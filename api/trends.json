@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T17:28:16.954174+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-06-27T19:27:17.940112+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -19,6 +19,19 @@
           "time_info": "[01时46分 ~ 10时56分]"
         },
         {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时27分]"
+        },
+        {
           "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
           "url": "https://flash.jin10.com/detail/20260627031556237800",
           "source": "金十数据",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时28分]"
         },
         {
           "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
@@ -54,6 +55,17 @@
           "time_info": "[01时46分 ~ 03时45分]"
         },
         {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
           "url": "https://wallstreetcn.com/livenews/3125432",
           "source": "华尔街见闻-快讯",
@@ -64,6 +76,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 05时18分]"
+        },
+        {
+          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
+          "url": "https://wallstreetcn.com/livenews/3125565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时27分]"
         },
         {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
@@ -110,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
-          "url": "https://wallstreetcn.com/livenews/3125565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普结束讲话。",
@@ -176,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "欧盟委员会发言人：（回应美国总统特朗普的威胁）欧盟及其成员国拥有在其领土内监管经济活动的主权权利。",
@@ -235,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时27分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -246,8 +270,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -258,8 +282,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时04分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时04分 ~ 19时27分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时27分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -273,15 +309,16 @@
           "time_info": "[01时46分 ~ 05时18分]"
         },
         {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时30分 ~ 19时27分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -293,17 +330,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时46分 ~ 07时05分]"
-        },
-        {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2026年06月26日（周五）美股热门股票行情一览（美股盘中）",
@@ -345,6 +371,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时27分]"
+        },
+        {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
           "source": "华尔街见闻",
@@ -355,17 +393,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 14时31分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -481,33 +508,36 @@
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek发布DSpark",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时27分]"
         },
         {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
           "url": "https://wallstreetcn.com/livenews/3125564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时27分]"
         }
       ]
     },
