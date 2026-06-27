@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T03:19:08.673507+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-06-28T05:02:25.232146+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -15,19 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
-          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
-          "url": "https://flash.jin10.com/detail/20260628025551765800",
+          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
+          "url": "https://flash.jin10.com/detail/20260628041744920800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+          "url": "https://flash.jin10.com/detail/20260628035930738800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
+          "url": "https://flash.jin10.com/detail/20260628035130525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -37,8 +59,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
+          "url": "https://flash.jin10.com/detail/20260628025551765800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 05时02分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -46,11 +80,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -60,8 +95,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
+          "url": "https://flash.jin10.com/detail/20260628033654937800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -88,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -99,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -110,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -122,8 +168,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         }
       ]
     },
@@ -136,11 +182,12 @@
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -150,8 +197,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -159,11 +206,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         }
       ]
     },
@@ -179,8 +227,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -190,8 +238,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时02分]"
         }
       ]
     }
