@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T11:39:43.876186+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-06-28T15:50:57.981838+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -24,11 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 11时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 15时50分]"
+        },
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -57,15 +70,15 @@
           "time_info": "[01时08分 ~ 07时02分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "15时50分"
         },
         {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
@@ -129,6 +142,41 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://wallstreetcn.com/livenews/3125614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
+        },
+        {
           "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
           "url": "https://flash.jin10.com/detail/20260628050053611800",
           "source": "金十数据",
@@ -151,15 +199,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://wallstreetcn.com/livenews/3125614",
-          "source": "华尔街见闻-快讯",
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "15时50分"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -173,26 +221,15 @@
           "time_info": "01时08分"
         },
         {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
+          "title": "特朗普怒查石油巨头是在作秀吗",
+          "url": "https://www.toutiao.com/trending/7656024928537284150/",
+          "source": "今日头条",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "15时50分"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美网友破防",
@@ -201,7 +238,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -212,7 +249,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -231,8 +268,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 11时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -243,8 +280,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 11时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -285,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 11时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -351,9 +388,26 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "15时50分"
         }
       ]
     },
@@ -368,9 +422,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 15时50分]"
         }
       ]
     }
