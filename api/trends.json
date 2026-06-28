@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T02:04:41.788963+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-29T04:13:05.952728+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -26,20 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -49,19 +37,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -71,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -83,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -95,8 +97,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -108,6 +110,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
+          "url": "https://flash.jin10.com/detail/20260629024615359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
+          "url": "https://flash.jin10.com/detail/20260629024517840800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -124,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -153,8 +177,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         }
       ]
     },
@@ -167,11 +191,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 04时13分]"
         }
       ]
     }
