@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:13:05.952728+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-06-29T06:02:02.828426+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -62,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -73,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -85,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -97,8 +97,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -118,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -129,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -145,11 +145,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -177,8 +178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         }
       ]
     },
@@ -195,8 +196,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         }
       ]
     }
