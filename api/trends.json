@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:32:27.874790+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-07-03T17:57:38.808126+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时57分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -142,17 +155,6 @@
           "time_info": "07时05分"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
           "url": "https://flash.jin10.com/detail/20260703055138280800",
           "source": "金十数据",
@@ -225,7 +227,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -302,7 +304,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -357,7 +359,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -474,11 +476,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时57分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -501,17 +516,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
@@ -553,7 +557,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -691,6 +695,56 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿里内部全面禁用Claude Code",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%E5%85%A8%E9%9D%A2%E7%A6%81%E7%94%A8Claude+Code",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "我决定卸载Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%B3%E5%AE%9A%E5%8D%B8%E8%BD%BDClaude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
@@ -801,23 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我决定卸载Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%B3%E5%AE%9A%E5%8D%B8%E8%BD%BDClaude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         }
       ]
     }
