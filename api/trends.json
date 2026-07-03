@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:57:38.808126+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-03T20:11:04.301640+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
@@ -49,11 +49,23 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 20时11分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
+          "time_info": "[20时10分 ~ 20时11分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -241,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "德国总理默茨：（就特朗普相关言论）将在下周举行的北约峰会上提及德国和欧洲提高对北约贡献的问题。",
+          "url": "https://flash.jin10.com/detail/20260703194631320800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "美国总统特朗普：赞赏美光和戴尔科技。 昨天与美光科技（高管）说过话，那可是一家炙手可热的公司。",
@@ -471,6 +494,18 @@
           "time_info": "05时06分"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 20时11分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -482,18 +517,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 17时57分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -696,8 +719,43 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 20时11分]"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 20时11分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
+        },
         {
           "title": "阿里内部全面禁用Claude Code",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%E5%85%A8%E9%9D%A2%E7%A6%81%E7%94%A8Claude+Code",
@@ -705,29 +763,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "曝阿里禁用Claude",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -746,8 +782,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://wallstreetcn.com/livenews/3128693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
         {
           "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
           "url": "https://www.zhihu.com/question/2056064893745193207",
