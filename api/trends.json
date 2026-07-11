@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:46:22.353031+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:54:45.721969+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -54,8 +54,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
+        },
+        {
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -73,26 +84,16 @@
           "time_info": "[00时57分 ~ 05时48分]"
         },
         {
-          "title": "两党住房法案未经特朗普签署自动生效",
-          "url": "https://flash.jin10.com/detail/20260712054924358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -132,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -144,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时54分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -156,8 +157,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     },
@@ -172,11 +173,12 @@
           "ranks": [
             13,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时54分]"
         }
       ]
     },
@@ -193,8 +195,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时54分]"
         }
       ]
     }
