@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:54:45.721969+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-12T10:36:28.495963+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时36分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -89,11 +90,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[05时48分 ~ 10时36分]"
         }
       ]
     },
@@ -133,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时36分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
