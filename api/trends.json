@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T13:57:45.378464+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-07-12T16:18:14.391538+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时48分 ~ 16时18分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -59,18 +73,15 @@
           "time_info": "[05时48分 ~ 07时54分]"
         },
         {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
-          "source": "华尔街见闻",
+          "title": "曝光特朗普临时换专机，美媒吃传票了",
+          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时48分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时18分]"
         },
         {
           "title": "两党住房法案未经特朗普签署自动生效",
@@ -99,15 +110,15 @@
           "time_info": "[00时57分 ~ 05时48分]"
         },
         {
-          "title": "曝光特朗普临时换专机，美媒吃传票了",
-          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
+          "url": "https://flash.jin10.com/detail/20260712152257294800",
+          "source": "金十数据",
           "ranks": [
-            5
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
@@ -116,7 +127,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -127,7 +138,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -167,11 +178,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 16时18分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -200,6 +212,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时54分]"
+        },
+        {
+          "title": "商业航天“DeepSeek时刻”到了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -222,29 +265,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时54分]"
         }
       ]
     }
