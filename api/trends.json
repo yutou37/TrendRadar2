@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-14T02:43:59.674163+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-14T04:14:12.016441+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
+          "url": "https://flash.jin10.com/detail/20260714034636545800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
         {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
           "url": "https://wallstreetcn.com/livenews/3133007",
@@ -19,15 +30,27 @@
           "time_info": "00时32分"
         },
         {
+          "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
+          "url": "https://flash.jin10.com/detail/20260714033602404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -37,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -48,8 +71,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
+        },
+        {
+          "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
+          "url": "https://wallstreetcn.com/livenews/3133037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "time_info": "[02时43分 ~ 04时14分]"
         },
         {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
@@ -58,9 +93,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国官员声称，总统特朗普将支持（国会山）对俄罗斯制裁的立法草案。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3133060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "联合国航运机构发言人：联合国航运机构正在等待关于美国总统特朗普提到的美国将对通过霍尔木兹海峡的货物收取20%费用的进一步细节。",
@@ -72,17 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
-          "url": "https://wallstreetcn.com/livenews/3133037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -105,6 +140,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普将于周五早上9点发表全国讲话",
+          "url": "https://flash.jin10.com/detail/20260714024650282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://wallstreetcn.com/livenews/3133047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://flash.jin10.com/detail/20260714024104744800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
@@ -131,8 +199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -142,8 +210,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -153,8 +221,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
@@ -163,7 +231,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         }
@@ -180,7 +248,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -189,11 +257,29 @@
           "url": "https://wallstreetcn.com/livenews/3133036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 04时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨0.3%，刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3133062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "04时14分"
         }
       ]
     }
