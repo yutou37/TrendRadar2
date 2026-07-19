@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:45:05.149764+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-20T05:51:49.372672+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 05时51分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -59,11 +59,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时51分]"
         },
         {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
@@ -71,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时51分]"
         },
         {
           "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
@@ -91,6 +93,18 @@
           "time_info": "[00时58分 ~ 04时45分]"
         },
         {
+          "title": "FIFA将大力神杯送入特朗普包厢",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 05时51分]"
+        },
+        {
           "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
           "url": "https://flash.jin10.com/detail/20260720012242848800",
           "source": "金十数据",
@@ -102,6 +116,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时45分]"
+        },
+        {
+          "title": "特朗普现身世界杯决赛看台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 05时51分]"
+        },
+        {
+          "title": "特朗普摸大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 05时51分]"
         },
         {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
@@ -126,39 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 04时45分]"
-        },
-        {
-          "title": "FIFA将大力神杯送入特朗普包厢",
-          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 04时45分]"
-        },
-        {
-          "title": "特朗普现身世界杯决赛看台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 04时45分]"
-        },
-        {
-          "title": "特朗普摸大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 04时45分]"
         }
       ]
     },
@@ -174,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -183,11 +188,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         }
       ]
     },
@@ -222,8 +228,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         }
       ]
     },
@@ -238,11 +244,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时51分]"
         }
       ]
     }
