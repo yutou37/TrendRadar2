@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:53:41.200069+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-07-19T10:34:07.381184+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时44分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[04时44分 ~ 10时34分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -53,6 +53,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时34分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -79,21 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 10时34分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -101,11 +102,23 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 10时34分]"
+        },
+        {
+          "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260719101247637800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -113,11 +126,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 10时34分]"
         },
         {
           "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
@@ -215,6 +229,17 @@
           "time_info": "[03时04分 ~ 04时45分]"
         },
         {
+          "title": "国际足联主席盛赞特朗普",
+          "url": "https://www.toutiao.com/trending/7662740721690640447/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "特朗普点评英格兰队战术",
           "url": "https://www.douyin.com/hot/2575689",
           "source": "抖音",
@@ -244,9 +269,49 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 10时34分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时49分]"
+        },
+        {
+          "title": "美股危险信号密集亮起",
+          "url": "https://www.toutiao.com/trending/7663914307377172018/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     },
@@ -264,11 +329,12 @@
             15,
             10,
             9,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 10时34分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -280,35 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时53分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时49分]"
         }
       ]
     },
@@ -339,11 +376,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时48分 ~ 10时34分]"
         }
       ]
     }
