@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:49:49.907974+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-07-22T23:41:04.440470+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 21时49分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 23时41分]"
         },
         {
           "title": "胡塞武装封锁红海？特朗普回应",
@@ -115,6 +115,18 @@
           "time_info": "06时55分"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时41分]"
+        },
+        {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
           "url": "https://www.cls.cn/detail/2433190",
           "source": "财联社热门",
@@ -174,16 +186,16 @@
           "time_info": "[10时30分 ~ 13时49分]"
         },
         {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时08分 ~ 21时49分]"
+          "time_info": "[21时49分 ~ 23时41分]"
         },
         {
           "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
@@ -291,7 +303,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -349,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -450,6 +451,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
+          "url": "https://wallstreetcn.com/livenews/3138289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
           "url": "https://flash.jin10.com/detail/20260721234532750800",
           "source": "金十数据",
@@ -503,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国贸易代表格里尔：昨日与加拿大贸易官员对话。 加拿大并没有提前知晓特朗普政府要对其加征50%的关税。",
+          "url": "https://wallstreetcn.com/livenews/3138287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "特朗普再设关税阶梯：仿制药税率两年后升至100%，随后翻倍至200%",
@@ -574,7 +597,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -586,8 +609,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时04分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 23时41分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -614,6 +637,18 @@
           "time_info": "[01时17分 ~ 06时55分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 23时41分]"
+        },
+        {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
           "url": "https://www.cls.cn/detail/2433245",
           "source": "财联社热门",
@@ -624,18 +659,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 13时49分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 21时49分]"
         },
         {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
@@ -689,6 +712,17 @@
           "time_info": "[06时55分 ~ 13时49分]"
         },
         {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -728,7 +762,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -739,7 +773,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -808,7 +842,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -874,7 +908,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -896,7 +930,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -948,7 +982,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -976,15 +1010,15 @@
           "time_info": "[13时49分 ~ 19时09分]"
         },
         {
-          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
-          "url": "https://wallstreetcn.com/livenews/3138239",
-          "source": "华尔街见闻-快讯",
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -992,11 +1026,34 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时41分]"
+        },
+        {
+          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
+          "url": "https://wallstreetcn.com/livenews/3138239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 21时49分]"
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -1010,13 +1067,24 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        },
+        {
           "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3138238",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1038,7 +1106,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1052,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
+          "url": "https://flash.jin10.com/detail/20260722230716718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -1157,9 +1236,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时41分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -1183,17 +1274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
@@ -1245,8 +1325,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时41分]"
         }
       ]
     },
