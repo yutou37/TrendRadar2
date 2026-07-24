@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T14:25:08.613707+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-07-24T17:21:08.092032+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -27,25 +27,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时14分 ~ 14时25分]"
-        },
-        {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 14时25分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 17时21分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -55,8 +42,46 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 17时21分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 17时21分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时25分]"
+          "time_info": "[14时24分 ~ 17时21分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -76,7 +101,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -136,17 +161,6 @@
           "time_info": "08时01分"
         },
         {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
           "url": "https://www.cls.cn/detail/2435732",
           "source": "财联社热门",
@@ -157,17 +171,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -275,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -360,7 +363,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -371,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时54分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[06时54分 ~ 17时21分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -420,8 +423,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "美股",
@@ -467,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -593,8 +607,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
@@ -631,6 +656,17 @@
           "time_info": "[01时21分 ~ 03时15分]"
         },
         {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
           "url": "https://flash.jin10.com/detail/20260724072353724800",
           "source": "金十数据",
@@ -664,6 +700,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "印度法院：对新闻机构ANI与OpenAI之间的版权争议拥有管辖权。",
+          "url": "https://flash.jin10.com/detail/20260724170650841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "OpenAI预计将大规模部署AMD Helios。",
           "url": "https://flash.jin10.com/detail/20260724010730197800",
           "source": "金十数据",
@@ -695,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "印度法院：OpenAI使用新闻机构ANI的内容进行人工智能训练并不构成版权侵权。",
+          "url": "https://flash.jin10.com/detail/20260724170428772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
@@ -833,6 +891,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -857,23 +943,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
         }
       ]
     }
