@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T02:06:22.921681+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-30T04:12:38.431894+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -61,19 +62,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
           "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "time_info": "[02时06分 ~ 04时12分]"
         },
         {
           "title": "距离美联储宣布决议声明不到60分钟，特朗普顾问：相信沃什会做正确的事",
@@ -82,9 +95,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
+          "url": "https://wallstreetcn.com/livenews/3141883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：希望乌克兰总统泽连斯基结束战事。",
+          "url": "https://wallstreetcn.com/livenews/3141882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "据以色列媒体：以色列官员称，内塔尼亚胡与特朗普的会晤讨论了针对伊朗的三个方案，包括协议、经济施压或大规模军事攻击。其中，对伊朗的经济施压正在增加，但军事选项仍在考虑中。",
@@ -104,7 +150,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -131,6 +177,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普：沃什想看到利率下跌",
+          "url": "https://wallstreetcn.com/livenews/3141877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "特朗普在葬礼上曝光逝者手机号",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -142,21 +199,32 @@
           "time_info": "00时21分"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
+          "title": "美国总统特朗普：英国首相伯纳姆应该开放北海。 伯纳姆曾告诉我，他会为了石油而开放北海。",
+          "url": "https://wallstreetcn.com/livenews/3141875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普：轮到我们袭击伊朗了",
+          "url": "https://wallstreetcn.com/livenews/3141873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -166,8 +234,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -188,19 +256,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040558653800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040555975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -212,6 +303,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美股收盘：道指跌超2% 美光科技跌近10%",
+          "url": "https://flash.jin10.com/detail/20260730040113498800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
+          "url": "https://flash.jin10.com/detail/20260730035000001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
@@ -226,7 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -237,7 +350,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -248,7 +361,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         }
@@ -256,7 +369,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
@@ -269,6 +382,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "谷歌公司在Google Flow Music推出Lyria 3.5。",
+          "url": "https://wallstreetcn.com/livenews/3141870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数在美联储决议声明发布日跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3141880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     }
