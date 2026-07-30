@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:06:50.735810+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-07-30T10:12:03.591798+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -14,11 +14,24 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 10时12分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时12分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -34,6 +47,19 @@
           "time_info": "[00时21分 ~ 04时12分]"
         },
         {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 10时12分]"
+        },
+        {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
           "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
           "source": "凤凰网",
@@ -45,6 +71,29 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 10时12分]"
+        },
+        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -54,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -100,18 +138,6 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
           "url": "https://wallstreetcn.com/livenews/3141924",
           "source": "华尔街见闻-快讯",
@@ -124,15 +150,15 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
           "ranks": [
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 07时06分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -153,7 +179,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -189,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普不骂沃什只骂委员会，美联储出现50年一遇的内部分裂",
+          "url": "https://flash.jin10.com/detail/20260730100152880800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -304,7 +341,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -316,6 +353,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 06时01分]"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时12分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 10时12分]"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -340,30 +403,6 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
           "title": "Meta美股盘后跌幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3141919",
           "source": "华尔街见闻-快讯",
@@ -374,6 +413,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
@@ -415,7 +476,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -426,7 +487,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -500,8 +561,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
           "url": "https://flash.jin10.com/detail/20260730014924073800",
@@ -531,7 +614,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -553,7 +636,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
