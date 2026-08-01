@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:18:20.052349+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-08-01T23:01:00.632415+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时44分 ~ 06时04分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 23时01分]"
+        },
+        {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
           "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
           "source": "凤凰网",
@@ -40,6 +53,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 17时06分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 23时01分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -76,19 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 21时18分]"
         },
         {
           "title": "特朗普已下令对伊朗发动新一轮攻击",
@@ -147,17 +160,18 @@
           "time_info": "00时45分"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            8,
-            9
+            15,
+            14,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时43分 ~ 21时18分]"
+          "time_info": "[17时06分 ~ 23时01分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基需要让步。",
@@ -220,17 +234,15 @@
           "time_info": "[06时04分 ~ 08时02分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            14,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时01分]"
         },
         {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
@@ -257,15 +269,16 @@
           "time_info": "[06时04分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时18分]"
+          "time_info": "[21时18分 ~ 23时01分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -278,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时01分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -346,17 +371,6 @@
           "time_info": "00时45分"
         },
         {
-          "title": "特朗普威胁参议员通过其司法部长人选",
-          "url": "https://flash.jin10.com/detail/20260801195052778800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "美国总统特朗普声称：我们只想赢（得伊朗战争）。 我们将非常沉重地打击他们。 未来数周将打击他们。",
           "url": "https://wallstreetcn.com/livenews/3143387",
           "source": "华尔街见闻-快讯",
@@ -388,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "美国总统特朗普：（关于国际足联）我们从未谈及交易。",
@@ -566,11 +569,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -650,6 +654,18 @@
           "time_info": "[14时28分 ~ 19时16分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时01分]"
+        },
+        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -674,25 +690,13 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时18分]"
-        },
-        {
           "title": "DeepSeekV4Flash 便宜",
           "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -755,11 +759,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 21时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 23时01分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -788,6 +793,20 @@
           "time_info": "[00时44分 ~ 21时18分]"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时01分]"
+        },
+        {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
@@ -799,19 +818,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 06时04分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时18分]"
         },
         {
           "title": "美股三大股指全线收涨",
