@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T04:54:25.455673+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-08-03T05:56:14.624115+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
@@ -36,20 +36,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803040451593800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时56分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -59,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -71,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -82,8 +71,31 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
+        },
+        {
+          "title": "金十整理：特朗普八次叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803044202027800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803040451593800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时56分]"
         },
         {
           "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
@@ -91,11 +103,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时56分]"
         },
         {
           "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
@@ -103,11 +116,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时56分]"
         },
         {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
@@ -118,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时56分]"
         },
         {
           "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
@@ -183,8 +197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -194,19 +208,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时56分]"
         }
       ]
     },
@@ -222,8 +237,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         }
       ]
     },
@@ -239,8 +254,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时56分]"
         }
       ]
     }
