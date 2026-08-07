@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-07T16:13:56.145671+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-08-07T18:01:43.272520+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 18时01分]"
+        },
         {
           "title": "特朗普签署行政令，宣布加征关税",
           "url": "https://news.ifeng.com/c/8vNvJb617ek",
@@ -31,19 +44,6 @@
           "time_info": "[07时57分 ~ 14时08分]"
         },
         {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 16时13分]"
-        },
-        {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
           "url": "https://www.cls.cn/detail/2447915",
           "source": "财联社热门",
@@ -56,6 +56,17 @@
           "time_info": "[10时38分 ~ 14时08分]"
         },
         {
+          "title": "特朗普：数据中心可能会比石油更重要",
+          "url": "https://flash.jin10.com/detail/20260807175232367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
           "url": "https://wallstreetcn.com/livenews/3146315",
           "source": "华尔街见闻-快讯",
@@ -65,6 +76,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 18时01分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时01分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -80,16 +116,15 @@
           "time_info": "[10时38分 ~ 16时13分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 16时13分]"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时01分]"
         },
         {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
@@ -115,26 +150,37 @@
           "time_info": "[12时54分 ~ 14时08分]"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
+          "title": "特朗普民调承压，内外交困陷入“流沙困境”",
+          "url": "https://flash.jin10.com/detail/20260807174925300800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时01分"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
+          "url": "https://wallstreetcn.com/livenews/3146606",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时01分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -181,6 +227,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "美国总统特朗普：人工智能比互联网大很多倍。",
+          "url": "https://flash.jin10.com/detail/20260807172841957800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "特朗普对多晶硅加征关税",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -190,6 +247,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：共和党选民对共和党人感到愤怒，对我不感到愤怒。我认为我们会赢得中期选举。",
+          "url": "https://flash.jin10.com/detail/20260807172823003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "特朗普下令调查美军弹药库存信息泄露",
+          "url": "https://wallstreetcn.com/livenews/3146595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -228,8 +307,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时01分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11,
+            18,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时01分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -255,19 +350,27 @@
           "time_info": "07时57分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
-            18,
-            19,
-            25
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 18时01分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 18时01分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -305,17 +408,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -325,23 +417,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -352,8 +433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 18时01分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -369,15 +450,37 @@
           "time_info": "[07时57分 ~ 14时08分]"
         },
         {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3146560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
