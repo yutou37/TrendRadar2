@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T04:39:42.399848+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-08-08T05:38:00.193985+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -15,19 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
-          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3146913",
+          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
+          "url": "https://wallstreetcn.com/livenews/3146922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时38分"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -86,6 +86,18 @@
           "time_info": "[02时54分 ~ 03时52分]"
         },
         {
+          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -98,16 +110,28 @@
           "time_info": "[00时53分 ~ 01时49分]"
         },
         {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时52分 ~ 05时38分]"
+        },
+        {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
           "url": "https://wallstreetcn.com/livenews/3146895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时38分]"
         },
         {
           "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
@@ -115,11 +139,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时38分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时39分]"
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -156,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时54分]"
-        },
-        {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时39分]"
         },
         {
           "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
@@ -209,7 +234,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -234,17 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -359,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -371,8 +385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -382,8 +396,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -407,8 +421,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -419,8 +433,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -429,20 +443,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3146912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -451,9 +454,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3146912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -462,9 +477,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         }
       ]
     },
@@ -480,8 +495,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -491,8 +506,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时52分 ~ 05时38分]"
         }
       ]
     },
@@ -509,8 +524,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时38分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -564,11 +579,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时38分]"
         }
       ]
     }
