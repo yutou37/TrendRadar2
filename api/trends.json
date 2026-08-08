@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T18:31:46.181237+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-08-08T19:27:29.614921+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -28,11 +28,12 @@
             7,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 19时27分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -47,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时52分 ~ 18时31分]"
+          "appearance_count": 19,
+          "time_info": "[03时52分 ~ 19时27分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -170,6 +171,17 @@
           "time_info": "[05时38分 ~ 09时25分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 19时27分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
           "url": "https://flash.jin10.com/detail/20260808035911250800",
           "source": "金十数据",
@@ -180,6 +192,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时39分 ~ 09时25分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -204,17 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
-        },
-        {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -254,16 +268,15 @@
           "time_info": "[11时24分 ~ 12时56分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时31分]"
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -325,17 +338,6 @@
           "time_info": "[12时55分 ~ 12时56分]"
         },
         {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
           "url": "https://flash.jin10.com/detail/20260808031924352800",
           "source": "金十数据",
@@ -345,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
+          "url": "https://flash.jin10.com/detail/20260808183100642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -516,8 +529,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 19时27分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -542,8 +555,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -557,8 +570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时33分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[06时33分 ~ 19时27分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -639,11 +652,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -710,8 +724,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 19时27分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -722,11 +736,12 @@
             14,
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时52分 ~ 18时31分]"
+          "appearance_count": 19,
+          "time_info": "[03时52分 ~ 19时27分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -800,11 +815,12 @@
             20,
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 19时27分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -831,8 +847,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 19时27分]"
         }
       ]
     },
