@@ -1,47 +1,12 @@
 {
-  "generated_at": "2026-08-12T21:04:50.458644+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-08-13T03:14:59.444153+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 21时04分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 09时48分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时03分]"
-        },
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
           "url": "https://news.ifeng.com/c/8vX5eliYwTC",
@@ -49,32 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时02分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时06分]"
+          "time_info": "03时14分"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -83,351 +25,192 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
-          "url": "https://wallstreetcn.com/livenews/3148157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "03时14分"
         },
         {
-          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3148156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "特朗普承认：悄悄换乘飞机了",
-          "url": "https://wallstreetcn.com/livenews/3148388",
-          "source": "华尔街见闻-快讯",
+          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
+          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "03时14分"
         },
         {
-          "title": "特朗普：我不信任伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3148320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普以安全理由为其在土耳其更换座机一事辩护。",
-          "url": "https://wallstreetcn.com/livenews/3148319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普谈及第三任期：我很想竞选连任，但法律很严密。",
-          "url": "https://wallstreetcn.com/livenews/3148317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
-          "url": "https://flash.jin10.com/detail/20260811224133543800",
-          "source": "金十数据",
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
-          "url": "https://flash.jin10.com/detail/20260812111839439800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3148313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "03时14分"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普躲避暗杀更多细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "DeepSeek",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时03分]"
-        },
-        {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
-          "source": "财联社热门",
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 12时06分]"
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时03分]"
-        },
-        {
-          "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元，又走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3148634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "03时14分"
         },
         {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 12时06分]"
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
-          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
-          "url": "https://wallstreetcn.com/livenews/3148557",
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
+          "url": "https://wallstreetcn.com/livenews/3148708",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
-        },
+          "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "散户观望，机构掉队！惨淡情绪下，美股即将出现新机会？",
-          "url": "https://flash.jin10.com/detail/20260811230408718800",
+          "title": "消息人士：谷歌重组部门全力发展Gemini",
+          "url": "https://flash.jin10.com/detail/20260813021710644800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "03时14分"
         },
         {
-          "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
-          "url": "https://wallstreetcn.com/livenews/3148503",
+          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://wallstreetcn.com/livenews/3148728",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "03时14分"
         },
         {
-          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3148615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3148604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数11日上涨",
-          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
+          "url": "https://flash.jin10.com/detail/20260813013509723800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
-          "url": "https://wallstreetcn.com/livenews/3148221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
-          "url": "https://flash.jin10.com/detail/20260812172851182800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
-          "url": "https://www.zhihu.com/question/2070452772391194651",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 09时48分]"
-        },
-        {
-          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
-          "url": "https://www.zhihu.com/question/2070443311802867884",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天",
-          "url": "https://wallstreetcn.com/livenews/3148608",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
+          "time_info": "03时14分"
+        },
         {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
+          "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://flash.jin10.com/detail/20260813013427834800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            2
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 12时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
         {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
+          "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
+          "url": "https://wallstreetcn.com/livenews/3148713",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     }
