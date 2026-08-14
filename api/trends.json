@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T18:00:39.367996+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-08-14T22:49:23.213906+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -55,17 +55,6 @@
           "time_info": "[03时14分 ~ 09时47分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
-        },
-        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -77,6 +66,18 @@
           "time_info": "[03时14分 ~ 06时40分]"
         },
         {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 22时49分]"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
           "url": "https://flash.jin10.com/detail/20260814040533982800",
           "source": "金十数据",
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3149807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "以色列发警报迫使特朗普换机，美中情局质疑以方用意",
@@ -110,6 +122,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149281",
           "source": "华尔街见闻-快讯",
@@ -131,17 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 14时13分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时00分]"
         },
         {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
@@ -378,7 +390,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -386,11 +398,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时14分 ~ 18时00分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 22时49分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -480,6 +493,19 @@
           "time_info": "[03时14分 ~ 09时47分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 22时49分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -515,18 +541,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时14分 ~ 06时40分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时00分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -633,12 +647,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 06时40分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -731,6 +778,39 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美股三大股指均转跌。",
+          "url": "https://flash.jin10.com/detail/20260814222241849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "Reddit(RDDT.N)美股盘后涨超12%。",
           "url": "https://flash.jin10.com/detail/20260814053317827800",
           "source": "金十数据",
@@ -740,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -766,8 +857,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 22时49分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -787,7 +878,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时00分"
         },
