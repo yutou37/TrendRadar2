@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:47:53.190472+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-08-14T12:08:22.820293+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -71,9 +71,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
+          "url": "https://flash.jin10.com/detail/20260814114351665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
@@ -88,6 +110,17 @@
           "time_info": "[03时15分 ~ 04时41分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -99,15 +132,26 @@
           "time_info": "[06时39分 ~ 06时40分]"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
+          "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://wallstreetcn.com/livenews/3149448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
@@ -165,6 +209,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "美国总统特朗普周五日程一览",
+          "url": "https://flash.jin10.com/detail/20260814112349203800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
           "url": "https://flash.jin10.com/detail/20260814053520853800",
           "source": "金十数据",
@@ -204,7 +259,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -281,39 +336,29 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时14分 ~ 09时47分]"
-        },
-        {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时14分 ~ 09时47分]"
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 12时08分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时14分 ~ 09时47分]"
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 12时08分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -323,6 +368,18 @@
             3,
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 12时08分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -396,7 +453,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -405,11 +462,12 @@
           "url": "https://www.douyin.com/hot/2608709",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -424,6 +482,54 @@
           "time_info": "[03时14分 ~ 04时41分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
+          "url": "https://www.zhihu.com/question/2071225352072999482",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
           "title": "DeepSeek Harness公测",
           "url": "https://www.baidu.com/s?wd=DeepSeek+Harness%E5%85%AC%E6%B5%8B",
           "source": "百度热搜",
@@ -433,50 +539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 06时40分]"
-        },
-        {
-          "title": "为什么DeepSeek越涨价越是价格屠夫",
-          "url": "https://www.toutiao.com/trending/7673637537293798953/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
-          "url": "https://www.zhihu.com/question/2071225352072999482",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         }
       ]
     },
@@ -508,6 +570,17 @@
           "time_info": "[03时14分 ~ 06时40分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时08分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260814040642401800",
           "source": "金十数据",
@@ -517,17 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
@@ -725,7 +787,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -770,7 +832,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
