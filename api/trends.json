@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:30:24.512944+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-08-16T16:27:53.224489+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 15时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 16时27分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时27分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 16时27分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -64,8 +64,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 16时27分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -128,6 +128,18 @@
           "time_info": "[07时19分 ~ 09时11分]"
         },
         {
+          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
+          "url": "https://flash.jin10.com/detail/20260816130111375800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 16时27分]"
+        },
+        {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
           "url": "https://flash.jin10.com/detail/20260816090134155800",
           "source": "金十数据",
@@ -140,6 +152,18 @@
           "time_info": "[11时51分 ~ 12时34分]"
         },
         {
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 16时27分]"
+        },
+        {
           "title": "特朗普为何要求航母改回蒸汽弹射",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
           "source": "bilibili 热搜",
@@ -149,28 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
-          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
-          "url": "https://flash.jin10.com/detail/20260816130111375800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
-          "url": "https://flash.jin10.com/detail/20260816123425273800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
         }
       ]
     },
@@ -188,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 15时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 16时27分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -200,8 +202,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 16时27分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -210,22 +212,24 @@
           "ranks": [
             7,
             9,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 16时27分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时27分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -275,11 +279,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 16时27分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -318,11 +323,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 16时27分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -332,8 +338,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时27分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -342,7 +348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
@@ -361,8 +367,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 15时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 16时27分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -371,11 +377,12 @@
           "ranks": [
             11,
             13,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 15时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 16时27分]"
         }
       ]
     }
